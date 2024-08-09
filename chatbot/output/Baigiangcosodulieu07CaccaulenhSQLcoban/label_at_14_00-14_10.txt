@@ -1,0 +1,2 @@
+[14:00 ---> 14:10]
+chúng ta có thể sử dụng câu lệnh mother table như ở dòng 1 và

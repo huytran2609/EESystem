@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+thiết kế các biểu đồ quan hệ để làm sao cho khi chúng ta cần nối lại thì nó không sinh ra các bộ giả và để làm như vậy thì

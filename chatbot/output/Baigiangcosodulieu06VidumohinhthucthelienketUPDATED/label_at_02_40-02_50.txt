@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+tập thể nhân viên có thuộc tính khóa là mã nhân viên các thuộc tính đơn là ngày sinh

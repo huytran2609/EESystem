@@ -1,0 +1,2 @@
+[15:00 ---> 15:10]
+9K R là đang hướng dẫn chuẩn 2nf và 0% 3 nf để chuyển hóa r về ba nén

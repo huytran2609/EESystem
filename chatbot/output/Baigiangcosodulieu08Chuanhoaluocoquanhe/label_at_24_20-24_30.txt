@@ -1,0 +1,2 @@
+[24:20 ---> 24:30]
+phụ thuộc hàm bộ phận và một khóa bất kỳ của R nào khác với quy định nghĩa của đạo truyền 2 dựa trên khóa chính định nghĩa

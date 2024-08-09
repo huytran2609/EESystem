@@ -1,0 +1,2 @@
+[39:10 ---> 39:20]
+phía ngoài là chúng ta duyệt qua tất cả các khu vực hàm có trong g vòng phong thủy trong chúng ta duyệt qua tất cả các thuộc tính

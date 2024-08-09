@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+kiểu liên kết quản lý có một thuộc tính là ngày bắt đầu dùng để chỉ ngày bắt đầu tham gia quản lý một đơn vị của một nhân viên

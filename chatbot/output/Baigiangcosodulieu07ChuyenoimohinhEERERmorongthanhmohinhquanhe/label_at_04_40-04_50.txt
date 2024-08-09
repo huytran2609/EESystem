@@ -1,0 +1,2 @@
+[04:40 ---> 04:50]
+tức là mỗi thực thể của lớp cha phải thuộc ít nhất một lớp con nào đó chúng ta chỉ nên sử dụng cách chuyển đổi này khi các lớp con là rời rạc

@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+tham gia toàn bộ và Eva tương tự như vậy đối với b và c thì khi đó chúng ta sẽ chuyển được một cái liên kết cấp 3 thành 3 liên kết

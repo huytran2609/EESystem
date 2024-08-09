@@ -1,0 +1,2 @@
+[29:00 ---> 29:10]
+tập tất cả các thuộc tính của R thì k - a chính là một siêu khóa của R và do đó kết thúc

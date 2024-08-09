@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+suy diễn trực tuyến khi mà cần chỉ rõ tập phụ thuộc hàm thì chúng ta có thể ký hiệu bao đóng của x dưới F là x + f

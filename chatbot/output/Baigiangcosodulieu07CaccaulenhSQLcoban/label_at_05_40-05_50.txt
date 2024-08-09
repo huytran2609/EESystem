@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+chuỗi tên Dự án 30 lần cho nên dữ liệu đưa vào có độ dài là 270 ký tự vượt quá giới hạn lưu trữ của

@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+lược đồ quan hệ cung cấp có khóa chính chỉ gồm có hai thuộc tính là mã vật tư và mang dự án

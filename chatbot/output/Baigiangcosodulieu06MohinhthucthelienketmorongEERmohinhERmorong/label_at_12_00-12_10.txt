@@ -1,0 +1,2 @@
+[12:00 ---> 12:10]
+tôi là viết tắt của Union có ký hiệu tập con để chỉ ra rằng chủ sở hữu là tập con của hợp

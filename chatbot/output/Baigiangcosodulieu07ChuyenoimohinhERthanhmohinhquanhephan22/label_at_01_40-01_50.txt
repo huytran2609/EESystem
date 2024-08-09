@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+3 kiểu thực thể là đại lý vật tư và dự án với các khóa chính tương ứng là số đăng ký mã

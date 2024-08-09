@@ -1,0 +1,2 @@
+[23:20 ---> 23:30]
+không khóa các dạng chuẩn mà chúng ta vừa nghiên cứu đều dựa vào khóa chính của lược đồ quan hệ

@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+tự như vậy chúng ta cũng tạo được hai lược đồ quan hệ đơn vị và dự án tương ứng với hai thực thể đơn vị và dự án

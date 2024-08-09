@@ -1,0 +1,2 @@
+[26:10 ---> 26:20]
+địa điểm và số giờ và các phụ thuộc hàm trên R thì được thể hiện trên đồ thị này chúng ta đã tính được bao đóng

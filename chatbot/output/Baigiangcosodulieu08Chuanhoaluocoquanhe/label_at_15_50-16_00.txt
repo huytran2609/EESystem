@@ -1,0 +1,2 @@
+[15:50 ---> 16:00]
+làm việc với các thuộc tính mã nhân viên họ tên ngày sinh mã đơn vị tên đơn vị mã dự án và tên dự án

@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+một thực thể nhân viên không nhất thiết phải tham gia vào một trong ba lớp con Thư Ký kỹ thuật viên hoặc là kỹ sư

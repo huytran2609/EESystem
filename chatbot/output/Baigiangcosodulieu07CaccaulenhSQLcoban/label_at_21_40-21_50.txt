@@ -1,0 +1,2 @@
+[21:40 ---> 21:50]
+để thực hiện phép nối ngoài đầy đủ tiếp theo là các hàm nhóm và phép nhóm câu lệnh nhóm của dòng 1

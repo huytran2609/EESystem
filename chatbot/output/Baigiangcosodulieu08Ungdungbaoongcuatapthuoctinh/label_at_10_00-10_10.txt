@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+chìa khóa này cho đến khi tìm được một chìa khóa tối thiểu đầu tiên chúng

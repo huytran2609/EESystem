@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+khóa và toàn vẹn Tham chiếu và phép chèn có thể vi phạm cả ba cái loại ràng buộc này Bây giờ chúng ta xét lại cái lược đồ dự án

@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+sau đó với mỗi lược đồ leni chúng ta tạo khóa ngoài sari tham chiếu đến khóa đại diện SR

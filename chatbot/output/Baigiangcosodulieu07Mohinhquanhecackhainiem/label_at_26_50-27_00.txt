@@ -1,0 +1,2 @@
+[26:50 ---> 27:00]
+mèo tam thể và 10 thế thì trong trường hợp này chúng ta thấy rằng là cái cơ sở dữ liệu db2 này không thỏa

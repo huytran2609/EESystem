@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+mỗi nhân viên có thể có một người giám sát trực tiếp và người đó cũng là một nhân viên thứ tư mỗi nhân viên

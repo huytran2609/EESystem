@@ -1,0 +1,2 @@
+[25:00 ---> 25:10]
+Nếu với mọi phụ thuộc hàm có dạng x Xác định hàm a thỏa mãn trong R thì ta đều có x là một siêu khóa của R

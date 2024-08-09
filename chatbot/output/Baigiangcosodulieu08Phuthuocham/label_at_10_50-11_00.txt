@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+đồng thời T1 và T2 bằng nhau trên xz do đó là chúng sẽ bằng nhau trên Z và

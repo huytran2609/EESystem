@@ -1,0 +1,2 @@
+[42:10 ---> 42:20]
+hiện có trong Google hay không thì chúng ta có là vì a xác định hàm C A xác định hàm D Cho nên theo quy tắc hợp Chúng ta có a xác định hàm

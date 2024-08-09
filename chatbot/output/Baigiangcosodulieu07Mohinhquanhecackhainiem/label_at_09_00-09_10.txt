@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+công dân số chứng minh nhân dân họ tên ngày sinh giới tính trong đó số chứng minh nhân dân là có gạch chân để chỉ ra nó là thuộc tính khóa

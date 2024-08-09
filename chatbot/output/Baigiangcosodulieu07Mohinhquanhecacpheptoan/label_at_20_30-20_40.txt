@@ -1,0 +1,2 @@
+[20:30 ---> 20:40]
+các ký hiệu kết quả là vì sao và nó là kết quả phép nối tự nhiên giữa đơn vị và dự án trên cái thuộc tính

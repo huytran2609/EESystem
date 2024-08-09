@@ -1,0 +1,2 @@
+[25:00 ---> 25:10]
+chúng ta sẽ áp dụng thuật toán tìm báo đóng của các thuộc tính và kiểm tra xem báo đóng của

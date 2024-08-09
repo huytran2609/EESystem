@@ -1,0 +1,2 @@
+[31:30 ---> 31:40]
+A + = A + Bao đóng của hai vectơ AB đó là bằng nhau để kiểm tra xem là một tập phụ thuộc

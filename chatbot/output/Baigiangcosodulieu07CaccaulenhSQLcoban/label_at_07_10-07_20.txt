@@ -1,0 +1,2 @@
+[07:10 ---> 07:20]
+hát chèo ở dòng 1 2 được chấp nhận vì không vi phạm luật nào

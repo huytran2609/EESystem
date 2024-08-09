@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+quả chính mã đơn vị của bảng đơn vị trong quá trình thử nghiệm các lệnh SQL thì thường chúng ta sẽ có

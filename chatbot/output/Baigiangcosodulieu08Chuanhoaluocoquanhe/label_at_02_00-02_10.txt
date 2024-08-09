@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+Và đây là cái tính chất bắt buộc phải đạt được khi mà chúng ta tách các lược đồ quan hệ và tính chất thứ hai là bảo toàn các phụ thuộc trong một số trường hợp

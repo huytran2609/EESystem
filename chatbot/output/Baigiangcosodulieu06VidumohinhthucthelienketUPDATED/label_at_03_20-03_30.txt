@@ -1,0 +1,2 @@
+[03:20 ---> 03:30]
+đơn vị là thuộc tính đơn và địa điểm là thuộc tính đa trị có nghĩa là một đơn vị có thể có nhiều địa điểm khác nhau

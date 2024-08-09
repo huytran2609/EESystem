@@ -1,0 +1,2 @@
+[23:10 ---> 23:20]
+không có phụ thuộc hàm bắc cầu và quá trình và cuối cùng là đối với BC lá thì chúng ta không có thuộc tính khóa phụ thuộc hàm vào thuộc tính

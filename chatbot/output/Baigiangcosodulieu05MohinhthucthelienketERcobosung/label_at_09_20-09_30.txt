@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+tương tự như vợ chồng kiểu thực thể thì một cái kiểu liên kết r giữa n kiểu thực thể là 1,2

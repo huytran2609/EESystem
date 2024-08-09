@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+tương tự như vậy chúng ta thể hiện các ràng buộc cho rb và RC

@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+thêm một tập thuộc tính đó là chìa khóa hay không để làm điều này thì chúng ta áp dụng thuật toán tìm báo đóng Và nếu như bao đóng của một tập thuộc tính

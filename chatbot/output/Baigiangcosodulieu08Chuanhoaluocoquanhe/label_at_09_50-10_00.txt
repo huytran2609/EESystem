@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+đồ quan hệ ở dạng chuẩn 1 ns và r0 là dạng chuẩn 2nf chúng ta gọi k là khóa chính của R

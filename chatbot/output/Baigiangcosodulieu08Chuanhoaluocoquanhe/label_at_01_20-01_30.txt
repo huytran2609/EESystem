@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+chuẩn hóa dữ liệu có thể được xem là quá trình phân tích và tách các lược đồ quan hệ nhằm đạt được hai mục tiêu chính mục tiêu thứ nhất là cực tiểu hóa sự dư

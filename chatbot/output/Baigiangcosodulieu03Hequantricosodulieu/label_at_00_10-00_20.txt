@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+Một hệ quản trị cơ sở dữ liệu và thuật ngữ tiếng Anh viết là database management system viết tắt là ppms

@@ -1,0 +1,2 @@
+[38:10 ---> 38:20]
+bài tập toán tìm một vụ tối thiểu cho một tập Phụ thuộc hàng đầu vào của thuật toán là một lược đồ quan hệ R và tập phụ thuộc hàm f

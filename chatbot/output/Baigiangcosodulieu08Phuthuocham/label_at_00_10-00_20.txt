@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+liên quan đến phụ thuộc hàm và các kết quả liên quan đầu tiên là khái niệm phụ thuộc hàm chúng ta

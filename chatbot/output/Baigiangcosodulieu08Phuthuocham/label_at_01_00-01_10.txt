@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+y được kí hiệu là X với cái dấu mũi tên Sang y trong đó x thì sẽ được gọi là vế trái và I là vế phải của vật thực hàng chúng ta

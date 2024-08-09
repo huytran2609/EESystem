@@ -1,0 +1,2 @@
+[12:00 ---> 12:10]
+các hàng thỏa mãn điều kiện chọn từ một bảng câu lệnh SQL tương ứng là select sao

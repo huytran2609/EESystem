@@ -1,0 +1,2 @@
+[26:00 ---> 26:10]
+ví dụ trước với lược đồ quan hệ r gồm có các thuộc tính là mã nhân viên họ tên mã dự án tên dự án

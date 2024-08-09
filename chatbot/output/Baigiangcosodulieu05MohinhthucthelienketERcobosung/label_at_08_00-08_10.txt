@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+hàm số chứng minh nhân dân là một khóa bởi vì hai người khác nhau thì sẽ có luôn luôn có hai số chứng minh thư nhân dân

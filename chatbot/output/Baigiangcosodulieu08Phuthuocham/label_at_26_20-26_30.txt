@@ -1,0 +1,2 @@
+[26:20 ---> 26:30]
+của tập thuộc tính mã nhân viên mã dự án là bằng tập tất cả các thuộc tính của R chúng ta tính được bao đóng của mã nhân viên chính

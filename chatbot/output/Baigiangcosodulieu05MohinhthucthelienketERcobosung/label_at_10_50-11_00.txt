@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+mối quan hệ giữa hai kiểu thực thể nhân viên và đơn vị thì mối quan hệ này là nhân viên làm việc

@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+value trong đó PK là khóa chính và valin có kiểu xâu ký tự Sau đó chúng ta chèn vào bảng My tap 2 bản ghi với các bộ giá trị là 1 a

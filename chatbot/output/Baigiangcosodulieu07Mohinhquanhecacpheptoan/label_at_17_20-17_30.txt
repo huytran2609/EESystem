@@ -1,0 +1,2 @@
+[17:20 ---> 17:30]
+Thế thì chúng ta có thể định nghĩa phép nối theo một cách khác đó là r và nối với s

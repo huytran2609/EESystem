@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+có cái đường liên kết này thôi mà không có cái đường dẫn này thì chúng ta cũng sẽ hiểu là tỉ số lực lượng 1 thì khi mà chúng ta có tỉ số lực

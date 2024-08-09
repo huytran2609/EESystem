@@ -1,0 +1,2 @@
+[15:20 ---> 15:30]
+thời tiết temporary table câu lệnh ở dòng 1 đổi

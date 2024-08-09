@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+để xem thông tin về bảng đơn vị vừa tạo ở trong pubg SQL chúng ta sử dụng lệnh dấu gạch ngược D

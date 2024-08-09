@@ -1,0 +1,2 @@
+[11:10 ---> 11:20]
+ràng buộc tham chiếu câu lệnh ở dòng 1 vi phạm luật giao giá trị mới dv7

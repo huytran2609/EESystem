@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+vật tư dự án tương ứng với 3 kiểu thực thể nói trên khóa chính của 3 lược đồ này là số đăng ký mã vật tư

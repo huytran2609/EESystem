@@ -1,0 +1,2 @@
+[21:00 ---> 21:10]
+chấm mã đơn vị và do đó là dữ liệu dư thừa đã được loại bỏ khỏi kết quả

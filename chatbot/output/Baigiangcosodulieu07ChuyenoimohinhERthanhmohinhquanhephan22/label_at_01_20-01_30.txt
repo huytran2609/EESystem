@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+ràng buộc lực lượng của một kiểu thực thể ai nào đó khi tham gia vào liên kết là 1 thì khóa chính của r12 Vân n sẽ

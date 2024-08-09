@@ -1,0 +1,2 @@
+[12:30 ---> 12:40]
+như trong câu lệnh là dòng số 7 phép chiếu chọn một số

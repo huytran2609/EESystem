@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+để xác nhận xem lược đồ đó có thỏa mãn một số điều kiện nhất định hay không và sau này thì các cái điều kiện này

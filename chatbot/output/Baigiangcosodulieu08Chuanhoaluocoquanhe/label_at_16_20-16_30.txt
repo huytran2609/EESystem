@@ -1,0 +1,2 @@
+[16:20 ---> 16:30]
+hàng thứ nhất là mã nhân viên Xác định hàm tất cả các thuộc tính còn lại của lược đồ bởi vì mã nhân viên là khóa chính

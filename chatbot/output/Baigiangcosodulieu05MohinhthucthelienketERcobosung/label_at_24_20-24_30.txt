@@ -1,0 +1,2 @@
+[24:20 ---> 24:30]
+Thế thì chúng ta sẽ tạo ra một kiểu liên kết là con và ý nghĩa của nó là chúng ta sẽ xác định được

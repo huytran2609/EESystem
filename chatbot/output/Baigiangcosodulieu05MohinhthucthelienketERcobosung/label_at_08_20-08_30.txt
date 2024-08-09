@@ -1,0 +1,2 @@
+[08:20 ---> 08:30]
+không có khóa mà chúng ta gọi đó là các thực thể yếu về các thực thể mà có khóa thì được gọi còn được gọi là thực thể

@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+tên họ tên và ngày sinh và tiêu hóa này thì không không là chìa khóa tối thiểu bởi vì chúng ta có thể

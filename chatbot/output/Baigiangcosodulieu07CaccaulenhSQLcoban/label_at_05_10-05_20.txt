@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+hát chèo sử dụng câu lệnh Insert into sau đó chỉ ra tên bảng tên các cột và danh

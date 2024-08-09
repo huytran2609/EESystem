@@ -1,0 +1,2 @@
+[24:10 ---> 24:20]
+chứng khoán và kiểu thực thể nhân viên thì là một kiểu tư thế mạnh của chúng ta xác định được thuộc tính khóa là mã nhân viên

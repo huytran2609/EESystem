@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+đóng của A6 Sau khi thực hiện Thuật toán tính báo đóng thì chúng ta có bao đóng của 36 là một tập thuộc tính

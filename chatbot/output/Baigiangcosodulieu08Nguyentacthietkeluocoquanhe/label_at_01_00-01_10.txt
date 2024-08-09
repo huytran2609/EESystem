@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+dưới lên có điểm xuất phát là mối quan hệ giữa các thuộc tính riêng rẽ sau đó thì người thiết kế sẽ sử dụng các quan hệ này để xây dựng các

@@ -1,0 +1,2 @@
+[17:50 ---> 18:00]
+hoặc nhiều nhân viên khác do đó chúng ta sẽ chọn ràng buộc là optional và mani với vai trò bị giám sát

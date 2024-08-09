@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+phim sex Thông thường ở dòng 14 sẽ báo lỗi vi phạm một khóa do giá trị khóa BK = 1 đã tồn tại

@@ -1,0 +1,2 @@
+[08:40 ---> 08:50]
+có cùng thuộc tính khóa khi có lúc Quang Trung không có cùng thuộc tính khóa chúng ta phải sử dụng cách chuyển đổi kiểu hợp

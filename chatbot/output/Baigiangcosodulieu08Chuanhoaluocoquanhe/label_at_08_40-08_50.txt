@@ -1,0 +1,2 @@
+[08:40 ---> 08:50]
+Một phụ thuộc hàm X xác định y là một phụ thuộc hàm đầy đủ Nếu như vế trái X của phụ thuộc hàng đó

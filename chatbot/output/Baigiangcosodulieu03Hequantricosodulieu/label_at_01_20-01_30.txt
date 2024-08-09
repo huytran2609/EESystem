@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+một cái mục đích chung và có thể sử dụng cho nhiều ứng dụng nhưng mà cũng có một số hệ quản trị cơ sở dữ liệu là chuyên dụng và người ta

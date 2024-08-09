@@ -1,0 +1,2 @@
+[20:50 ---> 21:00]
+lược đồ quan hệ phải luôn luôn có giá trị xác định nghĩa là giá trị của khóa chính ở Bắc Bộ là không được phép là null

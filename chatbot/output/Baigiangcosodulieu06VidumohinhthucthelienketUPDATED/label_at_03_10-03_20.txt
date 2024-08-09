@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+kiểu thực thể đơn vị có mã đơn vị là thuộc tính khóa

@@ -1,0 +1,2 @@
+[11:30 ---> 11:40]
+quan hệ lược đồ quan hệ nhân viên dự án không phải là 2 nf do họ tên

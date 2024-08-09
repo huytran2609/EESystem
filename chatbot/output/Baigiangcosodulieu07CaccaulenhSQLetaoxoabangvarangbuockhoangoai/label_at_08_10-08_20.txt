@@ -1,0 +1,2 @@
+[08:10 ---> 08:20]
+chỉ có mũi tên đi ra chứ không có mũi tên đi đến sau khi một bảng bị xóa đi thì tất cả các ràng buộc Liên

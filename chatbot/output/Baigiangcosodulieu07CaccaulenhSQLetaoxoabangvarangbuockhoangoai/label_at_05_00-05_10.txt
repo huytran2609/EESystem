@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+khóa chính trong đó tham chiếu khóa ngoài của chính thứ nhất là mã đơn vị của nhân viên tham chiếu đến khóa chính mã đơn vị

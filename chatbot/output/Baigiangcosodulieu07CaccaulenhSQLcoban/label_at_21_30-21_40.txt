@@ -1,0 +1,2 @@
+[21:30 ---> 21:40]
+hoàng thì không hỗ trợ phép toán này do đó ở trong mysql chúng ta cần hợp kết quả của lối ngoài trái và nối ngoại

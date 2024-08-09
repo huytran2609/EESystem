@@ -1,0 +1,2 @@
+[07:50 ---> 08:00]
+giàn chuyên biệt hóa một lớp con có từ hai lớp cha trở lên thì được gọi là lớp con chung như vậy chúng ta

@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+có đặt câu hỏi là có phải hai vai trò giám sát và bị giám sát của kiểu liên kết nội quy giám sát là

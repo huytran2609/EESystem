@@ -1,0 +1,2 @@
+[12:40 ---> 12:50]
+ta sử dụng tên vai trò để chỉ rõ cái vai trò của các kiểu thực thể người tham gia liên kết tự nhiên là trong nhiều

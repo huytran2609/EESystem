@@ -1,0 +1,2 @@
+[04:20 ---> 04:30]
+để cập nhật bản ghi có giá trị pk = 1 Nếu như bản ghi đã tồn tại có hai cách thực hiện trong máy SQL là sử dụng câu lệnh replace into

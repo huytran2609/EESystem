@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+nhiều bộ giá trị ở trong mối quan hệ và phép toán này có thể vi phạm buộc tham chiếu nếu như cái bộ bị xóa

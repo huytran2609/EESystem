@@ -1,0 +1,2 @@
+[07:30 ---> 07:40]
+không là chìa khóa với mọi s là tập con của K

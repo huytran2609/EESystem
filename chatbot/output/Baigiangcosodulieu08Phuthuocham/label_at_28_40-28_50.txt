@@ -1,0 +1,2 @@
+[28:40 ---> 28:50]
+với mỗi một cái thuộc tính hiện có ở trong cả là A Giá trị chúng ta sẽ tính

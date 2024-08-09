@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+dòng thứ 3 là 8 phút thứ hai và dòng cuối cùng là báo cáo nếu chúng ta muốn in các bước thực hiện

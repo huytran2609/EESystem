@@ -1,0 +1,2 @@
+[19:00 ---> 19:10]
+K sẽ là khóa ngoài của R2 tham chiếu R và khóa chính của R là

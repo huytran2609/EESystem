@@ -1,0 +1,2 @@
+[15:40 ---> 15:50]
+chúng ta để ý cái từ khóa temporary ở đây và bản tạm này sẽ bị hệ quản trị cơ sở dữ liệu tự động xóa

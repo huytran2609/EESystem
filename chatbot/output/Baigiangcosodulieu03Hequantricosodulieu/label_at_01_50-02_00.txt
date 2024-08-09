@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+thứ nhất là nó lưu trữ các định nghĩa và các mối liên kết dữ liệu ở đây chúng ta gọi là siêu

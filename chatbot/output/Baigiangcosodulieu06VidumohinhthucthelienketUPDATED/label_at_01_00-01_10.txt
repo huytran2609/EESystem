@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+việc cho một đơn vị nhưng có thể làm việc trên nhiều dự án do nhiều đơn vị kiểm soát chúng ta lưu giữ lại số giờ làm việc của mỗi nhân viên

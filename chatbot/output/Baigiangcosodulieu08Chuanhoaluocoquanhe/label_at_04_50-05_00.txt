@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+rồng đỏ khóa chính của s sẽ là cái tập hợp K và a nếu như

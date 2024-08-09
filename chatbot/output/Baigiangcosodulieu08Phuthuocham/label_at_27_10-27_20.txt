@@ -1,0 +1,2 @@
+[27:10 ---> 27:20]
+phần còn lại của nó không phải là siêu khóa bởi vì là nó đóng của mã nhân viên thì chỉ có hai thuộc tính Còn bao đóng của

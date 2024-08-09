@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+viết tắt là y a là một kim mô hình dữ liệu ở mức quan niệm và mục tiêu mô hình này là mô tả các đối

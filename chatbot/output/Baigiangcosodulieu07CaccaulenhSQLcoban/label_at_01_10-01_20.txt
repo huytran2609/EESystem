@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+với mysql chúng ta thực hiện các dòng lệnh từ 3 cho đến 6 để sử dụng được tiếng Việt ở trong mysql chúng ta phải chỉ ra

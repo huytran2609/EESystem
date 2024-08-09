@@ -1,0 +1,2 @@
+[05:30 ---> 05:40]
+tham gia chúng ta cũng có hai tham chiếu khóa ngoài khóa chính tham chiếu thứ nhất là mã dự án của bảng tham gia thì tham chiếu đến

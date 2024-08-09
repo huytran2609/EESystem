@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+nhân viên chúng ta gọi kiểu liên kết giữa con và nhân viên là có kiểu liên kết có cho chúng ta biết

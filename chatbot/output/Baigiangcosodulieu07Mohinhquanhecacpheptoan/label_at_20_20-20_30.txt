@@ -1,0 +1,2 @@
+[20:20 ---> 20:30]
+Kính thưa và Như vậy là phép nối Tự nhiên đòi hỏi các quan hệ tham gia phải có các cái thuộc tính trùng tên chúng ta sẽ thực hiện các phép nối Tự

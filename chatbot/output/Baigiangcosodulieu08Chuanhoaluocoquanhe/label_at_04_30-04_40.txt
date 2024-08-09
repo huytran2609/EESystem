@@ -1,0 +1,2 @@
+[04:30 ---> 04:40]
+tính đa trị hoặc là nhóm thuộc tính lặp ở trong r để chuyển hóa r về một ns trước hết chúng ta loại A ra khỏi r

@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+trong ví dụ này là vì chúng ta đã thực hiện phép nối tự nhiên trên với thuộc tính địa điểm dự án và các thuộc tính địa điểm dự án này

@@ -1,0 +1,2 @@
+[28:40 ---> 28:50]
+hàm lấy min max và hàm đếm số lượng chúng ta có thể lấy ví dụ là nếu chúng ta thực hiện

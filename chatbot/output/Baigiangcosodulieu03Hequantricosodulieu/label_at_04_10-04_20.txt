@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+chương trình sẽ phải thay đổi theo rất nhiều và những cái giải pháp như thế nó làm cho cái tính độc lập của chương trình và dữ liệu

@@ -1,0 +1,2 @@
+[05:20 ---> 05:30]
+do SD Online 2 không hỗ trợ lệnh Insert Chèn nhiều bộ giá trị nên khi tạo dữ liệu mới cho bằng My Tab chúng ta cần thực hiện

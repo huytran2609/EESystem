@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+tạo lược đồ quan hệ A tương ứng với nước trà cọc thuộc tính của A chính là tập thuộc tính của C và khóa chính K của

@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+xz sẽ xác định hàm y z ở đây chúng ta sử dụng ký hiệu viết tắt Nếu mà chúng ta viết hai cái thuộc tính x y liền nhau thì nó có nghĩa là

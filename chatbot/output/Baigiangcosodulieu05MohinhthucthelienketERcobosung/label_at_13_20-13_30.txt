@@ -1,0 +1,2 @@
+[13:20 ---> 13:30]
+kiểu liên kết và liên kết IQ đây là ví dụ về thể hiện liên kết cấp 3 chúng ta có

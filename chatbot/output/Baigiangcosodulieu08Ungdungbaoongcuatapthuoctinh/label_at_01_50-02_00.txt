@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+trên hệ điều hành Linux chương trình có bốn tham số đầu vào tham số thứ nhất

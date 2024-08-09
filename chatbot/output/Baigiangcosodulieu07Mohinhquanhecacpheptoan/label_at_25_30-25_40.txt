@@ -1,0 +1,2 @@
+[25:30 ---> 25:40]
+giữa hai quan hệ là đơn vị và dự án với điều kiện nối là đơn vị chấm a đơn vị bằng dự án chấm mã đơn vị kết quả của

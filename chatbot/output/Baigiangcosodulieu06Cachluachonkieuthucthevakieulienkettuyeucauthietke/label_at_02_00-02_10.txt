@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+kết a gạch chân C Dùng để liên kết hai kiểu thực thể là account và customer

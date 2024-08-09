@@ -1,0 +1,2 @@
+[04:40 ---> 04:50]
+cho chúng ta biết mỗi thực thể của kiểu thực thể nhân viên tham gia ít nhất một và nhiều nhất một thể hiện trong

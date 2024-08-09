@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+cuối cùng bảng địa điểm đơn vị cũng có một tham chiếu khóa ngoài khóa chính và tham chiếu này từ mã đơn vị

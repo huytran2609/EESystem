@@ -1,0 +1,2 @@
+[43:50 ---> 44:00]
+của đô thị nhà tương tự như vậy chúng ta nếu sử dụng hệ thống Cảnh tương ứng với g chúng ta cũng đến được tất cả các đỉnh của đồ thị

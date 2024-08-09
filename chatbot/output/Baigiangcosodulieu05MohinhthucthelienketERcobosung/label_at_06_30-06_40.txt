@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+thuộc tính là họ tên tuổi và Lương một tập hợp các thực thể của một cái kiểu tập thể ví dụ như nhân viên ở trên này

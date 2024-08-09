@@ -1,0 +1,2 @@
+[12:30 ---> 12:40]
+cuối cùng là Tóm tắt các ký hiệu sử dụng trong mô hình ER ý nghĩa của

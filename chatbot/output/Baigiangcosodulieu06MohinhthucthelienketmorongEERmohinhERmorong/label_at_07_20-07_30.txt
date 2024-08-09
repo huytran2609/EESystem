@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+chế các thuộc tính số khung số máy và dung tích xi lanh của lớp da ô tô trong quá trình chuyên biệt hóa một lớp con lại

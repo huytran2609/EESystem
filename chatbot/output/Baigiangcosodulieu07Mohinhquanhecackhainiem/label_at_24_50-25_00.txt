@@ -1,0 +1,2 @@
+[24:50 ---> 25:00]
+thỏa mãn ràng buộc toàn vẹn thực thể C1 đối với ràng buộc toàn vẹn tham chiếu c2 thì chúng ta phải

@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+phải tham gia vào một trong hai lớp con biên chế hoặc là hợp đồng đường nối từ lớp con quản lý

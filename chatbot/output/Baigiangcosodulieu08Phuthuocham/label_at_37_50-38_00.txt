@@ -1,0 +1,2 @@
+[37:50 ---> 38:00]
+phụ thuộc hàng tối thiểu ký hiệu là g và thỏa mãn điều kiện là g+ bằng phép cộng tức là báo cáo của hai cái tập phụ thuộc hàm đó là phải bằng nhau

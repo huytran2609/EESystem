@@ -1,0 +1,2 @@
+[19:00 ---> 19:10]
+sung A và khóa chính của R khi đó khóa chính mới của R sẽ là k trừ đi KS và hợp với a

@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+chúng ta thực hiện các lệnh ở dòng 1 và 2 để tạo và sử dụng cơ sở dữ liệu với postre SQL

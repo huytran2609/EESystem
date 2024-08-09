@@ -1,0 +1,2 @@
+[17:10 ---> 17:20]
+Trước hết là chúng ta loại các thuộc tính có phụ thuộc vào hàm bắc cầu và khóa chính ra khỏi lược đồ ban đầu thế kỷ 2

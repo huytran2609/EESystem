@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+của kiểu tập thể đơn vị tham gia ít nhất 4 thể hiện và nhiều nhất n lớn hơn hoặc bằng 4 thể hiện

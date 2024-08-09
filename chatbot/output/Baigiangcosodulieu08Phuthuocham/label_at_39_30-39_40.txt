@@ -1,0 +1,2 @@
+[39:30 ---> 39:40]
+dòng Ford bên trong chúng ta thử bỏ đi một thuộc tính ở với trái một thuộc tính của của x

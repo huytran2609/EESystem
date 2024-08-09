@@ -1,0 +1,2 @@
+[16:10 ---> 16:20]
+hai câu lệnh ở các dòng 12 và 56 tạo ra hai bản R và s có cùng cấu trúc

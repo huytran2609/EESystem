@@ -1,0 +1,2 @@
+[10:20 ---> 10:30]
+liên kết làm việc liên kết này có ý nghĩa chỉ ra là nhân viên nào đang

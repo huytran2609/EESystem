@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+câu lệnh Insert into với phần mở rộng on Conflict tương tự như post resort cả hai phiên bản 2 và 3

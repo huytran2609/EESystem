@@ -1,0 +1,2 @@
+[14:30 ---> 14:40]
+còn khóa sao cho cả hai phụ thuộc hàm X Xác định hàm Z và Z Xác định hàm y đều đúng

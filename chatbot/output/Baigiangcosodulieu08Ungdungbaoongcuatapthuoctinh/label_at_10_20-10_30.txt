@@ -1,0 +1,2 @@
+[10:20 ---> 10:30]
+các thuộc tính còn lại tức là A2 A3 A4 A5 A6 kết quả thực hiện thuật toán cho thấy là báo của

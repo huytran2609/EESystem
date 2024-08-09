@@ -1,0 +1,2 @@
+[12:10 ---> 12:20]
+Chrome phiên bản sau đó đến điều kiện chọn nằm trong mệnh đề Where ví dụ câu lệnh ở dòng

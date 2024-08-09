@@ -1,0 +1,2 @@
+[11:50 ---> 12:00]
+dự án sau đấy thì chúng ta đưa cái kết quả này vào một cái quan hệ trung gian ta gọi là

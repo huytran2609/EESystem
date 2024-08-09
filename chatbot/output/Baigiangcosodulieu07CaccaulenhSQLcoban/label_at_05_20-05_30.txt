@@ -1,0 +1,2 @@
+[05:20 ---> 05:30]
+các giá trị tương ứng ở câu lệnh Insert dòng 1 và 2 thì

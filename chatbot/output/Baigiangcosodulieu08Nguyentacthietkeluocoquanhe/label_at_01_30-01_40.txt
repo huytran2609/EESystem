@@ -1,0 +1,2 @@
+[01:30 ---> 01:40]
+chúng ta có được các lược đồ quan hệ bằng cách chuyển đổi các cái lược đồ r khi đã có các quan hệ rồi chúng ta sẽ tách các cái quan

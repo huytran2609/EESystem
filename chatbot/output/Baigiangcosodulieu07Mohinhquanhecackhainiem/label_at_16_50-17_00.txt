@@ -1,0 +1,2 @@
+[16:50 ---> 17:00]
+nó không tham chiếu được đến bất kỳ một bộ nào ở trong quan hệ trạng thái quan hệ

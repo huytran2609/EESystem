@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+9 liên kết khóa ngoài khóa chính nào sau đây thì chúng ta sẽ lần lượt giới thiệu mã lệnh để tạo bảng và tạo các liên kết khóa ngoài khóa chính

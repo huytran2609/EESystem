@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+một do đó chúng ta bổ sung cái thuộc tính là mã đơn vị vào nhân viên để

@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+chỉ là khóa ngoài Tham chiếu nhân viên nhưng nó không phải là một thành phần của khóa chính và thuộc tính này có thể nhận giá trị nào

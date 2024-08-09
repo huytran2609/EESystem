@@ -1,0 +1,2 @@
+[19:20 ---> 19:30]
+Xác định hàm Z khi mà vế trái của mỗi một phụ thuộc hàng này là tập con của x

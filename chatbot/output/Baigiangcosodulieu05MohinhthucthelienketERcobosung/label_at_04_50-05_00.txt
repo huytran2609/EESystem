@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+của một thực thể cụ thể là không xác định được giá trị Ví dụ như là thuộc tính số điện thoại của thực thể nhân viên sẽ

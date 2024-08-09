@@ -1,0 +1,2 @@
+[08:40 ---> 08:50]
+định nghĩa tác giả sử ta thuộc tính X chứa tập thuộc tính y và T1 và T2 là hai bộ bất

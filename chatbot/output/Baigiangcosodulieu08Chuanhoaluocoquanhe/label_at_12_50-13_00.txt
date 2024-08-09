@@ -1,0 +1,2 @@
+[12:50 ---> 13:00]
+tương tự như vậy chúng ta tạo lược đồ quan hệ mới thứ hai là N2 có 3 thuộc tính là mã dự án tên dự án và địa điểm

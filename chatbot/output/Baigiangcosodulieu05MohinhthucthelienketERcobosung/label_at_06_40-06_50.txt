@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+ở trong cơ sở dữ liệu tại một thời điểm bất kì thì chúng ta gọi đấy là một tập thể

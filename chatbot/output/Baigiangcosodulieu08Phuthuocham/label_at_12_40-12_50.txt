@@ -1,0 +1,2 @@
+[12:40 ---> 12:50]
+của phụ thuộc hàng chúng ta có là x Xác định hàm left và quy tắc 3 được chứng minh để chứng minh quy tắc

@@ -1,0 +1,2 @@
+[25:20 ---> 25:30]
+bộ thứ ba có giá trị khóa ngoài là lùn còn bộ thứ nhất và thứ hai

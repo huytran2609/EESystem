@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+mở ngoặc B1 B2 vân vân TN và chỉ số dưới đóng mở ngoặc R thì trường hợp này chúng ta là chỉ đổi tên các thuộc tính

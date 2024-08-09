@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+có một kiểu liên kết cấp 3 hay là kiểu liên kết ba ngôi r giữa ba kiểu thực thể A B và C để chuyển đổi R thành các

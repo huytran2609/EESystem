@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+có chín thuộc tính ở trong đó khóa chính là thuộc tính mã nhân viên bảng tham

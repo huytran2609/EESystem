@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+department Project và dependent còn các kiểu liên kết là

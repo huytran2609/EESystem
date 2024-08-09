@@ -1,0 +1,2 @@
+[16:40 ---> 16:50]
+23 phép hợp R và s ở dòng 1 đến dòng 3 cho chúng ta kết quả

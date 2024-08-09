@@ -1,0 +1,2 @@
+[03:40 ---> 03:50]
+hai thuộc tính mã vật tư mã dự án không là khóa do đó mỗi cặp VP không xác định duy nhất d và có thể xuất hiện nhiều lần trong

@@ -1,0 +1,2 @@
+[27:50 ---> 28:00]
+một lược đồ quan hệ r với n thuộc tính A1 A2 an và một tập phụ thuộc hàm f trên R thuật toán có đầu

@@ -1,0 +1,2 @@
+[03:20 ---> 03:30]
+các thuộc tính khóa mã đại lý mã vật tư mã dự án cũng là khóa ngoài của cung cấp tham chiếu tương ứng đến

@@ -1,0 +1,2 @@
+[03:40 ---> 03:50]
+thì những cái vòng lặp Mà được đánh số 1 2 3 4 là vòng lặp phía ngoài của thuật toán tìm một đoàn có vòng lặp đánh số là 12

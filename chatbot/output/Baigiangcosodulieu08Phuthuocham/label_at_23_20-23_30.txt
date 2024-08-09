@@ -1,0 +1,2 @@
+[23:20 ---> 23:30]
+với việc là báo của mã nhân viên là bao gồm hai thuộc tính mã nhân viên và họ tên tương tự như vậy đối với lao động của mã dự án chúng ta thấy là cái vùng liên thông

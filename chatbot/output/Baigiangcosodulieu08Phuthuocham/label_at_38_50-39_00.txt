@@ -1,0 +1,2 @@
+[38:50 ---> 39:00]
+phụ thuộc hàm này là có phải tối thiểu chỉ có một thuộc tính đây là cái bước đơn giản mà chúng ta chỉ cần áp dụng quy tắc tách của Android

@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+sk1 phải có cùng miền giá trị với các thuộc tính của khóa chính pk2 ở trong lược đồ quan hệ R2 Điều kiện thứ hai

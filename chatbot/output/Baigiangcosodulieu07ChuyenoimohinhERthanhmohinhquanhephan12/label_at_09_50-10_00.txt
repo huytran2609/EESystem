@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+điểm cần nhớ ở đây là khóa ngoài sẽ nằm ở phía n Sau đó chúng ta đưa các thuộc tính đơn và

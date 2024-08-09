@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+sau đây chúng ta sẽ xem xét một số ví dụ áp suất trong các hệ quản trị cơ sở dữ liệu nguồn mở và các ví dụ Này chỉ xem xét phần thực hiện áp suất khi

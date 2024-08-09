@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+quan hệ số lượng các thuộc tính của cái lược đồ quan hệ của nó thì trong trường hợp này thì chúng ta thấy là cái lược đồ quan hệ r này có n thuộc tính và như vậy

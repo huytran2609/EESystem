@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+thuộc tính riêng của mỗi lớp con và thiết lập các kiểu liên kết riêng của mỗi lớp con với các kiểu thực thể hoặc các lớp con khác

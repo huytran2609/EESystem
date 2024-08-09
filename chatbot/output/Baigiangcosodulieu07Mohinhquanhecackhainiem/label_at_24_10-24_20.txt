@@ -1,0 +1,2 @@
+[24:10 ---> 24:20]
+tập tính số chứng minh nhân dân của trục cơ sở dữ liệu này chúng ta cần phải kiểm tra xem là nó có thỏa mãn các cái ràng buộc toàn vẹn thực thể

@@ -1,0 +1,2 @@
+[13:10 ---> 13:20]
+tại Hà Nội chúng ta có thể sắp xếp kết quả của câu lệnh select với mệnh đề order by

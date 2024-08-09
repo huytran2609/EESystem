@@ -1,0 +1,2 @@
+[30:10 ---> 30:20]
+cái vòng lặp for ở trong này thì chính bằng là số lượng phụ thuộc hàng ở trong tập phụ thuộc vào F

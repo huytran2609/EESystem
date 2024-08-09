@@ -1,0 +1,2 @@
+[36:50 ---> 37:00]
+tối thiểu nếu như nó thỏa mãn các cái điều kiện vế phải tối thiểu vế trái tối thiểu và số lượng phụ thuộc hàm tối thiểu

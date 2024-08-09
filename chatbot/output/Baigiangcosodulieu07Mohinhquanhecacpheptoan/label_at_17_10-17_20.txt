@@ -1,0 +1,2 @@
+[17:10 ---> 17:20]
+A1 A2 An B1 B2 BM với tất cả các bộ trong quy là đều thỏa mãn cái điều kiện nổi này

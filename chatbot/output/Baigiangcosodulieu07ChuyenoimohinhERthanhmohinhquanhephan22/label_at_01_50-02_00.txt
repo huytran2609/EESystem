@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+giải mã dự án kiểu liên kết cung cấp là một kiểu liên kết ba ngôi với ràng buộc như sau

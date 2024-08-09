@@ -1,0 +1,2 @@
+[43:00 ---> 43:10]
+tập phụ thuộc vào hàm tương đương ra đó g là tối thiểu và như vậy g là phủ tối thiểu của f

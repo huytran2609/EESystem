@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+cấp 2 trước hết chúng ta tạo một kiểu thực thể mới e và 3 kiểu liên kết narb RC

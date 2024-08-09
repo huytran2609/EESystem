@@ -1,0 +1,2 @@
+[42:00 ---> 42:10]
+xe này cũng là tối thiểu ở bước tiếp theo chúng ta xem xét xem là có thể bỏ bớt phụ thuộc hàng nào trong số 5 phụ

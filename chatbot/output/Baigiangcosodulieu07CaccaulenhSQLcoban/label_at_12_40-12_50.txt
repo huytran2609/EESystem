@@ -1,0 +1,2 @@
+[12:40 ---> 12:50]
+ở trong bài phép chiếu cũng sử dụng câu lệnh select dòng 1 là phép chiếu

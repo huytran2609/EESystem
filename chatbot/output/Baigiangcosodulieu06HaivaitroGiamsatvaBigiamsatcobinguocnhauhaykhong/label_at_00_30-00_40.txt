@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+2 kiểu thực thể cùng tên là nhân viên và kiểu liên kết giám sát giữa hai kiểu thực thể đó

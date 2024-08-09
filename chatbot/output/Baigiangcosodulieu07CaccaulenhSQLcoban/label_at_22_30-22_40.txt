@@ -1,0 +1,2 @@
+[22:30 ---> 22:40]
+tâm min max và AVG ứng với đếm tính tổng tìm giá trị min tìm giá trị Max và

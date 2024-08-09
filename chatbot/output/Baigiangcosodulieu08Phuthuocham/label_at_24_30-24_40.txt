@@ -1,0 +1,2 @@
+[24:30 ---> 24:40]
+R và như vậy nếu như chúng ta đã có thuật toán để xác định bao đóng của một tập thuộc tính

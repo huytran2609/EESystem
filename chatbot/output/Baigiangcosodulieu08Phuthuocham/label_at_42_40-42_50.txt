@@ -1,0 +1,2 @@
+[42:40 ---> 42:50]
+hãy nói một cách khác phụ thuộc hàm a xác định hàm e là dư thừa và có thể loại bỏ khỏi g khi đó g chỉ còn lại

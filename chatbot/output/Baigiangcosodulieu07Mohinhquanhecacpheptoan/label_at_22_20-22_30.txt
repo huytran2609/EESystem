@@ -1,0 +1,2 @@
+[22:20 ---> 22:30]
+trong quan hệ ở bên trái r nếu các bộ của R mà thỏa mãn điều kiện nối

@@ -1,0 +1,2 @@
+[17:20 ---> 17:30]
+thể thay sao bằng danh sách các cột và cũng có thể thêm mệnh đề oai vào các câu lệnh

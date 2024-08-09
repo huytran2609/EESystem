@@ -1,0 +1,2 @@
+[29:10 ---> 29:20]
+ca này là dư thừa và chúng ta có thể loại A ra khỏi K sau đó thực hiện bước tiếp theo của vòng lặp for chúng

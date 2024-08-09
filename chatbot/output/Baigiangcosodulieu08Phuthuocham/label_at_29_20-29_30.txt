@@ -1,0 +1,2 @@
+[29:20 ---> 29:30]
+lưu ý rằng là khi mà chúng ta đã loại A rồi thì cái số lượng thuộc tính của K là giảm đi kết

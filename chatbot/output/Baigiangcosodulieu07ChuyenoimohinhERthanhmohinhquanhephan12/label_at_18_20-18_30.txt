@@ -1,0 +1,2 @@
+[18:20 ---> 18:30]
+thứ sáu là chuyển đổi các thuộc tính giá trị với mỗi một biểu thức tính giá trị A của một thực thể và liên kết nào đó thì chúng ta đều phải tạo ra một lược đồ quan hệ mới

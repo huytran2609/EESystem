@@ -1,0 +1,2 @@
+[08:20 ---> 08:30]
+Còn đối với các quy tắc 4 5 6 chúng ta sẽ chứng minh dựa vào kết quả của các quy tắc 1 2 3 đầu tiên là quy tắc 1

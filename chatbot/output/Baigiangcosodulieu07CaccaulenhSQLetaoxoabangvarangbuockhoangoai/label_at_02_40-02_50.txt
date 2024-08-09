@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+với bốn thuộc tính trong đó mã đơn vị là khóa chính và cuối cùng là bảng địa điểm đơn vị

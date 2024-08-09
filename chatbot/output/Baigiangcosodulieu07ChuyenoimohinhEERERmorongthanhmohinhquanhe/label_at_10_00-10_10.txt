@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+sở hữu với khóa đại diện là mã sở hữu đồng thời chúng ta thêm thuộc tính mã sở hữu

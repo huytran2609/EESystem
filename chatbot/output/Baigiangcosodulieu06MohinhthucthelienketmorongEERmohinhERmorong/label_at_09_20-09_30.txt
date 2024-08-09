@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+tính cách lớp con Thư Ký kỹ thuật viên kỹ sư được xác định bằng giá trị thuộc tính loại việc của lớp cha nhân viên

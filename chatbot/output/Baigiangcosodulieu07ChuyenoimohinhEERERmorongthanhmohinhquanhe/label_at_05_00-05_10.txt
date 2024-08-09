@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+riêng cho lớp tra nhân viên ở trong chuyên biệt hóa thứ nhất và thứ hai do các lớp con Thư Ký kỹ thuật viên

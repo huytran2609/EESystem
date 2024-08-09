@@ -1,0 +1,2 @@
+[14:10 ---> 14:20]
+Giả sử chúng ta có hai quan hệ là r và S với các thuộc tính tương ứng là A1 A2 an và B1 B2 BM

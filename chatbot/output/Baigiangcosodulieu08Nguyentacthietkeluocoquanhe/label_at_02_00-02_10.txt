@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+nguyên tắc thứ nhất là chúng ta quan tâm đến ngữ nghĩa của các thuộc tính thì lược đồ quan hệ cần được thiết kế để làm sao

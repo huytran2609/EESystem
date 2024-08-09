@@ -1,0 +1,2 @@
+[10:30 ---> 10:40]
+mã công ty như vậy chúng ta đã tìm hiểu cách chuyển đổi mô hình ER mở rộng sang mô hình quan hệ

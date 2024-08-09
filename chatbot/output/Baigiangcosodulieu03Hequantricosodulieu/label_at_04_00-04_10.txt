@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+Và khi đó thì chương trình bị phụ thuộc rất nhiều vào cấu trúc của pha thì khi mà cái cấu trúc dữ liệu ở trên file nó bị thay

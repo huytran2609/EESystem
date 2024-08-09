@@ -1,0 +1,2 @@
+[19:20 ---> 19:30]
+chúng ta xét một ví dụ về chuẩn hóa bcnf chúng ta Giả sử có lược đồ r với

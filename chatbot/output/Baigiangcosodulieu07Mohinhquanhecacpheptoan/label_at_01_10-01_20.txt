@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+Và đây là các trạng thái của hai cái lược đồ quan hệ này mỗi một trạng thái thì bao gồm

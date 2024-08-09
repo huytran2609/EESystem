@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+replace into dòng 13 hay câu lệnh này dùng để bỏ qua lỗi hoặc cập nhật khi bản ghi đã tồn tại

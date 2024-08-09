@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+và chúng ta nhớ rằng là hai bản này là có tham chiếu vòng tròn nghĩa là chúng ta có tham chiếu khoáng ngoài

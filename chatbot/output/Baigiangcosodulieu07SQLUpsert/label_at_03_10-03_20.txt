@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+Unity để cập nhật bản ghi có khóa pk bằng 1 Chúng ta chỉ ra hành động đủ update

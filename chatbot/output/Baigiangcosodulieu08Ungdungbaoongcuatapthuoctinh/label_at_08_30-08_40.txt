@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+một tập hợp gồm hai thuộc tính là 6 và A1 tương tự như vậy chúng ta lại bỏ A6 ra khỏi chìa khóa và tìm báo đóng của a2

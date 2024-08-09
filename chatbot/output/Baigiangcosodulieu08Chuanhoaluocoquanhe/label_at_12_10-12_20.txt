@@ -1,0 +1,2 @@
+[12:10 ---> 12:20]
+đầu trở thành nhân viên dự án 1 với 3 thuộc tính là mã nhân viên mã dự án một số giờ trong đó

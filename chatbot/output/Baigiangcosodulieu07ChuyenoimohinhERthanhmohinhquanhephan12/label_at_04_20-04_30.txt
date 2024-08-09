@@ -1,0 +1,2 @@
+[04:20 ---> 04:30]
+ở trên cái lược đồ ER này chúng ta thấy là thực thể con có thể tham gia ít nhất một và nhiều

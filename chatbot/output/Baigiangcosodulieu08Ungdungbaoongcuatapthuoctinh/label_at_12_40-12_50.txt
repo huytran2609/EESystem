@@ -1,0 +1,2 @@
+[12:40 ---> 12:50]
+như vậy chúng ta có thể thấy là vào Đóng và thuật toán tìm báo đóng có các ứng dụng quan trọng trong lý thuyết cơ sở dữ liệu và khi học

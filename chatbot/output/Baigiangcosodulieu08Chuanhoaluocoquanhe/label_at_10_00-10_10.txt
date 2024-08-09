@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+dịch chuyển hóa r12 nf thì đối với mỗi nhóm thuộc tính không khóa X mà phụ thuộc hàng bộ phận

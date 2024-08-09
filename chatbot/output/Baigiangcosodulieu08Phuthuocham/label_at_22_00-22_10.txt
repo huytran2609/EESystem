@@ -1,0 +1,2 @@
+[22:00 ---> 22:10]
+là bao đóng của tập thuộc tính mã nhân viên mã dự án gồm có mã nhân viên họ tên

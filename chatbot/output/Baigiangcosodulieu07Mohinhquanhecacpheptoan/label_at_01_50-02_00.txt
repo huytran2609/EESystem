@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+đây là phép toán đưa một bộ mới vào trong một quan hệ cho nên là hệ quản trị cơ sở dữ liệu sẽ kiểm tra các cái ràng buộc

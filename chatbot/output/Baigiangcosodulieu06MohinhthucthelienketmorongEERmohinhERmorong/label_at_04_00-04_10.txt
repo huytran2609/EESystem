@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+và kỹ sư ba lớp Con này là rời rạc do đó trên biểu đồ ER chúng được nối với lớp cha qua một hình tròn có chữ d

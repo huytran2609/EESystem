@@ -1,0 +1,2 @@
+[23:10 ---> 23:20]
+và chúng ta nhắc lại khái niệm về kiểu thực thể yếu các kiểu thực thể mà không có thuộc tính khóa được gọi là kiểu từ thế yếu mà ta sẽ Ký

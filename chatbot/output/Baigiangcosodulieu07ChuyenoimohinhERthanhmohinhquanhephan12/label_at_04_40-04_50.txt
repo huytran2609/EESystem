@@ -1,0 +1,2 @@
+[04:40 ---> 04:50]
+có thể làm cùng làm ở công ty và do đó chúng ta thêm thuộc tính mã nhân viên 2 cũng là khóa ngoài

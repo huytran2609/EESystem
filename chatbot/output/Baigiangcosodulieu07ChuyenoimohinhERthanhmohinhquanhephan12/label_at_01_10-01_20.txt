@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+tạo lược đồ quan hệ nhân viên với tất cả các thuộc tính đơn của thực thể nhân viên là mã nhân viên

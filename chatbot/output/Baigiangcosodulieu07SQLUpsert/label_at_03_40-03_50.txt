@@ -1,0 +1,2 @@
+[03:40 ---> 03:50]
+dòng 24 với mysql chúng ta cũng tạo bảng có cấu trúc và trạng thái ban đầu nêu ví dụ áp suất của

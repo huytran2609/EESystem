@@ -1,0 +1,2 @@
+[03:40 ---> 03:50]
+hát về hệ quản trị cơ sở dữ liệu ra đời thì cái giao tiếp giữa chương trình của người sử dụng với dữ liệu là

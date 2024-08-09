@@ -1,0 +1,2 @@
+[25:20 ---> 25:30]
+tối thiểu hay không việc này được thực hiện bằng cách thực hiện một cái một cái vòng lặp để

@@ -1,0 +1,2 @@
+[01:30 ---> 01:40]
+mục tiêu thứ hai là cực tiểu hóa các phép cập nhật bất thường ở trong các bài trước thì chúng ta cũng đã xem xét các cái ví dụ có liên quan đến sự dư thừa

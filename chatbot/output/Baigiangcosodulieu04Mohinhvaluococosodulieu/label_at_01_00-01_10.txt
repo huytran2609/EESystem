@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+mô hình này thì tập trung vào đối tượng được biểu diễn chứ không phải là cách biểu diễn dữ liệu

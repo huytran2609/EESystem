@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+chuỗi ký tự và độ dài của chuỗi thì nhỏ hơn 32 khái niệm tiếp theo là lược đồ quan hệ

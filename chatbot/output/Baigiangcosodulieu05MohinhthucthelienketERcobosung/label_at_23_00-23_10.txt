@@ -1,0 +1,2 @@
+[23:00 ---> 23:10]
+dùng để ghi lại số giờ làm việc của một nhân viên trong dự án

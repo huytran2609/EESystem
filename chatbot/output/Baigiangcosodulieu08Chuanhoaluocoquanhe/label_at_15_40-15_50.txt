@@ -1,0 +1,2 @@
+[15:40 ---> 15:50]
+trong đó y là khóa chính nào sau đây là một ví dụ về chuẩn hóa 3nf chúng ta có lược đồ

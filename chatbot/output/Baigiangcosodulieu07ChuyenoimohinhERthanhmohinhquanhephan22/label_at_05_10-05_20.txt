@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+mã dự án tham chiếu đến đại lý vật tư và dự án do bộ hai thuộc tính mã vật tư

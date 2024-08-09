@@ -1,0 +1,2 @@
+[03:20 ---> 03:30]
+khi chúng ta yêu cầu chỉ đến kết quả thì chúng ta còn có các thông tin chi tiết khi mà thuật toán được thực hiện ở trong này thì

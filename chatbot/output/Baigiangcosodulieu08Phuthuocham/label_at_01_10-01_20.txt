@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+có các cái cách diễn đạt khác để thể hiện phụ thuộc hàng này là y phụ thuộc vào X

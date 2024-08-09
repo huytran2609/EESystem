@@ -1,0 +1,2 @@
+[12:10 ---> 12:20]
+tính A6 ra khỏi chìa khóa và tìm báo đóng của A4

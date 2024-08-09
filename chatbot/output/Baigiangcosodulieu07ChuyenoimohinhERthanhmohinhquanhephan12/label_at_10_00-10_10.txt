@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+hóa đơn của các thuộc tính phức hợp của người liên kết rn vào làm các thuộc tính của gen

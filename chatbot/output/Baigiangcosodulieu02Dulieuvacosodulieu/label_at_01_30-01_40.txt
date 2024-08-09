@@ -1,0 +1,2 @@
+[01:30 ---> 01:40]
+từ đây chúng ta cần lưu ý là dữ liệu là những cái gì mà nó phải có ý nghĩa

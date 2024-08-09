@@ -1,0 +1,2 @@
+[44:40 ---> 44:50]
+đã nghiên cứu các khái niệm về tập phụ thuộc hàm tương đương tập phụ thuộc hàm tối thiểu và phủ tối thiểu Đây là các khái niệm làm

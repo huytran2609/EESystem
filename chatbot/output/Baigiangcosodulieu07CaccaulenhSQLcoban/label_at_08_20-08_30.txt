@@ -1,0 +1,2 @@
+[08:20 ---> 08:30]
+Sau khi thực hiện xong phép xóa bảng đơn vị có trạng thái như được liệt kê từ dòng 4 cho đến dòng 9

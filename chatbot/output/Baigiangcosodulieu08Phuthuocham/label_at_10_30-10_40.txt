@@ -1,0 +1,2 @@
+[10:30 ---> 10:40]
+T1 và T2 bằng nhau trên xz nhưng mà T1 và T2 không bằng nhau trên y z như vậy thì từ biểu thức

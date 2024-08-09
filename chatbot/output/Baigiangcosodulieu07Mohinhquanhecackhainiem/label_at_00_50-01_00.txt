@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+Số nguyên có dấu và có cái độ rộng dữ liệu là 16 bit hoặc là miền D

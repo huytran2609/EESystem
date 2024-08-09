@@ -1,0 +1,2 @@
+[22:10 ---> 22:20]
+kết quả của câu lệnh ở vòng 1 câu lệnh của tháng 8 Chỉ liệt kê các địa điểm mà có số dự án lớn hơn

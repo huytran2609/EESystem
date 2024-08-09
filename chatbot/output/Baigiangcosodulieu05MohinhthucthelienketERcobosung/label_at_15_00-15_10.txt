@@ -1,0 +1,2 @@
+[15:00 ---> 15:10]
+ở đây người ta chỉ có duy nhất một kiểu thực thể là nhân viên và một cái kiểu liên kết là giám sát

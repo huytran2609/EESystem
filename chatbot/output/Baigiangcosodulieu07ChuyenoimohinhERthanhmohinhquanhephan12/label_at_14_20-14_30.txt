@@ -1,0 +1,2 @@
+[14:20 ---> 14:30]
+không thêm khóa ngoài mã đơn vị để chỉ ra đơn vị mà Nhân viên đó làm việc chúng ta chuyển đổi

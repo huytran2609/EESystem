@@ -1,0 +1,2 @@
+[18:50 ---> 19:00]
+kỹ thuật tính giá trị a này và các thuộc tính khác là k chính là khóa chính của R

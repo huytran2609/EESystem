@@ -1,0 +1,2 @@
+[26:10 ---> 26:20]
+dự án 4 không thỏa mãn điều kiện nối và do đó nó sẽ được đưa vào trong quan hệ kết quả

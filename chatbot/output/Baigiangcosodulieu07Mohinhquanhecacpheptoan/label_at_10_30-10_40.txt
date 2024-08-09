@@ -1,0 +1,2 @@
+[10:30 ---> 10:40]
+đổi tên quan hệ R thành s còn danh sách các thuộc tính chúng ta giữ nguyên và trường hợp cuối cùng là chúng ta viết là

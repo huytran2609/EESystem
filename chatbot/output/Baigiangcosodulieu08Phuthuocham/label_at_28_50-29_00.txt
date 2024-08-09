@@ -1,0 +1,2 @@
+[28:50 ---> 29:00]
+cao đẳng của k - a trên s mà để tính được cái bao đóng này thì chúng ta sử dụng thuật toán 1 nếu như báo đóng của K trừ a trên s =

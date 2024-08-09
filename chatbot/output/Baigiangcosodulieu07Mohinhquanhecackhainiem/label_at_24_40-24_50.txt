@@ -1,0 +1,2 @@
+[24:40 ---> 24:50]
+giá trị của thấu kính khóa chính là 12345 đều khác luôn do đó kế dB

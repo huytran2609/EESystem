@@ -1,0 +1,2 @@
+[07:10 ---> 07:20]
+quy tắc thứ ba là quy tắc bắc cầu nếu x Xác định hàm y và y Xác định hàm Z thì chúng ta sẽ có là

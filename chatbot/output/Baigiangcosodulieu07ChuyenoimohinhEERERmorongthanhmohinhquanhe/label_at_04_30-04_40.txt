@@ -1,0 +1,2 @@
+[04:30 ---> 04:40]
+đồ quan hệ riêng cho lớp cha C và cách chuyển đổi 8B này chỉ áp dụng được cho các chuyên biệt hóa có các lớp con tham gia đầy đủ

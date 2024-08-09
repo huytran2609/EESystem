@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+chúng ta định nghĩa một cái lược đồ quan hệ r kí hiệu là r mở ngoặc A1 A2 vân vân cho đến An là

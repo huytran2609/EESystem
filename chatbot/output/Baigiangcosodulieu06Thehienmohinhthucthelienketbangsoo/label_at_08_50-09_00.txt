@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+liên kết giữa các thực thể là cấp 2 và có một cái điểm quan trọng nữa là chúng ta luôn có thể thay thế một cái liên kết

@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+sẽ gặp lỗi do vi phạm toàn bộ khóa để bỏ qua lỗi này chúng ta thực hiện lệnh chèn có phần mở rộng ancol Flick PK duration

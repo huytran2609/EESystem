@@ -1,0 +1,2 @@
+[18:50 ---> 19:00]
+này có ba hàng được liệt kê từ dòng 4 cho đến dòng 6 trong đó giá trị của hai cột

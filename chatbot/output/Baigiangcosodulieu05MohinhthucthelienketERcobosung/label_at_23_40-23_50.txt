@@ -1,0 +1,2 @@
+[23:40 ---> 23:50]
+w đỏ do đó là để xác định hoặc phân biệt các thực thể yếu trong một kiểu thực thể yếu thì chúng ta cần phải liên kết

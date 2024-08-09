@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+trong bài này tôi sẽ giới thiệu các khái niệm tiếp theo là mô hình cơ sở dữ liệu và lược đồ cơ sở dữ liệu

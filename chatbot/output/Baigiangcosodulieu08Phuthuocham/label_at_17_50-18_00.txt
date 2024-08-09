@@ -1,0 +1,2 @@
+[17:50 ---> 18:00]
+khi mà trên cái lược đồ quan hệ r có nhiều tập phụ thuộc hàm thì chúng ta có thể chỉ rõ cái bao đóng của x dưới tập phụ thuộc hàm nào

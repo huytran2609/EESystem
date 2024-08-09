@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+các vi phạm bùa ở đây sẽ tuân theo các ràng buộc của cả hai phép chèn và xóa mà chúng ta vừa mới xem xét trong trường hợp thứ ba

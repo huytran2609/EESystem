@@ -1,0 +1,2 @@
+[16:20 ---> 16:30]
+mã dự án tên dự án và địa điểm là các thuộc tính năng động và chúng ta bổ sung mã đơn vị là khóa ngoài của

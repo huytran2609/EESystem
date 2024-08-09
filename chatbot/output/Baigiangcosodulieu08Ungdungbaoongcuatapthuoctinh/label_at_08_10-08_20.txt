@@ -1,0 +1,2 @@
+[08:10 ---> 08:20]
+36 ra khỏi tập thuộc tính và chúng ta tính vào Đóng của các thuộc tính còn lại

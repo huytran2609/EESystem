@@ -1,0 +1,2 @@
+[05:50 ---> 06:00]
+tính của lốp xe tập thuộc tính của tất cả các lớp con từ S1 cho đến SM và một thuộc tính kiểu được

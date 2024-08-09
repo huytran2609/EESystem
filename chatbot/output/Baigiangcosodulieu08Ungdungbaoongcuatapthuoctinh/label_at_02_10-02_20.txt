@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+tập Phụ thuộc hàng thứ nhất ở trên lược đồ quan hệ này vì trên cái lược đồ quan hệ này chúng ta có thể có nhiều tập phụ thuộc hàm khác tham số tiếp theo

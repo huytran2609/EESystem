@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+lược đồ quan hệ Tham chiếu và R2 là lược đồ quan hệ bị Tham chiếu và tập thuộc tính sk1 hay chính là khóa

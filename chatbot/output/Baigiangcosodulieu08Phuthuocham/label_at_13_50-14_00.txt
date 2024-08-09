@@ -1,0 +1,2 @@
+[13:50 ---> 14:00]
+quy tắc 4 và tương tự như vậy chúng ta cũng chứng minh được là x xác định hàm Z như vậy là quy tắc 4 được chứng minh

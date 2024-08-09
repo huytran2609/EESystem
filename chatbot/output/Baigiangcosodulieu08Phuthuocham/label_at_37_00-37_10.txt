@@ -1,0 +1,2 @@
+[37:00 ---> 37:10]
+chuyện với phải tối thiểu có nghĩa là vế phải của tất cả các biểu đồ hàm trong f Chỉ có duy nhất một thuộc tính điều kiện vế trái tối thiểu nghĩa là

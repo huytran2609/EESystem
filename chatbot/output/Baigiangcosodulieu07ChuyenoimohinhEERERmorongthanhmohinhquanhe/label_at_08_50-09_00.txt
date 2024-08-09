@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+để chuyển đổi kiểu hợp hay kiểu phân loại trước hết chúng ta cần tạo lược đồ quan hệ u tương ứng với kiểu hợp và các lược đồ quan hệ ai tương

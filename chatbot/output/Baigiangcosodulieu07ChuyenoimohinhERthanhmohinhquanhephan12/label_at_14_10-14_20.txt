@@ -1,0 +1,2 @@
+[14:10 ---> 14:20]
+đã thấy là cái lược đồ quan hệ nhân viên có các thuộc tính từ mã nhân viên cho đến địa chỉ chúng ta

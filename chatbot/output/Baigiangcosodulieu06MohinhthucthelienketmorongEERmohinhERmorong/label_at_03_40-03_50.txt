@@ -1,0 +1,2 @@
+[03:40 ---> 03:50]
+có hai thành phần đơn là họ đệm và tên chúng ta thực hiện quá trình chuyên biệt hóa và xác định lớp con theo nhiều tiêu chí khác nhau

@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+Cách thứ hai là áp dụng thuật toán tìm báo đóng của tập hợp tính

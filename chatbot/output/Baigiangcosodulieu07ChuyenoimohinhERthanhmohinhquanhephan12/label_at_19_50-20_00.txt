@@ -1,0 +1,2 @@
+[19:50 ---> 20:00]
+Chúng ta đưa khóa chính của đơn vị vào là một thuộc tính nữa của địa điểm đơn vị cái bộ mã đơn vị và địa điểm tạo thành khóa chính của lực lượng mới

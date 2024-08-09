@@ -1,0 +1,2 @@
+[31:40 ---> 31:50]
+tập phụ thuộc hàm e hay không Hay là kiểm tra A có nằm trong h+ hay không thì chúng ta thực hiện hai cái bước

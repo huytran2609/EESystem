@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+kỹ sư và quản lý không tham gia đầy đủ cho nên chúng ta không chuyển đổi được các lớp con biên chế và hợp đồng

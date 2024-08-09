@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+thời gian chúng ta có được đồ quan hệ nhân viên dự án đang ở dạng chuẩn 1 nf và có các thuộc tính là mã nhân viên Mã

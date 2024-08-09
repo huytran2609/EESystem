@@ -1,0 +1,1 @@
+Bài giảng cơ sở dữ liệu： 07 - Chuyển đổi mô hình EER (ER mở rộng) thành mô hình quan hệ

@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+sẽ lấy lược đồ ER công ty để làm ví dụ minh họa cho các bước chuyển đổi của chúng ta sẽ nghiên cứu

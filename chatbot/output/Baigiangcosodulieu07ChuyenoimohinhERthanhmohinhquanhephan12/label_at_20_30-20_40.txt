@@ -1,0 +1,2 @@
+[20:30 ---> 20:40]
+số các tham chiếu khóa ngoài khóa chính 6 lược đồ này và các tham chiếu khóa ngoài khóa chính

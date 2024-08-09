@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+đầu tiên là phép chèn vào trong SQL Insert phát triển đưa một hàng mới vào

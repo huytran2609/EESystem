@@ -1,0 +1,2 @@
+[40:50 ---> 41:00]
+phụ thuộc hàm chúng ta Giả sử có một lược đồ quan hệ r với 5 thuộc tính a b c d e và tập phụ thuộc hàm f

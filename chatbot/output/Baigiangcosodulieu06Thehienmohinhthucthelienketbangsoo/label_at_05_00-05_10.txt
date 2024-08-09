@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+trong là tên thực thể các liên kết được thể hiện bằng một cái đường thẳng và có tên Liên kết ở phía trên đối với các liên kết để quy

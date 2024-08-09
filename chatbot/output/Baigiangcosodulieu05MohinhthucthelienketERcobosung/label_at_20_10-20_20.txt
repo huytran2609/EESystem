@@ -1,0 +1,2 @@
+[20:10 ---> 20:20]
+Ví dụ như chúng ta ở đây ta thấy là nhân viên E1 không tham gia vào quản lý đơn vị nào cả và do đó là F1 không

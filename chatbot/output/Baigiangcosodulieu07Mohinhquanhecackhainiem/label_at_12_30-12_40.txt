@@ -1,0 +1,2 @@
+[12:30 ---> 12:40]
+tham chiếu giữa hai cái thuộc tính khóa ngoài và khóa chính của hai lược đồ quan hệ

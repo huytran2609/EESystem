@@ -1,0 +1,2 @@
+[30:00 ---> 30:10]
+trong thuật toán 1 thì ta thấy là có hai vòng lặp trong đó là vòng lặp phía ngoài này là không biết trước được số lần lặp nhưng mà số lần lặp của

@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+các thành phần đơn của các thuộc tính phức hợp của kiểu liên kết nôi vào làm thuộc tính của r12 n

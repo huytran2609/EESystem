@@ -1,0 +1,2 @@
+[17:10 ---> 17:20]
+tổng hợp các cái khóa chính này sẽ tạo thành khóa chính của r n Sau đó chúng ta đưa tất cả các thuộc tính đơn và các thành phần đơn của các thuộc

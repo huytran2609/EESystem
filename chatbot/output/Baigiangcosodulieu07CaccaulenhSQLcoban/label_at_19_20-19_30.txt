@@ -1,0 +1,2 @@
+[19:20 ---> 19:30]
+dư thừa Khi thực hiện phép nối chúng ta sử dụng phép nối tự nhiên kết nối tự nhiên Yêu cầu hai bảng tham gia phép nối phải có hai cột

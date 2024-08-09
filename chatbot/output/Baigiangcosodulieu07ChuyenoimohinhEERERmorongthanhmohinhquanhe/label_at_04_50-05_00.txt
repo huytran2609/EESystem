@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+Nếu không thì một thực thể có thể xuất hiện nhiều lần trong các quan hệ Đây là một ví dụ về cách chuyển đổi 8B theo cách chuyển đổi này chúng ta không tạo được đồ

@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+khóa chính của L chính là khóa K của lớp KC cách chuyển đổi này chỉ áp dụng được cho các chuyên biệt Hóa còn các lớp con rời rạc

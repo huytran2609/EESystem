@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+để hỗ trợ trong khi đó thì các hệ quản trị cơ sở dữ liệu nguồn mở như là post q&a esql hoặc là SQL

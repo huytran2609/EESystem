@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+ta có thể thấy rằng là tập thuộc tính A2 A6 là chìa khóa tối thiểu và do đó thì tập thuộc tính này chính là khóa của lược đồ quan

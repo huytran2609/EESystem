@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+lớp cha mới là ô tô với ba thuộc tính là số khung số máy và dung tích xi lanh trong đó số khung và số máy là thuộc tỉnh Hòa

@@ -1,0 +1,2 @@
+[24:10 ---> 24:20]
+tập thuộc tính của R và báo động của x là bằng tập tất cả các thuộc tính của R thì điều này có nghĩa là x

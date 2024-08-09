@@ -1,0 +1,2 @@
+[04:40 ---> 04:50]
+3 lược đồ quan hệ cho 3 kiểu thực thể và một lược đồ quan hệ theo kiểu liên kết như ở trong ví dụ một điểm khác biệt quan trọng

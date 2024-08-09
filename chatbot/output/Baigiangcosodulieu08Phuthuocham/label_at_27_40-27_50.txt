@@ -1,0 +1,2 @@
+[27:40 ---> 27:50]
+toán tìm báo đóng của tập thuộc tính chúng ta xây dựng thuật toán 2 dùng để tìm một khóa của lược đồ quan hệ thuật toán 2 có đầu vào là

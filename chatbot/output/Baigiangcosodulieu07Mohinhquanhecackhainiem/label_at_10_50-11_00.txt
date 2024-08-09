@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+thì được gọi là tập thuộc tính tham chiếu đến lược đồ quan hệ R2 tiếp theo chúng ta sẽ xét

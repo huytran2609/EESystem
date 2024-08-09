@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+trong video này chúng ta sẽ nghiên cứu phần lý thuyết về các phép toán ở trên mô hình quan hệ thì đây chính là cơ sở để xây dựng ngôn ngữ

@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+ứng dụng thứ 3 của báo đóng chính là việc tìm khóa của lược đồ quan hệ ở trong ví dụ chúng ta

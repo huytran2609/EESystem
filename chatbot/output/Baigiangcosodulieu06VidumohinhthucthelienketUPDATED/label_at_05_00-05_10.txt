@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+giá trị min ở đây là 1 tương tự như vậy cặp số 4 n cho biết mỗi thực

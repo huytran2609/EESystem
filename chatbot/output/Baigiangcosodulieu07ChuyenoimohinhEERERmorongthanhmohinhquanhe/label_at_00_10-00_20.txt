@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+phần chính Phần đầu tiên là chuyển đổi các chuyên biệt hóa hoặc là tổng quan hóa và phần tiếp theo là chuyển đổi kiểu hợp trước

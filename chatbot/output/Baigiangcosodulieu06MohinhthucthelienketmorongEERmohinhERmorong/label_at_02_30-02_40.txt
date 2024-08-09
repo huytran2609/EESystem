@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+một thực thể ở lớp con được hiểu là một thực thể như ở trong mô hình r khi xác định các lớp con

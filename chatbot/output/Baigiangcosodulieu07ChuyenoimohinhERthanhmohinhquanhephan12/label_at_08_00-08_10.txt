@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+Chiều lên nhân viên và chúng ta đưa cái thuộc tính đơn của cái Liên kết nó là ngày bắt đầu vào để làm thuộc tính của

@@ -1,0 +1,2 @@
+[23:40 ---> 23:50]
+hát tử vi tập thuộc tính mà được đặt trong cái hình oval này thì chúng ta sẽ đến được tất cả các nút trong cái đồ thị này

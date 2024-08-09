@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+bản ghi đã tồn tại trong ví dụ áp suất với post view SQL chúng ta tạo một bảng có tên là My tap với hai cột PK

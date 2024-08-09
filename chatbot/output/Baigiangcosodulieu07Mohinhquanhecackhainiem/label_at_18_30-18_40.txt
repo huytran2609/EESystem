@@ -1,0 +1,2 @@
+[18:30 ---> 18:40]
+T1 SK h2sk trong đó SK là siêu khóa của lược đồ quan hệ

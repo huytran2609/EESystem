@@ -1,0 +1,2 @@
+[19:10 ---> 19:20]
+Sau đó chúng ta tạo được đồ mới s có các thuộc tính là A và KS và a là khóa chính của lược đồ mới

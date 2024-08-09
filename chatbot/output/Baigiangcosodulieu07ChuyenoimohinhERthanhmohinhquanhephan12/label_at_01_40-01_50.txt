@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+chỉ có một khóa duy nhất là mã nhân viên Sau đó chúng ta chọn mã nhân viên là khóa chính cho lược đồ quan hệ nhân viên

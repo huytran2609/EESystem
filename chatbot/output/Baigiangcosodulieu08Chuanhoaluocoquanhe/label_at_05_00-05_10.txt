@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+Ai là thuộc tính giá trị và nếu như a là nhóm thuộc tính nào thì khóa chính của S

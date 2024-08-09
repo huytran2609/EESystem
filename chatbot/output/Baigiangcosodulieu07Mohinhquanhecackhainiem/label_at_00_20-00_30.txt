@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+D là một tập hợp các giá trị nguyên tố và cái chữ nguyên tố ở đây nó có nghĩa là mỗi một cái giá trị trong miền đó

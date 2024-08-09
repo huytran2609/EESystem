@@ -1,0 +1,2 @@
+[19:40 ---> 19:50]
+này cho kết quả là bạn có ba hàng và 7 cột trong đó Cột dư thừa là cột 8 thì đã bị loại

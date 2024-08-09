@@ -1,0 +1,2 @@
+[27:00 ---> 27:10]
+ràng buộc toàn vẹn tham chiếu C2 bởi vì cái bộ mới này có giá trị ở khóa ngoài là khác luôn

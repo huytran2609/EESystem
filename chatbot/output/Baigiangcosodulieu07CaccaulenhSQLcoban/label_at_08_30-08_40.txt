@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+đến đây chúng ta thực hiện một phép xóa ở dòng 1 và một phép chèn ở dòng

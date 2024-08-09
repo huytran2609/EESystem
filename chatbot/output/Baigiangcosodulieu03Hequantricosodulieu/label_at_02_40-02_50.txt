@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+truy cập đến dữ liệu và có thể che giấu dữ liệu của người sử dụng này đối với người sử dụng khác

@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+đầu tiên chúng ta loại thuộc tính đa trị địa điểm ra khỏi đơn vị khi đó lược đồ đơn vị trở thành đơn vị 1 với 3 thuộc

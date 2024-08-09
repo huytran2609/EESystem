@@ -1,0 +1,2 @@
+[40:10 ---> 40:20]
+số lượng phụ thuộc hàm có trong g bằng cách là chúng ta duyệt qua tất cả các khu vực hàng và thử bỏ cái phụ thuộc hàng ra khỏi g xem là

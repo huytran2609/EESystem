@@ -1,0 +1,2 @@
+[07:50 ---> 08:00]
+từ khóa Delete from sau đó đến phiên bản và mệnh đề quan chỉ ra điều kiện của các hàng bị xóa

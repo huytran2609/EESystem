@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+ở bước 6 ở bước 2 chúng ta sẽ chuyển đổi thực thể yếu ta giả sử w là một kiểu thực thể yếu

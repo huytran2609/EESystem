@@ -1,0 +1,2 @@
+[43:10 ---> 43:20]
+sau đây chúng ta thể hiện tập phụ thuộc hàm s và phủ tối thiểu G của S trên đồ thị để

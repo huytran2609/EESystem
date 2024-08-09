@@ -1,0 +1,2 @@
+[03:30 ---> 03:40]
+kiểu tập thể dự án có thuộc tính khóa là mã dự án và hai thuộc tính đơn là tên dự án

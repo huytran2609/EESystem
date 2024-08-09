@@ -1,0 +1,2 @@
+[09:30 ---> 09:40]
+mỗi một thuộc tính không khóa a ở trong R thì phải phụ thuộc hàm đầy đủ vào khóa chính của R

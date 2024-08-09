@@ -1,0 +1,2 @@
+[18:00 ---> 18:10]
+cách làm thêm chỉ số dưới f vào ký hiệu X + chúng ta có thể xác định được bao đóng của một tập thuộc tính

@@ -1,0 +1,2 @@
+[11:00 ---> 11:10]
+khi đó một lớp con sẽ biểu diễn một tập thực thể là tập con của hợp của các loại thực thể khác nhau và các lớp

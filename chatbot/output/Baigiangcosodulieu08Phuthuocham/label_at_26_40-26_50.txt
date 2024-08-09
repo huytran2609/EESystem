@@ -1,0 +1,2 @@
+[26:40 ---> 26:50]
+thuộc tính mã nhân viên mã dự án chính là tập tất cả các thuộc tính của R do đó ta thuộc

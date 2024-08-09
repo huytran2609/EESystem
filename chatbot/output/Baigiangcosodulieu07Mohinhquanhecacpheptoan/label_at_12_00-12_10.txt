@@ -1,0 +1,2 @@
+[12:00 ---> 12:10]
+Cách thứ hai là chúng ta tách hai cái phép toán này ra đầu tiên là chúng ta thực hiện phép chọn

@@ -1,0 +1,2 @@
+[14:20 ---> 14:30]
+định nghĩa là một phụ thuộc vào bắc cầu nếu như tồn tại một tập hợp thuộc tính Z của R trong đó z không phải là khóa và cũng

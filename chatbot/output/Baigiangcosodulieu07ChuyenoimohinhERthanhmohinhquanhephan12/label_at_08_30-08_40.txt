@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+tham chiếu đến nhân viên ở đây chúng ta vẫn còn cái thuộc tính địa điểm là thuộc tính đa trị và nó sẽ được xử lý ở bước

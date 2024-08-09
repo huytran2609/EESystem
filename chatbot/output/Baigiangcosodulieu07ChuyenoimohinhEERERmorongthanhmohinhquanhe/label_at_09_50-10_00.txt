@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+công ty do các lược đồ công dân và công ty không có thuộc tính nào là chung cho nên chúng ta cần tạo một lược đồ

@@ -1,0 +1,2 @@
+[19:30 ---> 19:40]
+là thức tính địa điểm của tập thể đơn vị để chuyển đổi thì chúng ta tạo ra một lược đồ mới là địa điểm đơn vị

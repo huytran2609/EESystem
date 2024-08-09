@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+sao cho với hai bộ bất kỳ T1 T2 nằm trong những trạng thái hợp lệ đó nếu T1 và

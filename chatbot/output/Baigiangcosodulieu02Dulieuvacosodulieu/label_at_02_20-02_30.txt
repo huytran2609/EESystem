@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+có cơ sở dữ liệu về sở hữu ô tô nó gồm có ba cái bảng trong đấy có bạc công dân là thông tin về các công dân và có thể

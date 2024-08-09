@@ -1,0 +1,2 @@
+[13:20 ---> 13:30]
+có cùng số lượng thuộc tính là n đồng thời thỏa mãn điều kiện tương thích đồng nhất là miền giá trị của

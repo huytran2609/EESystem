@@ -1,0 +1,2 @@
+[15:00 ---> 15:10]
+cả bảng và cột chúng ta sử dụng các lệnh user table hai lần trong đó câu lệnh là dòng 1

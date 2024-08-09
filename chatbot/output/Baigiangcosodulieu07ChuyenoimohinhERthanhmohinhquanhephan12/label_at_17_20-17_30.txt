@@ -1,0 +1,2 @@
+[17:20 ---> 17:30]
+Ủa cái kiểu liên kết vào làm thuộc tính của lược đồ quan hệ rmn chúng

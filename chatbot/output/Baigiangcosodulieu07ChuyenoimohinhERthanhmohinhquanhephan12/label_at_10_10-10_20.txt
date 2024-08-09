@@ -1,0 +1,2 @@
+[10:10 ---> 10:20]
+ở trong lược đồ ER công ty chúng ta có cái liên kết 1 n đầu tiên

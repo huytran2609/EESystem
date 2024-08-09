@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+ràng buộc này tương đương với mệnh đề tương ứng với mỗi cặp VP Chỉ có duy nhất một D trong

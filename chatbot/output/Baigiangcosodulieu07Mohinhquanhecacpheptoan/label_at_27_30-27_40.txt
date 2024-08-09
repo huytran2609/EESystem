@@ -1,0 +1,2 @@
+[27:30 ---> 27:40]
+Nếu căn cứ vào kết quả của biện pháp nối ngoài đầy đủ là chúng ta sẽ tìm ra được các đơn vị không giám sát dự án nào và tìm ra được các dự án

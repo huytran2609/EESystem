@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+trường hợp thứ hai là việc sửa giá trị khóa chính việc này tương đương với việc là xóa đi một bộ cũ và chèn một bộ mới

@@ -1,0 +1,2 @@
+[18:40 ---> 18:50]
+R và ràng buộc thứ ba là ràng buộc trên giá trị không xác định hay là ràng buộc trên giá trị lưu ràng buộc này chỉ ra là

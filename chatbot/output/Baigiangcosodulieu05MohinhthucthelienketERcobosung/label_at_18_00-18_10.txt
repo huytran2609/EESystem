@@ -1,0 +1,2 @@
+[18:00 ---> 18:10]
+một thực thể có kiểu b thì chỉ liên kết với một quần thể của tiểu A và trong kỳ học liên kết có tỉ số

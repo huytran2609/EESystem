@@ -1,0 +1,2 @@
+[22:00 ---> 22:10]
+3 lược đồ quan hệ lược đồ thứ nhất là r gồm các thuộc tính là A6 A4 A3 A5 với A6 A4 là khóa chính

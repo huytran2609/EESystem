@@ -1,0 +1,2 @@
+[04:20 ---> 04:30]
+khóa chính của ai thì chính là khóa K của lớp cha C như vậy chúng ta không tạo được

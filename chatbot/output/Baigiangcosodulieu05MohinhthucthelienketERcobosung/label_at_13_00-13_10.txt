@@ -1,0 +1,2 @@
+[13:00 ---> 13:10]
+tham gia một kiểu liên kết với nhiều vai trò khác nhau thì chúng ta phải chỉ rõ cái vai trò các cái vai trò của nó

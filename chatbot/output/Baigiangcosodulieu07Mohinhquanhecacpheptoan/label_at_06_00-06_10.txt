@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+thực hiện phép sửa trường hợp Thứ nhất nếu chúng ta sửa giá trị của một cái thuộc tính mà không phải là khóa và không phải

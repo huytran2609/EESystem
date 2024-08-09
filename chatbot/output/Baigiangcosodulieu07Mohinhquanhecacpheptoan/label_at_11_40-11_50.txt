@@ -1,0 +1,2 @@
+[11:40 ---> 11:50]
+Sau đó chúng ta thực hiện phép chiếu trên cái kết quả của phép toán thứ nhất và lấy ra hai cái thuộc tính là mã dự án và

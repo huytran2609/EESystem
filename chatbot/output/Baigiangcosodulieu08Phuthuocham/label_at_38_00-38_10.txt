@@ -1,0 +1,2 @@
+[38:00 ---> 38:10]
+làm một tập phụ thuộc hàm bất kỳ có thể có một hoặc là nhiều phủ tối thiểu chúng ta có thuật toán 3

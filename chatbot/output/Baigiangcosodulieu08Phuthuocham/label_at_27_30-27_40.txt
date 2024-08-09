@@ -1,0 +1,2 @@
+[27:30 ---> 27:40]
+chìa khóa tối thiểu và do đó nó chính là khóa của lược đồ quan hệ r dựa

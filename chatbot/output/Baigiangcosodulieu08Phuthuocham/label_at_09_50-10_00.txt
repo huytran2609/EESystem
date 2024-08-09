@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+không xác định hàm y z khi đó theo quy định nghĩa phụ thuộc hàng sẽ tồn tại hai bộ T1 và T

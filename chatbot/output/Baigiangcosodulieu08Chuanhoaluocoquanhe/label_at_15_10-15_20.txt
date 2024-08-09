@@ -1,0 +1,2 @@
+[15:10 ---> 15:20]
+chỉ với mỗi thuộc tính X phụ thuộc bắc cầu vào K chúng ta sẽ làm các bước như sau Thứ nhất là loại bỏ x

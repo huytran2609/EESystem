@@ -1,0 +1,2 @@
+[07:00 ---> 07:10]
+cách chuyển đổi 8D chúng ta tạo một lược đồ quan hệ r có tập thuộc tính bao gồm tập thuộc tính của lớp

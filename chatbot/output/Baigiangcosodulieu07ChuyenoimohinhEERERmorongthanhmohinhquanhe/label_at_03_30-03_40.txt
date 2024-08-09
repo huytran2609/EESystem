@@ -1,0 +1,2 @@
+[03:30 ---> 03:40]
+đồng thời chúng ta chọn thuộc tính mã nhân viên là khóa chính của các

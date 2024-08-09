@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+Do đó người lập trình SQL phải viết thêm các câu lệnh kiểm tra sự tồn tại của các bản ghi Nếu như không có áp suất

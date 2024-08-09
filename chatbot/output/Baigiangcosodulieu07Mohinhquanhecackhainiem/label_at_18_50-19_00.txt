@@ -1,0 +1,2 @@
+[18:50 ---> 19:00]
+giá trị của một thấu kính a bất kì được phép chứa giá trị null

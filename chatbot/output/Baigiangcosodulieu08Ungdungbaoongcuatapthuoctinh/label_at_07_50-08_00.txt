@@ -1,0 +1,2 @@
+[07:50 ---> 08:00]
+để kiểm tra xem một tập thuộc tính có loại khóa hay không ta lưu ý khóa chính là một chìa khóa tối thiểu Thế thì để kiểm tra xem

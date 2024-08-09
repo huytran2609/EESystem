@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+51 thì có nghĩa là a tham gia toàn bộ còn nếu min là 0 thì có nghĩa là E tham gia

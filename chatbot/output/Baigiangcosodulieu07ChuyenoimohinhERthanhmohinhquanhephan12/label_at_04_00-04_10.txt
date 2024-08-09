@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+khóa chính của tập thể dục là mã nhân viên vào làm khóa ngoài của con và tham chiếu đến nhân viên

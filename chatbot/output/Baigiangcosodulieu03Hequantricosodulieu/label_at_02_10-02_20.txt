@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+thứ ba là biến đổi dữ liệu được nhập vào ở cái dạng thân thiện với người sử dụng sang cái dạng

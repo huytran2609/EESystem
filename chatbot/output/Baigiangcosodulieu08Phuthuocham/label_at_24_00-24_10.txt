@@ -1,0 +1,2 @@
+[24:00 ---> 24:10]
+chúng ta giả sử là có một lược đồ quan hệ r với tập thuộc tính là A1 A2 vân vân cho đến An nếu như X là

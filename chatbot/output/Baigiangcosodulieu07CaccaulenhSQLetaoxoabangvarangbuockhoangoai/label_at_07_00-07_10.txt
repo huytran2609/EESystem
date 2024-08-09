@@ -1,0 +1,2 @@
+[07:00 ---> 07:10]
+sử dụng trong câu lệnh rotable mệnh đề If Active này dùng để tránh báo lỗi khi mà chúng ta xóa một bảng

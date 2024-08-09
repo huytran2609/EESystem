@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+đó thì mỗi ri nhỏ này được gọi là một thể hiện Liên kết nó liên kết n với thực thể riêng biệt nhỏ

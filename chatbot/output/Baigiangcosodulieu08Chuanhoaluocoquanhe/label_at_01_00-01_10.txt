@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+các dạng chuẩn 1 2 3 và Bose trên các phụ thuộc hàng giữa các thuộc tính của một đồ quan hệ và sau đó

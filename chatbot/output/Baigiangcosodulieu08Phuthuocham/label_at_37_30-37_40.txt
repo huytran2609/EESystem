@@ -1,0 +1,2 @@
+[37:30 ---> 37:40]
+điều kiện số lượng phụ thuộc hàm tối thiểu có nghĩa là chúng ta không thể bỏ đi bất kỳ một phụ thuộc hàm nào ra khỏi f mà vẫn thu được một tập phụ thuộc hàm

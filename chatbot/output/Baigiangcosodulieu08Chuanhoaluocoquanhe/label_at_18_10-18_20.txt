@@ -1,0 +1,2 @@
+[18:10 ---> 18:20]
+Nếu nhất R là 3 lá và thứ hai là không có thuộc tính khóa phụ thuộc hàng vào thuộc tính không

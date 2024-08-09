@@ -1,0 +1,2 @@
+[03:30 ---> 03:40]
+ổ khóa BK = 1 sẽ nhận giá trị mới là C với câu lệnh dòng 16 và D với câu

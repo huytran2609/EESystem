@@ -1,0 +1,2 @@
+[22:50 ---> 23:00]
+kết là làm việc dùng để mô tả nhân viên nào đang làm việc từ dự án Nào kiểu liên kết này có thể có thuộc tính số giờ

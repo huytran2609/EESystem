@@ -1,0 +1,2 @@
+[19:10 ---> 19:20]
+bắt đầu bằng việc khởi động giá trị cho aux + và sau đó duyệt tất cả các phụ thuộc hàm trong s các phụ thuộc hàm có dạng là

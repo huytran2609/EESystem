@@ -1,0 +1,2 @@
+[10:20 ---> 10:30]
+được gọi là tham gia vào kiểu liên kết R và tương tự như vậy thì mỗi cái thực thể riêng biệt A1 A2 n cũng được gọi

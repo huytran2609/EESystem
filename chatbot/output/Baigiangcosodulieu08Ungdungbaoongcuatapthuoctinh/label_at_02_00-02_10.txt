@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+đây có cái giá trị là ví dụ thì chính là tập thuộc tính của lược đồ quan hệ tham số thứ hai là 1 có nghĩa

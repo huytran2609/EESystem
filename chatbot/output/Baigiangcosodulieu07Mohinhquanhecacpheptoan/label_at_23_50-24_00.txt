@@ -1,0 +1,2 @@
+[23:50 ---> 24:00]
+ngoài trái chúng ta sẽ thực hiện phép nối ngoài trái giữa hai quan hệ đơn vị và dự án và điều kiện nối là đơn vị

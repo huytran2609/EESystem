@@ -1,0 +1,2 @@
+[44:50 ---> 45:00]
+nền tảng cho việc chuẩn hóa các lược đồ quan hệ và cái việc chuẩn hóa đó sẽ giúp cho chúng ta thiết kế được các cái lược đồ quan hệ tốt

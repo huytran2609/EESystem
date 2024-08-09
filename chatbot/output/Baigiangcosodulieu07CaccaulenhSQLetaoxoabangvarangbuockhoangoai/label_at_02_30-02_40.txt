@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+dự án với bốn thuộc tính trong đó mã dự án là khóa chính bảng đơn vị

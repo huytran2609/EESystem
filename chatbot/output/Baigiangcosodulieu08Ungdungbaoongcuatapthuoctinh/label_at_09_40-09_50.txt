@@ -1,0 +1,2 @@
+[09:40 ---> 09:50]
+tính từ A1 đến A6 của lược đồ quan hệ r chính là một siêu khóa và do

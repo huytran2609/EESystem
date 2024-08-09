@@ -1,0 +1,2 @@
+[40:40 ---> 40:50]
+và nó là phủ tối thiểu của em nào sau đây là ví dụ về tìm phụ tối thiểu của một

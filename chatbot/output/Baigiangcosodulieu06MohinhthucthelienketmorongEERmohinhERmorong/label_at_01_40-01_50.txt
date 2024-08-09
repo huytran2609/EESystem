@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+cuộc biểu thức thể nhân viên và nhân viên là kiểm tra hay lớp cha của các lớp con đó một

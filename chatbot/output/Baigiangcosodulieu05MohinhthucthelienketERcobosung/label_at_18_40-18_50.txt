@@ -1,0 +1,2 @@
+[18:40 ---> 18:50]
+nó có hai kiểu ràng buộc tham gia là ràng buộc tham gia toàn bộ hay còn gọi là phụ thuộc tồn tại và ràng buộc tham gia bộ phận

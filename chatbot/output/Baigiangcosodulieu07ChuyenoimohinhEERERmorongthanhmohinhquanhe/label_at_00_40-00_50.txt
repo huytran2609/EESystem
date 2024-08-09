@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+attrs của R là tập tất cả các thuộc tính của R và bkr là khóa chính

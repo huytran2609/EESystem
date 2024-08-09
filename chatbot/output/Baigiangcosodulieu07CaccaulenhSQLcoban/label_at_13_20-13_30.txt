@@ -1,0 +1,2 @@
+[13:20 ---> 13:30]
+với câu lệnh là dòng 1 thông tin về các dự án được sắp xếp theo địa điểm và

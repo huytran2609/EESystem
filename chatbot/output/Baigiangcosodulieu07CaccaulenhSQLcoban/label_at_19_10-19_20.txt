@@ -1,0 +1,2 @@
+[19:10 ---> 19:20]
+có thể thấy là mã đơn vị ở cột thứ 8 này là dư thừa để loại bỏ cột

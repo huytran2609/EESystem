@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+hàm x - b Xác định hàm y đúng thì chúng ta nói rằng y phụ thuộc vào bộ phận của x

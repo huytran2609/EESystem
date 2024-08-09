@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+khóa chính mã dự án của bảng dự án tham chiếu thứ hai là mã nhân viên của bạn tham gia tham chiếu đến khóa chính của

@@ -1,0 +1,2 @@
+[27:50 ---> 28:00]
+phép nhóm đây là các hàm và phép toán rất là quan trọng cho cái việc thực hiện các báo cáo thống kê trong cơ sở dữ liệu

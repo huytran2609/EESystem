@@ -1,0 +1,2 @@
+[22:50 ---> 23:00]
+có các điều kiện tương ứng là thuộc tính đơn vị và chỉ nhận các giá trị nguyên tố tương tự như vậy đối với hai lá thì chúng ta

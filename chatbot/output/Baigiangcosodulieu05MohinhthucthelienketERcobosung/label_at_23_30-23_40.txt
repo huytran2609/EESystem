@@ -1,0 +1,2 @@
+[23:30 ---> 23:40]
+kiểu thực thể yếu không có thuộc tính khóa cho nên chúng ta không có cách nào để xác định hoặc phân biệt các thực thể trong lĩnh vực thực thể yếu

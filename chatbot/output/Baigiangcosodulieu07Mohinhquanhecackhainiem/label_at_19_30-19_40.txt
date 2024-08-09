@@ -1,0 +1,2 @@
+[19:30 ---> 19:40]
+một tập các ràng buộc toàn vẹn chủ nhật ký hiệu là C như vậy chúng ta có thể nói ngắn gọn lại là gì một lược đồ cơ sở

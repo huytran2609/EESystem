@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+nếu như chúng ta cũng xem một quan hệ như một bảng thì phép chiếu là cái phép toán mà lấy ra một số cột của cái bảng đó trong đại số quan hệ

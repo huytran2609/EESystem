@@ -1,0 +1,2 @@
+[41:30 ---> 41:40]
+công thức tính sau bước này thì chúng ta có thể thể hiện các phụ thuộc hàm trong g dưới dạng khi đồ thị này

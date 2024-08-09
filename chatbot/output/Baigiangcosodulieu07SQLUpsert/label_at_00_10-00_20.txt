@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+câu lệnh cơ bản update và Insert trong SQL ý nghĩa của áp suất được mô tả trên hình Nếu bản ghi đã tồn tại thì thực hiện

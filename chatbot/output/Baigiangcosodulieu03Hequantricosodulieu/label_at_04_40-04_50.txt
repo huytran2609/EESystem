@@ -1,0 +1,2 @@
+[04:40 ---> 04:50]
+chúng ta có định nghĩa cơ sở dữ liệu bao gồm các đặc tả và các cấu trúc và các cái cấu trúc này thì được lưu

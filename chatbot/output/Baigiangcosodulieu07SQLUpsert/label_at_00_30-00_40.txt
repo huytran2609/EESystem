@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+nhưng mà không biết các bản ghi đó đã tồn tại hay chưa Nếu mà ghi đã tồn tại thì câu lệnh Insert sẽ gặp lỗi khi mà bạn có khóa chính

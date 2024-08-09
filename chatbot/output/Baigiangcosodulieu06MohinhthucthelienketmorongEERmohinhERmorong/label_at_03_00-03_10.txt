@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+nhân viên căn cứ và cách trả lương quá trình chuyên biệt hóa cho phép chúng ta xác định một tập các lớp con của một kiểu thực thể thiết lập

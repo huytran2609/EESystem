@@ -1,0 +1,2 @@
+[19:00 ---> 19:10]
+khi mà ký báo đóng này không thay đổi ở bên trong cái vòng lặp Thứ nhất chúng ta

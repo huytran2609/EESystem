@@ -1,0 +1,2 @@
+[18:50 ---> 19:00]
+bước 62 số 9 sẽ dừng khi mà điều kiện oxy + 1 x + điều kiện này có nghĩa là chúng ta sẽ dừng và thoát kết thúc thuật

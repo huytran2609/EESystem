@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+để xóa được cả hai mạng này thì chúng ta cần sử dụng câu lệnh oto table ví dụ trên bảng đơn vị chúng ta xóa một ràng buộc khóa ngoài

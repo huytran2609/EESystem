@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+kiểm soát tham gia giám sát và có ở trong lược đồ r này thì chúng ta sẽ thể hiện ràng buộc tham gia bằng

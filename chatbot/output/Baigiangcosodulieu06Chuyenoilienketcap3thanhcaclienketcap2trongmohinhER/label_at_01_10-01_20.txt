@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+trong liên kết RC là 1 n và cuối cùng là E phải tham gia toàn bộ vào các liên kết a

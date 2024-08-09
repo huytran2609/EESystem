@@ -1,0 +1,2 @@
+[18:00 ---> 18:10]
+dự án liên kết tham gia có một thuộc tính là số giờ có ý nghĩa là thể hiện số giờ của một nhân viên đã làm việc

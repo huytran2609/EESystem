@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+chính là chìa khóa tối thiểu cho nên chúng ta sẽ tìm cách bỏ dần các thuộc tính ra khỏi

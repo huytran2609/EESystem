@@ -1,0 +1,2 @@
+[20:00 ---> 20:10]
+khi mà vòng lặp trong vòng lặp for này chúng ta không tìm được một phụ thuộc hàm nào để bổ sung

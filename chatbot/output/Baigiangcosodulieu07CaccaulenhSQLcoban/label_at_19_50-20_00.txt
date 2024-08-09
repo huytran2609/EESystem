@@ -1,0 +1,2 @@
+[19:50 ---> 20:00]
+chúng ta có thể so sánh kết quả của phép nối tự nhiên này với phép nối mà chưa loại bỏ cột dư thừa ở đây chúng ta có

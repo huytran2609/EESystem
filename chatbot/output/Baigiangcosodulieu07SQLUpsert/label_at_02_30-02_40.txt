@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+2B dòng 1 đến 10 là các câu lệnh tạo bảng chèn dữ liệu xem dữ liệu hiện có trong bảng

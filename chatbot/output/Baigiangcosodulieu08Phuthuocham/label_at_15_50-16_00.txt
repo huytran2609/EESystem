@@ -1,0 +1,2 @@
+[15:50 ---> 16:00]
+các quy tắc suy diễn qt1 qt2 và qt3 là đúng và đầy đủ chúng ta hiểu về tính đúng và đầy đủ của các quy tắc này như sau

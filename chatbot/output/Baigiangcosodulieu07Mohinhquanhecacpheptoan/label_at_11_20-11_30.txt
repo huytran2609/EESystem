@@ -1,0 +1,2 @@
+[11:20 ---> 11:30]
+viết một cái biểu thức quan hệ đầy đủ và có bao nhiêu trong đó là cái biểu thức được thực hiện đầu tiên là biểu thức

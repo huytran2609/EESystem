@@ -1,0 +1,2 @@
+[43:20 ---> 43:30]
+So sánh đô thị của chúng ta sẽ có 5 đỉnh tương ứng với 5 thuộc tính của lực lượng Quan hệ r ở phía bên trái các cạnh của đồ thị tương ứng với

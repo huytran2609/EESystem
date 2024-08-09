@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+nhu cầu là xóa tất cả các bảng đi để thử nghiệm lại từ đầu để làm việc đó thì chúng ta sử dụng câu lệnh là job table

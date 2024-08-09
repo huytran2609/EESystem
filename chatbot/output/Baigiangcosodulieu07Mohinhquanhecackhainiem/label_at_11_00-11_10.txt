@@ -1,0 +1,2 @@
+[11:00 ---> 11:10]
+ví dụ về khoáng ngoài của lược đồ quan hệ trước hết là chúng ta định nghĩa một lược đồ quan hệ mới tên là vật nuôi với ba thuộc tính là loài

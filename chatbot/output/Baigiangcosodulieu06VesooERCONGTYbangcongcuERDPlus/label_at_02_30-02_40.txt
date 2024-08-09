@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+sẽ có một hộp thoại để chúng ta đưa các thông tin của việc tập thể vào và chúng ta cần đưa vào là tên và phân loại kiểu thực thể đầu tiên của

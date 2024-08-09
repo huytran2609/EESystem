@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+Mở dự án là 1n đơn vị tham gia với ràng buộc bộ phận còn dự án tham gia với ràng buộc toàn bộ

@@ -1,0 +1,2 @@
+[13:40 ---> 13:50]
+3 phép toán tập hợp là phép hợp phép giao và phép trừ khi mà các quan hệ R và s thỏa mãn điều kiện tương thích đồng nhất thì

@@ -1,0 +1,2 @@
+[27:20 ---> 27:30]
+và được làm đầy các giá trị nuôi và ý nghĩa của nó cũng tương tự như là phép nối ngoài trái và nối ngoài phải ở đây

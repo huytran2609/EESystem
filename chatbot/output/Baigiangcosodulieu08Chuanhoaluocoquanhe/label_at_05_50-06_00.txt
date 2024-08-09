@@ -1,0 +1,2 @@
+[05:50 ---> 06:00]
+giải mã đơn vị tên đơn vị và mã ngành quản lý trong đó mã đơn vị vẫn là khóa chính tiếp theo chúng ta sẽ tạo lược đồ quan hệ

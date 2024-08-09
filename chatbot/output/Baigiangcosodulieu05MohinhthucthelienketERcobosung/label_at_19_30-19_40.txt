@@ -1,0 +1,2 @@
+[19:30 ---> 19:40]
+như vậy ở trong cái ví dụ này thì chúng ta có cái ràng buộc với tỉ số lực lượng là 1:1

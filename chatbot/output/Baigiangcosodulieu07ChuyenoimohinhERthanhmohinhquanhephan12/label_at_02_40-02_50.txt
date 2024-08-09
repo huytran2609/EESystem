@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+đã được tạo ra bước 1 bởi vì e là thực thể chủ cho nên nó là một thực thể mạnh tiếp theo chúng ta tạo một cái lược đồ quan hệ

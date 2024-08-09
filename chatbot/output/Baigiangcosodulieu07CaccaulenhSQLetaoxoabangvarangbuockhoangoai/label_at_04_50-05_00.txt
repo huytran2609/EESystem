@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+chúng ta cũng sẽ tạo được các tham chiếu khóa ngoài khóa chính ở các mảng khác đối với bảng nhân viên chúng ta cũng có hai tham chiếu khóa ngoài

@@ -1,0 +1,2 @@
+[12:30 ---> 12:40]
+thì các thuộc tính A4 A6 là một siêu khóa tối thiểu và nó chính là một khóa của lược đồ quan hệ r

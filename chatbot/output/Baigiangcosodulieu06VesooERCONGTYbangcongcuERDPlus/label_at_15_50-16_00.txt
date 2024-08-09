@@ -1,0 +1,2 @@
+[15:50 ---> 16:00]
+kiểu liên kết có giữa nhân viên và con là kiểu liên kết xác định của một kiểu thực thể yếu với một kiểu thể chụp do đó chúng ta chọn

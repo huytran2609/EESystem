@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+mô hình Dữ liệu bậc cao hoặc là mô hình Dữ liệu mức quan niệm mô hình này cung cấp các khái niệm gắn với cách cảm nhận dữ liệu của nhiều người sử dụng

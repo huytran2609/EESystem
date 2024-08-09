@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+trong một cơ sở dữ liệu tại một thời điểm cụ thể được gọi là trạng thái của cơ sở dữ liệu đó trạng thái cơ sở dữ liệu thì ngược với lược đồ

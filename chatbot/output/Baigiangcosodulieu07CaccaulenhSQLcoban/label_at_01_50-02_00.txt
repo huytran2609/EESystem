@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+ở trong các ví dụ tiếp theo sau khi đã tạo cơ sở dữ liệu chúng ta lần lượt tạo hai

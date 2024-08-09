@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+Al trong đó k là khóa chính với cách chuyển đổi thứ nhất tức là 8 a

@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+chúng tôi dựa trên cuốn giáo trình nhập môn hệ cơ sở dữ liệu của thầy Nguyễn Tuệ

@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+ảnh dùng các thuộc tính mà cái giá trị của nó thường xuyên là null tức là không xác định được nguyên tắc cuối cùng là chúng ta cần

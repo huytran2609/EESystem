@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+SQL trong các hệ quản trị cơ sở dữ liệu quan hệ và cái phần ngôn ngữ này thì chúng ta sẽ học ở trong phần thực hành của môn

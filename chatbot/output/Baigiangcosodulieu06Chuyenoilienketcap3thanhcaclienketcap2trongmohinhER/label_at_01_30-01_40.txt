@@ -1,0 +1,2 @@
+[01:30 ---> 01:40]
+C là ba kiểu tập thể chúng ta cần thể hiện một kiểu liên kết cấp 3 giữa 3 kiểu thực thể này bằng hệ thống ký hiệu chân chim trước hết

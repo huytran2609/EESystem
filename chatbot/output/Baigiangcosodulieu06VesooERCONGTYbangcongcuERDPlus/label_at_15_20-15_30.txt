@@ -1,0 +1,2 @@
+[15:20 ---> 15:30]
+về phía dự án thì mỗi một dự án phải có ít nhất một nhân viên tham gia và có thể có nhiều nhân viên tham gia

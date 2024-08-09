@@ -1,0 +1,2 @@
+[13:00 ---> 13:10]
+liên kết quản lý giữa nhân viên và đơn vị có một thuộc tính đơn là ngày bắt đầu

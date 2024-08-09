@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+đối với lược đồ quan hệ đơn vị chúng ta có địa điểm là một thuộc tính đa trị

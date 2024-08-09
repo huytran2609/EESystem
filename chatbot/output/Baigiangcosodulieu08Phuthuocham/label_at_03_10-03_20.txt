@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+còn mũi tên nét đứt thể hiện xác định hàm giữa một tập có nhiều thuộc tính với một thấu kính đơn

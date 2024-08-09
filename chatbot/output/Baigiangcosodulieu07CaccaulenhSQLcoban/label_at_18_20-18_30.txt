@@ -1,0 +1,2 @@
+[18:20 ---> 18:30]
+giữa hai bản chính là tập con của tích về các thỏa mãn điều kiện nổi câu lệnh ở dòng 1 thực hiện phép nối

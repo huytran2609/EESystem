@@ -1,0 +1,2 @@
+[16:10 ---> 16:20]
+nếu như có một trạng thái quan hệ r thỏa mãn cái tập phụ thuộc hàm f

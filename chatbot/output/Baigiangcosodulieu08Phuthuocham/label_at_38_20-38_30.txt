@@ -1,0 +1,2 @@
+[38:20 ---> 38:30]
+là một tập phụ thuộc hàm g là thủ tối thiểu của s ở bước khởi động của thuật toán chúng ta gán g = f

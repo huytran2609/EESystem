@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+lược đồ này về một ns đầu tiên chúng ta loại nhóm thuộc tính lại mã nhân viên số giờ ra khỏi lược đồ ban đầu

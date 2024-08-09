@@ -1,0 +1,2 @@
+[18:00 ---> 18:10]
+tiếp theo là dạng chuẩn Bose một lược đồ quan hệ r được định nghĩa là ở dạng chuẩn Bose viết tắt là bcnf

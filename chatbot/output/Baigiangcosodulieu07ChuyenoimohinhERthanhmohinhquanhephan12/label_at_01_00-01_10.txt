@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+nhân viên đơn vị của dự án Vina 3 thuộc thể này đều có khóa chính đối với thực thể nhân viên chúng ta

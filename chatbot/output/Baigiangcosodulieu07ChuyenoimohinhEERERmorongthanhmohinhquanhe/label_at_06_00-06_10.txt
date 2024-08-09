@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+tltt còn được gọi là thuộc tính phân biệt vì giá trị của T được dùng để chỉ ra là một bộ thuộc vào lớp con nào

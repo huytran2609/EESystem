@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+một lược đồ quan hệ R là ở dạng chuẩn 2 nếu như thứ nhất R là 1 nf

@@ -1,0 +1,2 @@
+[16:40 ---> 16:50]
+thuộc tính khóa ngoài là 10 thế thì giá trị này không phải là giá trị luôn Tuy nhiên là cái giá trị 10 là

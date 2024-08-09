@@ -1,0 +1,2 @@
+[08:20 ---> 08:30]
+đầu tiên chúng ta bỏ A2 ra khỏi chìa khóa và tìm báo đóng của A6 kết quả thực hiện thuật toán cho thấy bao đóng của A

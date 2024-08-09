@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+khóa thường không gây ra các vi phạm buộc trong trường hợp này hệ quản trị cơ sở dữ liệu chỉ kiểm tra các giá trị mới có thuộc miền hay không

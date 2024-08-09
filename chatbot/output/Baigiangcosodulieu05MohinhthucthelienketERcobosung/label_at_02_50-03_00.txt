@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+các thành phần nhỏ đó thì là độc lập với nhau và mang các ý nghĩa riêng Ví dụ nếu trong cơ sở dữ liệu với công dân thì chúng ta sẽ có

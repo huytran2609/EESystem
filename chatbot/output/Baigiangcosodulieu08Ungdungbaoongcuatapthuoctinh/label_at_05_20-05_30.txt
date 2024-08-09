@@ -1,0 +1,2 @@
+[05:20 ---> 05:30]
+chỉ quy tắc suy diễn là đúng nếu không thì quy tắc suy diễn là sai chúng ta thực hiện Thuật toán tính vào đóng để

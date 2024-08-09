@@ -1,0 +1,2 @@
+[38:30 ---> 38:40]
+Bước 2 chúng ta tìm cách tối thiểu hóa bên phải tức là chúng ta thay mỗi một cái phụ thuộc hàm dạng x Xác định hàm

@@ -1,0 +1,2 @@
+[12:10 ---> 12:20]
+Theo định nghĩa cấp của một kiểu liên kết là số các kiểu tập thể và tham gia vào kiểu liên kết đó trong ví dụ này ta có

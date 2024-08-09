@@ -1,0 +1,2 @@
+[18:30 ---> 18:40]
+mã đơn vị mà lấy từ phía đơn vị thì bằng với mã đơn vị lấy từ phía dự án tương tự cho

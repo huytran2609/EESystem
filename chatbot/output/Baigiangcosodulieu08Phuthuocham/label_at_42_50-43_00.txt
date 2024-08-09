@@ -1,0 +1,2 @@
+[42:50 ---> 43:00]
+bốn phụ thuộc hàng và chúng ta cũng sẽ kiểm tra được là chúng ta không bỏ được bất kỳ phụ thuộc hàm nào ra khỏi g để có được

@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+tháng 1 phát biểu là nếu I là một tập thuộc tính con của tập thuộc tính X thì X Xác định hàm y để chứng minh thì chúng ta

@@ -1,0 +1,2 @@
+[08:10 ---> 08:20]
+xác định một công dân chỉ cần thông qua số chứng minh nhân dân cho nên là các thuộc tính họ tên và ngày sinh có thể bỏ ra khỏi cái chìa

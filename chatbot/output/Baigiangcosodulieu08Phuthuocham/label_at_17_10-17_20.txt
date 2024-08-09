@@ -1,0 +1,2 @@
+[17:10 ---> 17:20]
+khái niệm quan trọng tiếp theo là bao của tập thuộc tính chúng ta giả sử F là một tập phụ thuộc hàm trên

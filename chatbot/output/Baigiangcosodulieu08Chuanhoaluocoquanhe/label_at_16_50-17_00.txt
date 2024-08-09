@@ -1,0 +1,2 @@
+[16:50 ---> 17:00]
+chúng ta có mã nhân viên xác định nhà mã đơn vị tiếp theo là xác định hàm tên đơn vị

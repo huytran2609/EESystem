@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+Ví dụ như chúng ta thực hiện pi trên hai cái thuộc tính là tên dự án và địa điểm của quan hệ dự án chúng ta sẽ có kết quả

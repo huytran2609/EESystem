@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+một lớp con ngược lại mỗi thực thể có thể thuộc vào hai đứa con trở lên ràng buộc đầy đủ được thỏa mãn khi mỗi thực thể của lớp Cha

@@ -1,0 +1,2 @@
+[23:20 ---> 23:30]
+trái của nó sẽ được điền vào n giá trị luôn còn phép nối ngoài đầy đủ thì giữ lại mọi bộ của

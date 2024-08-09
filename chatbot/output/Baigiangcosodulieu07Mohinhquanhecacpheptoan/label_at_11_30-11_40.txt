@@ -1,0 +1,2 @@
+[11:30 ---> 11:40]
+chọn Sigma ở địa điểm bằng Hà Nội của dự án thì trong cái biểu thức này chúng ta là chọn ra các dự án mà có địa điểm ở Hà Nội

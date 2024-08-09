@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+ở mức 7 chúng ta chuyển đổi các kiểu liên kết các n với n lớn hơn hoặc bằng 3 Giả sử chúng ta có

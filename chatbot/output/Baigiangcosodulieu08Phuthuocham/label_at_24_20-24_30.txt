@@ -1,0 +1,2 @@
+[24:20 ---> 24:30]
+nhạc tất cả các thuộc tính của cái lược đồ quan hệ r hãy nói một cách khác x chính là siêu khóa của

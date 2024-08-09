@@ -1,0 +1,2 @@
+[44:00 ---> 44:10]
+tự nhiên số cạnh của đồ thị bên phải là tối thiểu và ít hơn số cạnh của đồ thị bên trái đây chính là ý nghĩa

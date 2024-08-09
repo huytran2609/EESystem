@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+làm một kiểu liên kết để quy và nó cho chúng ta biết một nhân viên đang giám sát những nhân viên nào trong công ty và ngược lại

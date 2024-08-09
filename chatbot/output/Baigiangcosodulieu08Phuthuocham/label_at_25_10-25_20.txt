@@ -1,0 +1,2 @@
+[25:10 ---> 25:20]
+có bằng tập tất cả các thuộc tính của R2 không Nếu có thì chúng ta sẽ kiểm tra tiếp xem X có là

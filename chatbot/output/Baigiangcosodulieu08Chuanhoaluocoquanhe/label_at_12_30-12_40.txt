@@ -1,0 +1,2 @@
+[12:30 ---> 12:40]
+bao gồm hai thuộc tính là mã nhân viên và họ tên trong đó mã nhân viên là quá trình và lược đồ

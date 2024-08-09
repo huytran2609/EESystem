@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+bao gồm tất cả các thuộc tính của lớp cha C và tất cả các thuộc tính của lớp con si chúng ta có thể thấy được biểu thức này

@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+Căn cứ vào các yêu cầu thiết kế các yêu cầu thiết kế có thể là các bài toán thực tế hoặc các bài tập trong môn học cơ sở dữ liệu

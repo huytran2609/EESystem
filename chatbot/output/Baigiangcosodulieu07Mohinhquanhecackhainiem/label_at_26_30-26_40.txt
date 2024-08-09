@@ -1,0 +1,2 @@
+[26:30 ---> 26:40]
+chỉ khác cơ sở dữ liệu dv1 ở chỗ là kỳ quan hệ vật nuôi

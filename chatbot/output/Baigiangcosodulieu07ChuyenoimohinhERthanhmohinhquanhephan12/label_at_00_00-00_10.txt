@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+trong video này chúng ta sẽ nghiên cứu các bước để chuyển đổi một mô hình R thành mô hình quan hệ và chúng

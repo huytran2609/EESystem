@@ -1,0 +1,2 @@
+[14:10 ---> 14:20]
+dòng 17 để đổi tên một bảng đã tồn tại ở đây thì chúng ta đổi tên đơn vị thành d'

@@ -1,0 +1,2 @@
+[13:50 ---> 14:00]
+làm một cái giá trị này là tham chiếu đến cái bộ thứ nhất của quan hệ

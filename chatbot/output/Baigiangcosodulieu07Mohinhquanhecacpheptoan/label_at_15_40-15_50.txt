@@ -1,0 +1,2 @@
+[15:40 ---> 15:50]
+tính đầu tiên là của quan hệ đơn vị và bốn thuộc tính sau là của quan hệ dự án

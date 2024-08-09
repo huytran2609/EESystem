@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+bảng từ khóa primary key sau đó đến danh sách các thuộc tính tạo nên khóa chính đó là tên

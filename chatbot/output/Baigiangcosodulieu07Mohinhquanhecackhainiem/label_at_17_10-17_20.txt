@@ -1,0 +1,2 @@
+[17:10 ---> 17:20]
+lược đồ quan hệ nó không thỏa mãn cả hai cái điều kiện này tức là nó không là giá trị luôn nhưng mà nó không tham chiếu đến

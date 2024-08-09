@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+sao chúng ta sẽ vẽ sơ đồ R và đặt tên cho sơ đồ này là công ty

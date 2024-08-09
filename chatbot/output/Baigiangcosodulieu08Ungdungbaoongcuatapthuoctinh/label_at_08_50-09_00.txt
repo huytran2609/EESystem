@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+2 A6 đều là tập con thực sự của tập tất cả các thuộc tính của lược đồ quan hệ r do đó

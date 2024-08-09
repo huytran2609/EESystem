@@ -1,0 +1,2 @@
+[16:50 ---> 17:00]
+là thông tin của tất cả các đơn vị phép giao R và s ở các dòng từ 11 đến 13

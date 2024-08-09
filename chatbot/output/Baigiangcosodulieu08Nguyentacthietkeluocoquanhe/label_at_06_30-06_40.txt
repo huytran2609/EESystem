@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+tốn không gian lưu trữ rồi kết quả của các phép nối là bị giảm ý nghĩa và các hàm nhóm thì không tính toán được trên giá

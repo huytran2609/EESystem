@@ -1,0 +1,2 @@
+[12:20 ---> 12:30]
+chúng ta thấy rằng là báo của A4 chỉ gồm có hai thuộc tính là a 4 và a2 do đó A4 không phải là một chìa khóa như vậy

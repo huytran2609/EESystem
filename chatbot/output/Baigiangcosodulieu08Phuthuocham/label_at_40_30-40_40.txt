@@ -1,0 +1,2 @@
+[40:30 ---> 40:40]
+giữ nguyên và kết thúc bước 10 cho đến lúc 14 thì chúng ta thu được một cái tập phụ thuộc hàm lượng tương đương với

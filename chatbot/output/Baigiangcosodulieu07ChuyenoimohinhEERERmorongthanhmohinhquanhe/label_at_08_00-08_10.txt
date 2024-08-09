@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+các thuộc tính của lớp cha và các lớp con đồng thời tạo thêm 6 thuộc tính kiểu được đặt tên là thư ký

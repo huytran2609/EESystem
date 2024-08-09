@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+mệnh đề Where để xác định các hàng cần sửa khi thực hiện phép sửa ở trên một cột mà không phải

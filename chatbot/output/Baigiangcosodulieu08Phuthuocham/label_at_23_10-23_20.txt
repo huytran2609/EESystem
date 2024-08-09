@@ -1,0 +1,2 @@
+[23:10 ---> 23:20]
+nếu xuất phát từ mã nhân viên thì chúng ta chỉ đi được đến họ tên và như vậy cái vùng liên thông ý là chỉ có hai hai nút tương ứng

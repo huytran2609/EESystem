@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+gạch chân thuộc tính giá trị được đặt trong cặp dấu ngoặc nhọn và các thuộc tính khác cũng được liệt kê ở phía dưới

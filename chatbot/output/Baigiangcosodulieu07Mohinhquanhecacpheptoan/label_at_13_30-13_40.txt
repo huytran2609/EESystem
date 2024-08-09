@@ -1,0 +1,2 @@
+[13:30 ---> 13:40]
+các cái cặp thuộc tính ai và Bi bằng nhau từng đôi một với y chạy từ 1 đến n và

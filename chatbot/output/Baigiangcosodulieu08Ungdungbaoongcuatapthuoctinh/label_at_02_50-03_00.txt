@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+kết quả gồm có 4 dòng thứ nhất là tập trung tính của lược đồ quan hệ lần thứ hai là tập thuộc tính X mà chúng ta

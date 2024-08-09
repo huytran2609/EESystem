@@ -1,0 +1,2 @@
+[07:30 ---> 07:40]
+ổ khóa phức hợp là phải tối thiểu nghĩa là nếu chúng ta bỏ đi bất kỳ một thuộc tính nào trong quá phức hợp thì cái

@@ -1,0 +1,2 @@
+[23:20 ---> 23:30]
+sẽ xem xét một số trạng thái cơ sở dữ liệu quan hệ hay là gọi một cách ngắn gọn hơn là cơ sở dữ liệu quan hệ của cái lược đồ f của chúng ta

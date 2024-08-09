@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+ở trong một trạng thái quan hệ r thỏa mãn các biểu thức từ 2 cho đến 5

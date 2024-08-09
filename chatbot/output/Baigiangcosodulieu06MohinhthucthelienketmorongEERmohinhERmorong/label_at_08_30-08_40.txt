@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+và sinh viên có một số cách xác định các lớp con trước hết Nếu ta có thể xác định chính xác các thực

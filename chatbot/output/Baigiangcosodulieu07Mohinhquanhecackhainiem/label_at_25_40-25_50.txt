@@ -1,0 +1,2 @@
+[25:40 ---> 25:50]
+cụ thể là khóa ngoài giá trị khóa ngoài 1 thì tham chiếu đến bộ thứ nhất

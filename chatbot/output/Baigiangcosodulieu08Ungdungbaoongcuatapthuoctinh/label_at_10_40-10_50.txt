@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+vân vân cho đến A6 vẫn là một siêu khóa và so sánh với cái lần lặp thứ nhất thì chìa khóa này đã bớt đi được một

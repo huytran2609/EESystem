@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+địa điểm của công ty là thuộc tính giá trị 11 công ty có thể có nhiều địa điểm nhiều vị trí

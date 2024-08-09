@@ -1,0 +1,2 @@
+[14:40 ---> 14:50]
+mã DV thành mã đơn vị và dòng 17 thì chúng ta cũng sử dụng câu lệnh while

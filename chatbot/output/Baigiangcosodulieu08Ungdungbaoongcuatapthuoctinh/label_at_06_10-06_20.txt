@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+Xác định hàm A5 có suy diễn Được từ S hay không và để làm điều này chúng ta tính

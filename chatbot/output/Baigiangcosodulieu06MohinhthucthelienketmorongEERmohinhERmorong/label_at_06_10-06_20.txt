@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+thành một lớp cha mới là ai khi đó A có các lớp con là E1 E2

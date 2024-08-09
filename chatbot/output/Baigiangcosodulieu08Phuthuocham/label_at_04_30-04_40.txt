@@ -1,0 +1,2 @@
+[04:30 ---> 04:40]
+Xác định hàm y được định nghĩa là suy diễn Được từ f nếu như thuộc hàm đó đúng trong

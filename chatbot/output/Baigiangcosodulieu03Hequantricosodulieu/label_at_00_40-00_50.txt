@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+ràng buộc của phế liệu hệ quản trị cơ sở dữ liệu có chức năng nữa là xây dựng cơ sở dữ liệu thì đây là cái quá trình

@@ -1,0 +1,2 @@
+[24:40 ---> 24:50]
+mà thỏa mãn trong R thì chúng ta đều có hoặc X là một chìa khóa của R hoặc A là một thuộc tính khóa của

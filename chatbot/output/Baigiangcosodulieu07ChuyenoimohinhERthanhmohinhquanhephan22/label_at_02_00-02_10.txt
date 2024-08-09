@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+với mỗi loại vật tư V ở mỗi dự án tà có thể có nhiều đại lý D cung cấp và ràng buộc này tương đương với mệnh đề là

@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+thực thể thì không thể tồn tại ở một lớp con Độc lập mà phải có nắp chai giữa lớp cha và các lớp con của nó có các liên kết được gọi là liên kết lớp cha con

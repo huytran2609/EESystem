@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+bóng của a2 A6 và sau khi thực hiện thuật toán tìm báo đóng thì chúng ta thấy là 3 Đóng của a2 A6

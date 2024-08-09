@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+Do đó các vi phạm về ràng buộc tuân theo các ràng buộc của phép chèn và phép xóa và trường hợp thứ ba là

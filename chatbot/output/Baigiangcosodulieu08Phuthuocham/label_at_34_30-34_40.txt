@@ -1,0 +1,2 @@
+[34:30 ---> 34:40]
+và sẽ là tập ACB và cái tập ACB này chứa

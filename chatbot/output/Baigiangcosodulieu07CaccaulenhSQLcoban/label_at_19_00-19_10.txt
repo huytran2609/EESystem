@@ -1,0 +1,2 @@
+[19:00 ---> 19:10]
+cùng tên mã đơn vị ở vị trí cột thứ nhất và mã đơn vị ở vị trí cột thứ 8 là bằng nhau như vậy nhìn được kết quả này thì chúng

@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+Air Blade cho phép vẽ 3 loại sơ đồ là sơ đồ ER lược đồ quan hệ và

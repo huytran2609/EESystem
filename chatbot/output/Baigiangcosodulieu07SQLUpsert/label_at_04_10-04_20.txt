@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+để bỏ qua lỗi vi phạm dòng Bộc khóa của lệnh chèn chúng ta sử dụng câu lệnh Insert in no in to của mysql ở dòng 16

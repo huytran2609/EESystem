@@ -1,0 +1,2 @@
+[04:30 ---> 04:40]
+trước hết làm việc là kiểu liên kết giữa hai kiểu thực thể nhân viên và đơn vị cặp số 11 ở đây

@@ -1,0 +1,2 @@
+[09:40 ---> 09:50]
+và tham chiếu đến lược đồ quan hệ R2 Nếu nó thỏa mãn hai điều kiện như sau điều kiện thứ nhất là các thuộc tính trong

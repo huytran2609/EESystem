@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+một mô hình cơ sở dữ liệu được định nghĩa là một tập hợp các khái niệm dùng để biểu diễn các cấu trúc của cơ sở dữ liệu bao gồm có

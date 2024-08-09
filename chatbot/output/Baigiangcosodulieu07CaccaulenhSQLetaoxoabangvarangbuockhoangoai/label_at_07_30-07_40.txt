@@ -1,0 +1,2 @@
+[07:30 ---> 07:40]
+phải xóa các bản mà không bị tham chiếu đến hay nói một cách hình ảnh là các bảng mà có mũi tên đi ra và

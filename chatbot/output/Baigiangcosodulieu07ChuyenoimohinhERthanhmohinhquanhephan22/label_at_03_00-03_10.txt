@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+mã dự án sau đó thì chúng ta tạo lược đồ quan hệ cung cấp để thể hiện liên kết ba ngôi lược đồ này có khóa

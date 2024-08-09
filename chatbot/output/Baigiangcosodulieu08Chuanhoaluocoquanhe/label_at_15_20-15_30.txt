@@ -1,0 +1,2 @@
+[15:20 ---> 15:30]
+ra khỏi r Thứ hai tao gọi I là thuộc tính bắc cầu có nghĩa là chúng ta có hai phụ thuộc hàm

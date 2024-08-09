@@ -1,0 +1,2 @@
+[28:10 ---> 28:20]
+số 1 thì chúng ta gán K là bài tập tất cả các thuộc tính của R theo quy tắc 1 của Android

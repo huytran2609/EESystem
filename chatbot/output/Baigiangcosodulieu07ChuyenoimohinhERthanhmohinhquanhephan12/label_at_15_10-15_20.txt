@@ -1,0 +1,2 @@
+[15:10 ---> 15:20]
+và chúng ta có lược đồ nhân viên sau khi bổ sung thuộc tính mới là như sau các thuộc tính ban đầu là mã nhân viên cho

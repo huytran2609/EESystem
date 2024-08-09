@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+lk như vậy chúng ta thấy rằng lớp cha C và mỗi lớp có Fi có liên kết với ràng buộc tỉ số lực lượng

@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+có kiểu vacha 16 ở dòng thứ 3 của câu lệnh SQL chúng ta chỉ ra khóa chính của lược đồ quan hệ

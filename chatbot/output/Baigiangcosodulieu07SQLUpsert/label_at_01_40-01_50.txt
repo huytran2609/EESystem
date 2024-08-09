@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+tuần theo chuẩn MC SQL và có gạch chân ở trong bảng này các câu lệnh mở rộng của Intech đều được thực hiện như sau nếu như

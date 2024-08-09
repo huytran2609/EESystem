@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+hoặc của đơn vị vào trong cái quan hệ này và do đó là cái phần thông tin còn lại nó sẽ là các giá trị

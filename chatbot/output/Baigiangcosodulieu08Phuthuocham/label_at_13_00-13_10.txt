@@ -1,0 +1,2 @@
+[13:00 ---> 13:10]
+x Xác định hàm yz thì chúng ta có thể tách cái iz ở bên vế phải ra tức là chúng ta sẽ có đồng thời x Xác định hàm y và

@@ -1,0 +1,2 @@
+[37:10 ---> 37:20]
+không thể thay thế bất kỳ phụ thuộc hàm nào trong app có dạng là x Xác định hàm A bằng một phụ thuộc hàm có

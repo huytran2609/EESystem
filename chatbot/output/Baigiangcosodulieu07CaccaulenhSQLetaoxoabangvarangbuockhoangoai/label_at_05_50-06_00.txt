@@ -1,0 +1,2 @@
+[05:50 ---> 06:00]
+mã nhân viên trong bảng nhân viên đối với bảng dự án chúng ta có một tham chiếu khóa ngoài khóa chính

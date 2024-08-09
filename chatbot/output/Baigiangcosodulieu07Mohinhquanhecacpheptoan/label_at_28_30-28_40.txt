@@ -1,0 +1,2 @@
+[28:30 ---> 28:40]
+danh sách các cái card bao gồm hàm và thuộc tính với hàm là một trong các hàm đã được định nghĩa sẵn và hàng tổng hàm lấy trung bình

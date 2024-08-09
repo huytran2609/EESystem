@@ -1,0 +1,2 @@
+[24:10 ---> 24:20]
+và bảy chú tính trong đó có thuộc tính trùng tên là mã đơn vị đã được loại bỏ để tránh dư thừa dữ liệu

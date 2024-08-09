@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+các thuộc tính bao gồm các thuộc tính của lớp cha và các lớp con đồng thời tạo thêm một thuộc tính kiểu

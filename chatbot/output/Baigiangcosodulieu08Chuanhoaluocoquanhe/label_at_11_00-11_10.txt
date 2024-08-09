@@ -1,0 +1,2 @@
+[11:00 ---> 11:10]
+phụ thuộc hàm như sau Thứ nhất là mã nhân viên mã dự án xác định hàm số giờ họ tên tên dự án hơn địa điểm

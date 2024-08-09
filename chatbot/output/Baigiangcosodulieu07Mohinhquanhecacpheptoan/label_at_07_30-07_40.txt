@@ -1,0 +1,2 @@
+[07:30 ---> 07:40]
+chọn ra một tập hợp các bộ từ mối quan hệ mà thỏa mãn một cái điều kiện chọn nào đó và chúng ta

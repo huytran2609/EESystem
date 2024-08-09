@@ -1,0 +1,2 @@
+[07:10 ---> 07:20]
+đó thì mã dự án vẫn là khóa chính sau đó chúng ta tạo được đồ quan hệ mới đặt tên là nhân viên số giờ với

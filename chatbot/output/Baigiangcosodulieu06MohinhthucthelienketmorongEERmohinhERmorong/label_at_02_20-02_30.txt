@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+một thực thể thuộc một lớp con sẽ thừa kế tất cả các thuộc tính của lớp cha và tham gia vào liên kết của lớp Cha

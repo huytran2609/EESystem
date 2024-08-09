@@ -1,0 +1,2 @@
+[04:30 ---> 04:40]
+thuộc tính một cách hợp lý hơn bằng cách là kéo thả các đối tượng chúng ta vừa vẽ

@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+đối với quy tắc suy diễn này chúng ta sẽ tính báo đóng x cộng của tập thuộc tính ở bên vế trái của phụ

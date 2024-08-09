@@ -1,0 +1,2 @@
+[33:20 ---> 33:30]
+là thể hiện bằng màu xanh ở phía bên tay phải chúng ta gọi hai cái tập phụ thuộc hàm này tương ứng là

@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+để lưu trữ trong trong cơ sở dữ liệu tiếp theo là các chức năng liên quan đến bảo mật và

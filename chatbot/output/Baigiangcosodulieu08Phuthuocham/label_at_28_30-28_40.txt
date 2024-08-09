@@ -1,0 +1,2 @@
+[28:30 ---> 28:40]
+toán này là tìm cách lấy ra được một chìa khóa tối thiểu từ ga nên chúng ta thực hiện vòng lặp for từng bước 2

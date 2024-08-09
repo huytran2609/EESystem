@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+hai bằng nhau trên tập thuộc tính X thì T1 và T2 cũng bằng nhau trên các số tự nhiên phụ thuộc hàm từ X

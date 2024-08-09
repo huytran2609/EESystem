@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+do giá trị min ở đây là 1 và có thể tham gia nhiều dự án vì giá trị Max ở đây là

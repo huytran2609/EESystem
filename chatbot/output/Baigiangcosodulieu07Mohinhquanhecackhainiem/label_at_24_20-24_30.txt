@@ -1,0 +1,2 @@
+[24:20 ---> 24:30]
+và ràng buộc toàn vẹn tham chiếu c220 đối với ràng buộc toàn vẹn thực thể C1 thì chúng ta chỉ cần kiểm tra

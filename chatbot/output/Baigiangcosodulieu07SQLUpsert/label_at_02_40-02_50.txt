@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+kết quả thực hiện các lệnh Nếu chúng ta thực hiện lệnh Insert ở dòng 11 với giá trị khóa PK là

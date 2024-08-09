@@ -1,0 +1,2 @@
+[43:30 ---> 43:40]
+nhà đất Vũ Thư Hàn f ở phía bên phải các cạnh của đồ thị tương ứng với phủ tối thiểu G của S

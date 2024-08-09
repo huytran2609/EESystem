@@ -1,0 +1,2 @@
+[20:30 ---> 20:40]
+chúng ta sẽ định nghĩa tiếp về các ràng buộc toàn vẹn có

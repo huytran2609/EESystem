@@ -1,0 +1,2 @@
+[24:00 ---> 24:10]
+ví dụ Chúng ta có kiểu thực thể trẻ em là một kiểu thực thể yếu người ta không xác định được

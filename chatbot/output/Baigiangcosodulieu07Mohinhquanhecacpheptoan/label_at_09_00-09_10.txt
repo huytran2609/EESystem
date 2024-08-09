@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+phép chiếu được kí hiệu là pi sau đó chỉ số dưới là danh sách các thuộc tính và đóng mở ngoặc tên của quan hệ

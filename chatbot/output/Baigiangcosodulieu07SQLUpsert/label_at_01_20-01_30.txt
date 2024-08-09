@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+like thì không hỗ trợ mới các hệ quản trị cơ sở dữ liệu này sử dụng các phần mở rộng của

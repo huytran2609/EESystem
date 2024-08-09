@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+là một tập hợp các chương trình giúp cho người sử dụng tạo ra duy trì và khai thác cơ sở dữ liệu và hệ quản trị cơ sở dữ liệu sẽ thực hiện

@@ -1,0 +1,2 @@
+[25:40 ---> 25:50]
+bằng chứng tập thuộc tính của r a nếu mà cái tập S này không tồn tại thì điều đó có nghĩa là x

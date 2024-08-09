@@ -1,0 +1,2 @@
+[26:50 ---> 27:00]
+mã nhân viên mã dự án chính là một siêu khóa của lược đồ quan hệ r bây giờ chúng ta sẽ thấy rằng là nếu

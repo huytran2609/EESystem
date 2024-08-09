@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+ta thay đổi giá trị của tham số thứ ba từ 0 trong 1 và ngoài những thông tin mà giống như

@@ -1,0 +1,2 @@
+[09:30 ---> 09:40]
+tạo khoa đại diện cho u sau đây chúng ta xem xét một ví dụ về chuyển đổi kiểu hợp ở trong ví dụ

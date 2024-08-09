@@ -1,0 +1,2 @@
+[16:30 ---> 16:40]
+do đó trước hết chúng ta sử dụng nút reset để tạo kiểu liên kết giám sát

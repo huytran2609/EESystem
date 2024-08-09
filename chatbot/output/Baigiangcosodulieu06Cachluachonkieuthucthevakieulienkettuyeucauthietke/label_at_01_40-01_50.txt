@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+tương tự với lược đồ rơ Bank ở trong đựng đồ này thì chúng ta cần lưu ý có hai kiểu liên kết

@@ -1,0 +1,2 @@
+[19:40 ---> 19:50]
+quan hệ thì sẽ là một tập hợp các lược đồ quan hệ và một tập hợp các ràng buộc toàn vẹn C

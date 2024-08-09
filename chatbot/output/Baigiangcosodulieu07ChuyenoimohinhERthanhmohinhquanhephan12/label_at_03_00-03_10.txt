@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+Chúng ta đưa các thuộc tính khóa chính ký hiệu là k của ARN

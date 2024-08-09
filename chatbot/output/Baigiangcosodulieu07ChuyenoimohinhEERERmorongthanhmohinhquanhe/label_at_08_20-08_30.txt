@@ -1,0 +1,2 @@
+[08:20 ---> 08:30]
+nhận giá trị đúng hoặc sai và được dùng để chỉ ra là một bộ thuộc vào lớp quan nào chúng ta có thể có các lớp con

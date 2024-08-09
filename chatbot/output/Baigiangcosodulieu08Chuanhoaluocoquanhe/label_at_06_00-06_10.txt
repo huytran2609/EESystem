@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+mới là địa điểm đơn vị với hai thuộc tính là mã đơn vị và địa điểm và lược đồ mới này thì có khóa chính là cặp thuộc

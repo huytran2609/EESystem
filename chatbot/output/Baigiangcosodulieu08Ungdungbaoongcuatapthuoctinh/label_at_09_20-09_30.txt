@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+set lược đồ quan hệ r = 6 thuộc tính A1 A2 vân vân A6 và để tìm một khóa của lược đồ quan hệ này

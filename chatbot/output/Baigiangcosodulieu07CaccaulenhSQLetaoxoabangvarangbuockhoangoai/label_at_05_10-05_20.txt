@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+cô đơn vị tham chiếu thứ hai là khóa ngoài người giám sát của bảng nhân viên

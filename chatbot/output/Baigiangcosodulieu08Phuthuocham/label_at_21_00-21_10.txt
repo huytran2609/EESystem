@@ -1,0 +1,2 @@
+[21:00 ---> 21:10]
+quy tắc tách của Android chúng ta sẽ tách phụ thuộc hàng mã dự án này thành hai phụ thuộc hàng là mã dự án xác định hàm tên

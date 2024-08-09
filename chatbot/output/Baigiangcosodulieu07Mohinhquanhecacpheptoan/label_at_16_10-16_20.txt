@@ -1,0 +1,2 @@
+[16:10 ---> 16:20]
+và để phân biệt nó với cái mã đơn vị này là được lấy từ quan hệ đơn vị

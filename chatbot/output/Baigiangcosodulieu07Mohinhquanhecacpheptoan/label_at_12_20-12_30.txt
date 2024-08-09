@@ -1,0 +1,2 @@
+[12:20 ---> 12:30]
+thực hiện phép chiếu trên hai cái thuộc tính là mã dự án và tên dự án ở trên quan hệ hn và thu được kết quả

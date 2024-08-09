@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+tủ lạnh update Còn nếu bạn ghi chưa tồn tại thì thực hiện câu lệnh Insert trong nhiều tình huống thực tế chúng ta cần phải chèn một số bản ghi vào một bảng

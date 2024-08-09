@@ -1,0 +1,2 @@
+[11:20 ---> 11:30]
+Hàng Buồm thì chúng ta có thể chọn edit anh khác constant và đưa vào các con số tương ứng

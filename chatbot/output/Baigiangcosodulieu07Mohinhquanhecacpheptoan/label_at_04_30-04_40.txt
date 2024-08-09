@@ -1,0 +1,2 @@
+[04:30 ---> 04:40]
+toàn vẹn tham chiếu do giá trị khóa chính ở đây là dv3 được tham chiếu từ bộ

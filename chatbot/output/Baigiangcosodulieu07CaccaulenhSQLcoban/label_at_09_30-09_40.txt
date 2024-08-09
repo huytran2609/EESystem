@@ -1,0 +1,2 @@
+[09:30 ---> 09:40]
+sửa giá trị khoáng ngoài việc sửa này cần đảm bảo là giá trị mới phải thỏa mãn ràng buộc tham chiếu tức là giá trị mới hoặc phải là null

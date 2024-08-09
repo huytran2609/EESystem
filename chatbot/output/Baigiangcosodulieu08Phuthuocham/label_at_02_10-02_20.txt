@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+phụ thuộc hàm là số thẻ Xác định hàm người mượn mã sách Xác định hàm trên sách và tập thuộc tính số thẻ mã sách

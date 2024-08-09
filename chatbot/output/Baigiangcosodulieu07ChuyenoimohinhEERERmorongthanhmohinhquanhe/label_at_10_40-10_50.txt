@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+kết hợp các bước chuyển đổi mô hình AR với các cách chuyển đổi mô hình arm rộng sẽ cho phép chúng ta đáp ứng được nhiều yêu cầu

@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+thị xã Yên chi tiết các bước thực hiện tham số cuối cùng thì chính là tập thuộc tính X của chúng ta cần tìm

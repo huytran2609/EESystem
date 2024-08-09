@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+được gọi là một phụ thuộc hàm đầy đủ Nếu chúng ta bỏ đi bất kỳ một thấu kính a nào thuộc x thì phụ thuộc hàng đó không còn đúng nữa hãy nói

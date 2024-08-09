@@ -1,0 +1,2 @@
+[04:20 ---> 04:30]
+Thế thì khi mà các giải pháp cơ sở dữ liệu ra đời đặc biệt là hệ quản trị cơ sở dữ liệu thì nó mang lại bốn cái lợi

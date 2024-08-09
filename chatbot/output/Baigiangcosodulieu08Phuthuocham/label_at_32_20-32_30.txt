@@ -1,0 +1,2 @@
+[32:20 ---> 32:30]
+bạo động của người trái là chứa với phải và điều này đúng với mọi phụ thuộc hàm

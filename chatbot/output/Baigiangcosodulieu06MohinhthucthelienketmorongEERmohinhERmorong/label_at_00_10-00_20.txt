@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+xây dựng một cơ sở dữ liệu chúng ta thường bắt đầu bằng xây dựng mô hình thực thể liên kết hay còn gọi là mô hình r sau đó chuyển

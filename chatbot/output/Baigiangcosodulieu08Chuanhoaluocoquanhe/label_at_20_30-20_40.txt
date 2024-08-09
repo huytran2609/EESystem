@@ -1,0 +1,2 @@
+[20:30 ---> 20:40]
+làm đầy đủ và khóa chính và chúng ta không có phụ thuộc vào bộ phận do đó R là 2nf chúng ta không có

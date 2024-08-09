@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+cách biểu diễn dữ liệu vật lý ở trong máy tính và ở giữa hai cái mô hình Dữ liệu bậc cao và mô hình chế độ bậc thấp chúng ta có

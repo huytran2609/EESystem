@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+chúng ta sẽ phải thực hiện được các phép nối và sử dụng điều kiện nối trên dựa trên khóa chính và khóa ngoài

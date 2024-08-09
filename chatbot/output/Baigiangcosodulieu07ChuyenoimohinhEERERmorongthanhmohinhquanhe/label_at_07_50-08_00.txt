@@ -1,0 +1,2 @@
+[07:50 ---> 08:00]
+ví dụ về cách chuyển đổi 8 d chúng ta tạo một lược đồ quan hệ nhân viên có tập các thuộc tính bao gồm

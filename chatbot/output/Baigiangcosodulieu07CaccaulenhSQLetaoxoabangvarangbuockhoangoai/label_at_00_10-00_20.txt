@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+trước hết chúng ta Nhớ lại là trong các bài học trước chúng ta đã có lược đồ ER có tên là công ty với các kiểu thực thể

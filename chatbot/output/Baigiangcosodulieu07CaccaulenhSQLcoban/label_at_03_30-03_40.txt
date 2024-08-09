@@ -1,0 +1,2 @@
+[03:30 ---> 03:40]
+23 và khóa ngoài mã đơn vị tham chiếu đến mã đơn vị

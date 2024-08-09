@@ -1,0 +1,2 @@
+[15:30 ---> 15:40]
+Xác định hàm y và y Xác định hàm X chúng ta sẽ tạo lược đồ quan hệ mới s và các thuộc tính là y và x

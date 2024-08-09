@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+mở két tách không đạt được tính chất bảo toàn phụ thuộc thì chúng ta vẫn có thể chấp nhận được

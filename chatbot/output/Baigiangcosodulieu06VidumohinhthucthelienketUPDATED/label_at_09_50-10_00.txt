@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+chúng ta cần phải liên kết kiểu thực thể yếu là con với một kiểu thực thể chủ mạnh vào trong trường hợp này thì là

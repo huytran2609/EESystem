@@ -1,0 +1,2 @@
+[24:10 ---> 24:20]
+nếu mỗi thuộc tính không hóa trong r không phụ thuộc hàm bộ phận và một khóa bất kỳ của R và thì ở đây chúng ta lưu ý là

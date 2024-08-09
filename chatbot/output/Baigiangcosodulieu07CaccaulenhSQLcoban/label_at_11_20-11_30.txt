@@ -1,0 +1,2 @@
+[11:20 ---> 11:30]
+của mã đơn vị ở trong bảng dự án tham chiếu đến một khóa chính không tồn tại ở trong bảng đơn vị

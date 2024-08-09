@@ -1,0 +1,2 @@
+[22:40 ---> 22:50]
+các kiểu liên kết cũng có các thuộc tính và chúng ta xét ví dụ sau chúng ta có hai thực thể là nhân viên và dự án và một

@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+khóa chính của r123 n thường là tổ hợp của k1 k2 và KL tuy nhiên

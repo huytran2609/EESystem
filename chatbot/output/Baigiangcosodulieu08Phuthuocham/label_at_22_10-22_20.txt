@@ -1,0 +1,2 @@
+[22:10 ---> 22:20]
+Bạn tên dự án Địa điểm và số giờ đây chính là toàn bộ các thuộc tính của lược đồ quan hệ R thì chúng ta có một cái nhận xét rằng là

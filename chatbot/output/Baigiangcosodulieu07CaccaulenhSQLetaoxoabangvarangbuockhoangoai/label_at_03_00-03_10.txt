@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+tiếp theo chúng ta sẽ tạo các tham chiếu khóa ngoài đến khóa chính đầu tiên là bảng con

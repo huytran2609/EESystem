@@ -1,0 +1,2 @@
+[17:50 ---> 18:00]
+các lược đồ quan hệ thì cần phải thỏa mãn ba cái loại ràng buộc như sau ràng buộc thứ nhất là ràng buộc miền

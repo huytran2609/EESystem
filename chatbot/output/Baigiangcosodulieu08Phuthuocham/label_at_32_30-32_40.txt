@@ -1,0 +1,2 @@
+[32:30 ---> 32:40]
+x sẽ bị hàm y ở trong A thì khi đó là F của E hay là E Là tập con của phép cộng

@@ -1,0 +1,2 @@
+[07:40 ---> 07:50]
+nào kiểm soát ở phía đơn vị thì chúng ta có cặp số là 0 n nghĩa là đơn vị tham gia vào liên kết kiểm

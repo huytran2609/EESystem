@@ -1,0 +1,2 @@
+[23:00 ---> 23:10]
+nhân dân của trục phải tham chiếu đến một cái giá trị có trong thuộc tính số chứng minh nhân dân của

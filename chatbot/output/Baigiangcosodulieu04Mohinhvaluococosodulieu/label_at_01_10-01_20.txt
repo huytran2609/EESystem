@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+trong khi đó thì mô hình Dữ liệu bậc thấp hay là các mô hình Dữ liệu vật lý thì lại cung cấp các khái niệm mô tả về

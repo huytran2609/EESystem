@@ -1,0 +1,2 @@
+[05:50 ---> 06:00]
+chúng ta sẽ lấy khóa chính của một trong hai thực thể đưa vào làm khóa ngoài vào trong thực thể kia

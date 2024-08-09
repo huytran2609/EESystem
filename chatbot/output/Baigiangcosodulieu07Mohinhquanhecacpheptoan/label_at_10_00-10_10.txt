@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+R thì cái phép toán này có nghĩa là chúng ta đổi tên quan hệ r với danh sách các thuộc tính

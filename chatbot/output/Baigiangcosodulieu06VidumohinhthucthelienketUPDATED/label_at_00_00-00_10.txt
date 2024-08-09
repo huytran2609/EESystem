@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+video này trình bày một ví dụ về việc xây dựng mô hình thực thể liên kết cho một công ty và để cho tiện chúng ta sẽ sử dụng thuật ngữ

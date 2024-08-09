@@ -1,0 +1,2 @@
+[36:30 ---> 36:40]
+nói là cái hệ thống đường màu tím và hệ thống đường màu xanh là tương đương với nhau hay là nói theo đúng thuật ngữ là hai tập phụ thuộc hàm là tương đương với nhau

@@ -1,0 +1,2 @@
+[10:30 ---> 10:40]
+bộ T1 tham chiếu đến bộ T2 chúng ta sẽ gọi R1 là

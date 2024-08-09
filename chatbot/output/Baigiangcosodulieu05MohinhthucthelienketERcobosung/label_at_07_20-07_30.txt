@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+thì có thể bao gồm một thuộc tính hoặc là nhiều thuộc tính khóa mà bao gồm nhiều tập tính thì chúng ta gọi là quá phức hợp

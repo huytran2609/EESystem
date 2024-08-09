@@ -1,0 +1,2 @@
+[02:50 ---> 03:00]
+có hai thuộc tính và khóa chính bao gồm cả hai thuộc tính này là mã đơn vị và địa điểm

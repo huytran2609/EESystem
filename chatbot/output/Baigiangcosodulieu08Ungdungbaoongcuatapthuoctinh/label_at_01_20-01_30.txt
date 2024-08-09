@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+Tới 6 thuộc tính được kí hiệu A1 A2 vân vân cho đến A6 và tập phụ thuộc hàm f với 3 phụ thuộc hàm phụ thuộc hàm

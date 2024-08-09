@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+r với n thuộc tính A1 A2 Vân Vân An được gọi là ở dạng chuẩn 1 nếu như miền giá trị của R

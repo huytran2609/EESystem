@@ -1,0 +1,2 @@
+[11:20 ---> 11:30]
+thêm một ký hiệu min max và tỉ số lực lượng trên lược đồ r chúng ta quan sát liên kết làm việc giữa hai kiểu thực thể là

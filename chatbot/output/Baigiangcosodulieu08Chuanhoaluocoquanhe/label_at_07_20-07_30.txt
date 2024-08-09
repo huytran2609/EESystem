@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+a thuộc tính trong đó mã nhân viên và số giờ thì chính là nhóm thuộc tính lặp vừa Bị loại ra khỏi lực

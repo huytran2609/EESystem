@@ -1,0 +1,2 @@
+[07:00 ---> 07:10]
+tập thuộc tính bao gồm hai thuộc tính là x và y người ta sử dụng kí hiệu này để cho nó ngắn gọn khi sử dụng các quy tắc suy diễn

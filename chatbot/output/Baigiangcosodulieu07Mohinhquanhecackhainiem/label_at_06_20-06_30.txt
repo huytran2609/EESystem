@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+chúng ta có các khái niệm mà tiếp theo là siêu khóa và khóa của một lược đồ quan hệ mục tiêu hóa SK là chúng ta định nghĩa là

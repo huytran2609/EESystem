@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+ta tạo một lược đồ quan hệ ai tương ứng với mỗi lớp con SYM của ai

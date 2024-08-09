@@ -1,0 +1,2 @@
+[20:00 ---> 20:10]
+dbs dps được định nghĩa là một tập hợp các trạng thái quan hệ R1 nhỏ R2 nhỏ cho đến rn

@@ -1,0 +1,2 @@
+[29:30 ---> 29:40]
+bò kho để chúng ta có ca là một khóa của R thì chúng ta thấy là trong thuật toán này thì thời gian

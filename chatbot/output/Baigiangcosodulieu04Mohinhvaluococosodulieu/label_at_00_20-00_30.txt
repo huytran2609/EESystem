@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+các kiểu dữ liệu các mối liên kết dữ liệu và các ràng buộc phải tuân theo một số mô hình cơ sở dữ liệu cần có thêm một tập hợp các phép toán cơ bản

@@ -1,0 +1,2 @@
+[14:30 ---> 14:40]
+sử dụng câu lệnh alter table chúng ta cũng đổi được tên các cột trong một bảng câu lệnh ở dòng 1 đổi tên cột

@@ -1,0 +1,2 @@
+[16:00 ---> 16:10]
+đổi cái kiểu liên kết này mỗi nhân viên có thể chưa có con hoặc có nhiều con nên chúng ta chọn ràng buộc là HCl và

@@ -1,0 +1,2 @@
+[21:00 ---> 21:10]
+loại ràng buộc thứ hai là ràng buộc toàn vẹn tham chiếu cái ràng buộc này liên quan đến khóa ngoài được phát biểu là một bộ

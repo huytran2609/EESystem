@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+có kiểu dữ liệu là nhãn thời gian nó bao gồm ngày tháng năm giờ phút giây miền D3 là miễn dữ liệu có

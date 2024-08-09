@@ -1,0 +1,2 @@
+[10:10 ---> 10:20]
+phải thuộc vào một lúc con nào đó ngược lại sẽ có một số thực thể của lớp cha không thuộc vào bất kỳ lúc còn nào

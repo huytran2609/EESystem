@@ -1,0 +1,2 @@
+[15:20 ---> 15:30]
+ta chú ý là cho ví dụ này thì nó hơi khác ví dụ trước là chúng ta có các cái số 1 và 2 ở đây

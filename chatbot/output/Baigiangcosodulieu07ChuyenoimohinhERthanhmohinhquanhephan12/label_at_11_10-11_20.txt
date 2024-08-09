@@ -1,0 +1,2 @@
+[11:10 ---> 11:20]
+địa chỉ ra đơn vị làm việc và cái mã đơn vị này là khóa ngoài của nhân viên tham chiếu đến đơn vị chúng ta sẽ

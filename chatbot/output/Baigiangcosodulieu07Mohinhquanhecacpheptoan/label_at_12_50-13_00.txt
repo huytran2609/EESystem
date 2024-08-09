@@ -1,0 +1,2 @@
+[12:50 ---> 13:00]
+để đổi tên cái kết quả trung gian tên dự án này thành một cái quan hệ có tên là

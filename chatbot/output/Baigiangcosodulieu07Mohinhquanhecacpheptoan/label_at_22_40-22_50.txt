@@ -1,0 +1,2 @@
+[22:40 ---> 22:50]
+không thỏa mãn điều kiện nổi thì nó vẫn được giữ lại trong quan hệ kết quả Nhưng cái phần bên phải của nó sẽ được

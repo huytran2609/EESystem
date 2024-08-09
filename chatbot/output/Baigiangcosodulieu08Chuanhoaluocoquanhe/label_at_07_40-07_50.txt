@@ -1,0 +1,2 @@
+[07:40 ---> 07:50]
+vào cái lược đồ quan hệ mới là nhân viên số giờ này và lược đồ quan hệ mới sẽ có khóa chính là cặp thuộc tính mã dự

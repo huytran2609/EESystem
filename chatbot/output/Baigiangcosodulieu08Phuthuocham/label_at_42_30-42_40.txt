@@ -1,0 +1,2 @@
+[42:30 ---> 42:40]
+a xác định hàm e như vậy phụ thuộc hàng a xác định hàm e này là suy diễn Được từ các phụ thuộc hàm khác trong

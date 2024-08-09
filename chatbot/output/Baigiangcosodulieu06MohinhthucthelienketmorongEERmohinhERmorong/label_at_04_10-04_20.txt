@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+là viết tắt của Bitcoin đường nối từ các lớp con cho đến hình tròn có chữ D có thêm ký hiệu tập con để chỉ rõ lớp con lớp

@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+chúng ta sẽ xác định hai lược đồ quan hệ tương ứng với hai thực thể là r e và rf thực chất là hai cái lược đồ này thì đã được xác định ở bước 1

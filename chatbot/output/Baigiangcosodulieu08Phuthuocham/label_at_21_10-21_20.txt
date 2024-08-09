@@ -1,0 +1,2 @@
+[21:10 ---> 21:20]
+vàng mã dự án xác định hàm địa điểm ở đây chúng ta có mũi tên đi từ mã dự án đến tên dự án và từ mã dự án đến địa điểm

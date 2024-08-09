@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+thi chuyên biệt hóa đó được gọi là chuyên biệt hóa xác định bằng thuộc tính nếu việc xác định một lớp con không thực hiện được theo một điều kiện nào

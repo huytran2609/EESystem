@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+dữ liệu và cơ sở dữ liệu Hiện nay có rất nhiều định nghĩa về

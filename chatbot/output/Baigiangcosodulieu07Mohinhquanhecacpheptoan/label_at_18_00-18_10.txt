@@ -1,0 +1,2 @@
+[18:00 ---> 18:10]
+rắn mối quan hệ đơn vị với quan hệ dự án trên điều kiện nối là đơn vị chấm mã đơn vị bằng dự án

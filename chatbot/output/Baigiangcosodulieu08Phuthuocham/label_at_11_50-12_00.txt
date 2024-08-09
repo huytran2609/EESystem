@@ -1,0 +1,2 @@
+[11:50 ---> 12:00]
+giá của phụ thuộc hàng nếu hai bộ T1 T2 trong một cái trạng thái quan hệ r thỏa mãn T1 = T2 trên x

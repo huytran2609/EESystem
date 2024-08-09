@@ -1,0 +1,2 @@
+[40:20 ---> 40:30]
+có thu được một tập phụ thuộc hàm tương đương với g hay không Nếu được thì chúng ta thực sự bỏ và phụ thuộc hàng mới đi Còn nếu không thì

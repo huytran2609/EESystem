@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+dựa trên khái niệm về phụ thuộc hàm đầy đủ và phụ thuộc vào bộ phận thì chúng ta định nghĩa dạng chuẩn 2 viết tắt là 2 nf

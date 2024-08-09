@@ -1,0 +1,2 @@
+[03:50 ---> 04:00]
+tên nhân viên có hai giá trị là Vân và nam và tương ứng Số giờ làm việc của hai nhân viên này là 15 và 20 tương tự như vậy

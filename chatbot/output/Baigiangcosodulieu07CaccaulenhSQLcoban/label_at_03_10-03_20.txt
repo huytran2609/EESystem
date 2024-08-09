@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+khóa chính của bảng đơn vị được tham chiếu từ bảng dự án với khóa ngoài là mã đơn vị thông tin này được liệt kê ở dòng 11

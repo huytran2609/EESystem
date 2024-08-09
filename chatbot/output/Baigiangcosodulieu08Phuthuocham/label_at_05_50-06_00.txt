@@ -1,0 +1,2 @@
+[05:50 ---> 06:00]
+của một tập phụ thuộc vào hàm f thì chính là s hợp với tập các phụ thuộc hàm suy diễn đường thẳng

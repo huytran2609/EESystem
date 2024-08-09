@@ -1,0 +1,2 @@
+[23:30 ---> 23:40]
+cơ sở dữ liệu thứ nhất Chúng ta gọi là db1 của s bao gồm có hai cái quan hệ quan hệ thứ nhất là

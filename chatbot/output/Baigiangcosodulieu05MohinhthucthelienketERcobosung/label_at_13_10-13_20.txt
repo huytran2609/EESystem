@@ -1,0 +1,2 @@
+[13:10 ---> 13:20]
+và trong trường hợp đó thì chúng ta gọi các kiểu liên kết như vậy là liên kết để quy và sau đây chúng ta sẽ lấy các ví dụ liên quan đến cấp của

@@ -1,0 +1,2 @@
+[37:40 ---> 37:50]
+dựa trên định nghĩa này thì chúng ta định nghĩa phủ tối thiểu một phủ tối thiểu của một tập phụ thuộc vào mép là một

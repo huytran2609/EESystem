@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+tạo ra mô hình thực thể liên kết mở rộng gọi tắt là ER mô hình AR có các khái niệm mới là lớp Cha

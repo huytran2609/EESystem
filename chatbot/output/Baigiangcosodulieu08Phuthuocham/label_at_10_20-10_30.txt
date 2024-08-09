@@ -1,0 +1,2 @@
+[10:20 ---> 10:30]
+thể hiện phụ thuộc hàng x sẽ bị hàm y biểu thức 4 và 5 thể hiện việc xz không xác định hàm y z nghĩa là

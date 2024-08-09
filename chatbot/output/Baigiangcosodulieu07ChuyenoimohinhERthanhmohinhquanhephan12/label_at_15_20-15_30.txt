@@ -1,0 +1,2 @@
+[15:20 ---> 15:30]
+địa chỉ chúng ta đã bổ sung mã đơn vị để chỉ ra đơn vị mà một nhân viên làm việc và chúng ta chỉ ra người giám sát tức

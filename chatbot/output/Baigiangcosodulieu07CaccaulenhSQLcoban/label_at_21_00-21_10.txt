@@ -1,0 +1,2 @@
+[21:00 ---> 21:10]
+hàng mà có giá trị của các cột từ 1 đến 4 lần luôn

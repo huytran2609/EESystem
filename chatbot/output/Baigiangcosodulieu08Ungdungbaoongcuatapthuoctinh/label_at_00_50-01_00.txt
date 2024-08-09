@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+để tìm bao đóng x+ của một tập thuộc tính X bất kì chúng ta có thuật toán 1 thuật toán 1 này đã được

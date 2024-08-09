@@ -1,0 +1,2 @@
+[20:00 ---> 20:10]
+phụ thuộc hàn vào các thuộc tính không khóa hay cụ thể là A2 thì phụ thuộc hàm và A4 trong đó A2 là

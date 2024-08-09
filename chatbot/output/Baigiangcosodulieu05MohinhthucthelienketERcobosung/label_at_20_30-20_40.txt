@@ -1,0 +1,2 @@
+[20:30 ---> 20:40]
+tham gia quản lý đơn vị d1 ở phía đơn vị thì chúng ta thấy tất cả các đơn vị đều tham gia vào các thể hiện liên kết

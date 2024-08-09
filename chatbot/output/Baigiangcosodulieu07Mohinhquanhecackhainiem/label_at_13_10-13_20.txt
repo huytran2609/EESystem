@@ -1,0 +1,2 @@
+[13:10 ---> 13:20]
+chúng ta sẽ xem xét các thuộc tính khóa chính và khóa ngoài trong lược đồ công dân chúng ta

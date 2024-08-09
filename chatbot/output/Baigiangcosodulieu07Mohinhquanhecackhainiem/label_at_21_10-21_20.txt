@@ -1,0 +1,2 @@
+[21:10 ---> 21:20]
+trong một quan hệ có tham chiếu đến một quan hệ khác thì phải tham chiếu đến một bộ giá trị tồn tại

@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+giữa các giá trị nguyên tố tức là các giá trị mà không phân chia được và đối với mọi bộ t = T1 T2 vân vân tn

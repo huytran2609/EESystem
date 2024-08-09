@@ -1,0 +1,2 @@
+[07:00 ---> 07:10]
+ràng buộc tham chiếu có nghĩa là nó hoặc nhận giá trị null hoặc phải tham chiếu đến một cái bộ mà đã tồn tại trong quan hệ

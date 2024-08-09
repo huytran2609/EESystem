@@ -1,0 +1,2 @@
+[37:20 ---> 37:30]
+Xác định hàm A với I là một tập con thực sự của X mà chúng ta vẫn thu được một tập phụ thuộc hàm tương đương với F

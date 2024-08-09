@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+ở phía dự án thì mỗi dự án cũng phải có ít nhất là một nhân viên do giá trị min là 1

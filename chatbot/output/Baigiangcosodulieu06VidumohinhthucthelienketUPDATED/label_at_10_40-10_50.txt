@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+có và đoạn thẳng nét đôi này để thể hiện sự liên kết của biểu thức thể hiện kiểu liên kết giám sát

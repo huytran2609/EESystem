@@ -1,0 +1,2 @@
+[03:50 ---> 04:00]
+tự làm có nghĩa là người lập trình sẽ truy cập đến dữ liệu trực tiếp trên các cái

@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+chúng ta biểu diễn nhân viên bằng kiểu thực thể nhân viên có các thuộc tính như mã nhân viên họ tên ngày sinh giới tính trong công ty nhân viên được chia thành các

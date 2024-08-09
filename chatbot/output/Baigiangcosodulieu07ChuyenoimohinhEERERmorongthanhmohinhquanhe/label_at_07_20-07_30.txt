@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+với em thuộc tính kiểu được ký hiệu là T1 T2 cho đến TM mỗi thuộc tính di chỉ nhận giá trị đúng hoặc

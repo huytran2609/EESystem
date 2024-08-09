@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+trong thí nghiệm về quan hệ giữa các cây đối tượng đó Mô hình này

@@ -1,0 +1,2 @@
+[12:20 ---> 12:30]
+chọn danh sách các dự án có địa điểm ở Hà Nội SQL cho phép giới hạn Kết quả trả về câu lệnh select bằng từ khóa limit

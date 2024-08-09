@@ -1,0 +1,2 @@
+[15:10 ---> 15:20]
+và câu lệnh là dòng 2 đổi tên cột ngoài ra phép đổi tên còn được thực hiện bằng

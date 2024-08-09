@@ -1,0 +1,2 @@
+[19:50 ---> 20:00]
+bằng x cộng và tiếp tục thực hiện các lần lặp tiếp theo của cái vòng lặp phía ngoài thế thì

@@ -1,0 +1,2 @@
+[31:20 ---> 31:30]
+và chúng ta định nghĩa là hai tập phụ thuộc hàm E và F được gọi là tương đương Nếu Như

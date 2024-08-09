@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+là khi chúng ta sửa giá trị của khoáng ngoài thì trong trường hợp này chúng ta cần đảm bảo rằng là giá trị mới phải thỏa mãn

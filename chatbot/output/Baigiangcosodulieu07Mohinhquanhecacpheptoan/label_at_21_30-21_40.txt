@@ -1,0 +1,2 @@
+[21:30 ---> 21:40]
+ví dụ như là phép nối thì có thể biểu diễn thành tổ hợp của hai phép toán là tích lũy các

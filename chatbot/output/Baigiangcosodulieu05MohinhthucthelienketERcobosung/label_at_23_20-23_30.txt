@@ -1,0 +1,2 @@
+[23:20 ---> 23:30]
+w ngược lại thì các kiểu thực thể mà có thuộc tính khóa thì được gọi là kiểu thực thể mạnh ở tại ký hiệu nó là s bởi vì

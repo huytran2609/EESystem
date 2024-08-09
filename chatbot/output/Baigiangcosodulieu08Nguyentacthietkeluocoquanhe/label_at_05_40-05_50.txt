@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+cũng xóa luôn cái đơn vị phải quan hệ thì cái điều này là nó sẽ gây mất mát thông tin và thứ ba là dị thường sửa đổi

@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+số giờ họ tên tên dự án và địa điểm ở trong đó khóa chính là cặp thuộc tính mã nhân viên mã dự án chúng ta có

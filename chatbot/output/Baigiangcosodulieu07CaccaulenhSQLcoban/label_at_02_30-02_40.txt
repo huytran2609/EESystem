@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+tham chiếu khóa ngoài đều kết thúc thành công và in ra kết quả ở các dòng số 3 số 7 và số 11

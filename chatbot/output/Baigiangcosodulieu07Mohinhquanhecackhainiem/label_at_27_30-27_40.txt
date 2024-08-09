@@ -1,0 +1,2 @@
+[27:30 ---> 27:40]
+liên hệ cơ sở dữ liệu và các hệ quản trị cơ sở dữ liệu quan hệ thì tiến bộ mới này mèo tam thể là 10

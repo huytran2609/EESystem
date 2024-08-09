@@ -1,0 +1,2 @@
+[26:30 ---> 26:40]
+có đơn vị nào quản lý khi mà mã đơn vị nhận giá trị luôn trong cái kết quả của phép nối ở đây chúng ta thấy là mã

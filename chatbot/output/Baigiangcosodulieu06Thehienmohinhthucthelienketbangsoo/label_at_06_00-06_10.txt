@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+sử dụng các ký hiệu này và ý nghĩa của nó ở đây khi mà chúng ta nối một cái liên kết giữa hai thực thể phía nào mà

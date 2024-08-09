@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+tạo một kiểu thực thể mới và đặt tên là E Sau đó chúng ta tạo 3 kiểu liên kết rb

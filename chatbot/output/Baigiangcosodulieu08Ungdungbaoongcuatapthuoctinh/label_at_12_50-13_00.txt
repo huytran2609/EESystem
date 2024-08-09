@@ -1,0 +1,2 @@
+[12:50 ---> 13:00]
+chúng ta nên cài đặt thuật toán tìm báo đóng để có thể giải các bài tập và thực hiện các thuật toán nhanh

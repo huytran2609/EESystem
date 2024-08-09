@@ -1,0 +1,2 @@
+[10:10 ---> 10:20]
+cấp 2 và chi tiết của ví dụ này thì chúng ta cũng có thể xem ở trong cuốn sách này đối với các liên kết cấp cao hơn thì người ta cũng

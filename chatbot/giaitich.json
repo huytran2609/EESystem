@@ -1,0 +1,3645 @@
+{
+    "intents": [
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_00:00_00:10",
+            "patterns": [
+                "giới thiệu cho chúng ta một môn học",
+                "cho chúng ta một môn học vần",
+                "chúng ta một môn học vần mới đó",
+                "một môn học vần mới đó là",
+                "học vần mới đó là môn giải",
+                "chúng ta một môn học vần mới",
+                "học vần mới đó là môn giải thích"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 00:00 đến 00:10: giới thiệu cho chúng ta một môn học vần mới đó là môn giải thích",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_00_00-00_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_00:10_00:20",
+            "patterns": [
+                "giải thích một là nằm ở",
+                "ở trong một năm lớn đó là",
+                "một năm lớn đó là một giải",
+                "giải thích một là nằm",
+                "giải tích ở trường khô thì môn",
+                "trường khô thì môn giải thích sẽ",
+                "được chia thành hai học Phần đấy",
+                "thành hai học Phần đấy là giải",
+                "hai học Phần đấy là giải thích",
+                "giải thích một và giải thích hai thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 00:10 đến 00:20: giải thích một là nằm ở trong một năm lớn đó là một giải tích ở trường khô thì môn giải thích sẽ được chia thành hai học Phần đấy là giải thích một và giải thích hai thì",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_00_10-00_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_00:20_00:30",
+            "patterns": [
+                "môn nghiên cứu về",
+                "nghiên cứu về hàm số như là các",
+                "số như là các cái",
+                "cứu về hàm số như là các cái"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 00:20 đến 00:30: môn nghiên cứu về hàm số như là các cái",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_00_20-00_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_00:30_00:40",
+            "patterns": [
+                "của nó như là phép",
+                "nó như là phép tính giới hạn phép",
+                "hạn phép tính đạo hàm vi phân",
+                "đạo hàm vi phân tích phân và",
+                "rất là nhiều ứng dụng ở trong thực",
+                "dụng ở trong thực tế và nó cũng",
+                "nó cũng là một trong những cái",
+                "là một trong những cái môn tiên",
+                "một trong những cái môn tiên quyết",
+                "trong những cái môn tiên quyết",
+                "những cái môn tiên quyết",
+                "là một trong những cái môn tiên quyết"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 00:30 đến 00:40: của nó như là phép tính giới hạn phép tính đạo hàm vi phân tích phân và nó có rất là nhiều ứng dụng ở trong thực tế và nó cũng là một trong những cái môn tiên quyết",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_00_30-00_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_00:40_00:50",
+            "patterns": [
+                "hàm số 1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 00:40 đến 00:50: hàm số 1",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_00_40-00_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_00:50_01:00",
+            "patterns": [
+                "phải nói là cái khái niệm hàm",
+                "nói là cái khái niệm hàm số thì",
+                "hàm số thì chúng ta cũng bắt đầu",
+                "học Ngay từ năm ngay từ những",
+                "năm ngay từ những năm lớp 7",
+                "từ những năm lớp 7 đúng không",
+                "những năm lớp 7 đúng không và",
+                "xuyên suốt từ lúc 7",
+                "đúng không và xuyên suốt từ lúc 7"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 00:50 đến 01:00: thì phải nói là cái khái niệm hàm số thì chúng ta cũng bắt đầu học Ngay từ năm ngay từ những năm lớp 7 đúng không và xuyên suốt từ lúc 7",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_00_50-01_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_01:10_01:20",
+            "patterns": [
+                "phần nào mà chúng ta",
+                "phần nào mà chúng ta đã được học",
+                "được học ở phổ thông rồi thì cô",
+                "thông rồi thì cô sẽ chỉ nói",
+                "tập trung vào những cái vấn đề",
+                "trung vào những cái vấn đề mà",
+                "vào những cái vấn đề mà chúng ta",
+                "đề mà chúng ta chưa được học ở"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 01:10 đến 01:20: phần nào mà chúng ta đã được học ở phổ thông rồi thì cô sẽ chỉ nói qua hoặc là cô có thể là cô sẽ không nói lại nữa mà cô sẽ chỉ tập trung vào những cái vấn đề mà chúng ta chưa được học ở",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_01_10-01_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_01:20_01:30",
+            "patterns": [
+                "khái niệm hàm số là",
+                "hàm số là gì thì ở một",
+                "gì thì ở một",
+                "niệm hàm số là gì thì ở một"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 01:20 đến 01:30: khái niệm hàm số là gì thì ở một",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_01_20-01_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_01:30_01:40",
+            "patterns": [
+                "ánh xạ đó là",
+                "ánh xạ đó là sẽ",
+                "ánh xạ đó là sẽ là",
+                "là sẽ là một cái quy tắc",
+                "sẽ là một cái quy tắc cho",
+                "là một cái quy tắc cho tương ứng",
+                "một cái quy tắc cho tương ứng với"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 01:30 đến 01:40: ánh xạ đó là sẽ là một cái quy tắc cho tương ứng với",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_01_30-01_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_01:40_01:50",
+            "patterns": [
+                "đây là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 01:40 đến 01:50: đây là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_01_40-01_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_01:50_02:00",
+            "patterns": [
+                "biểu thức là nếu như",
+                "nếu như mà chúng ta có một cái",
+                "chúng ta có một cái quy",
+                "có một cái quy",
+                "như mà chúng ta có một cái quy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 01:50 đến 02:00: biểu thức là nếu như mà chúng ta có một cái quy",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_01_50-02_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_02:00_02:10",
+            "patterns": [
+                "sao tương ứng là",
+                "ứng là với mọi x thuộc D",
+                "là với mọi x thuộc D thì",
+                "mọi x thuộc D thì chúng ta",
+                "thuộc D thì chúng ta chỉ có duy",
+                "ta chỉ có duy nhất 1 và -1",
+                "có duy nhất 1 và -1 giá",
+                "1 và -1 giá trị y thuộc R",
+                "-1 giá trị y thuộc R thôi",
+                "trị y thuộc R thôi",
+                "và -1 giá trị y thuộc R thôi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 02:00 đến 02:10: sao tương ứng là với mọi x thuộc D thì chúng ta chỉ có duy nhất 1 và -1 giá trị y thuộc R thôi",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_02_00-02_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_02:10_02:20",
+            "patterns": [
+                "Tại sao mà Cái này lại gọi",
+                "sao mà Cái này lại gọi là",
+                "lại gọi là hàm số là bởi vì",
+                "là bởi vì nó đi từ tập",
+                "nó đi từ tập số và tập số",
+                "gọi là hàm số là bởi vì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 02:10 đến 02:20: Tại sao mà Cái này lại gọi là hàm số là bởi vì nó đi từ tập số và tập số",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_02_10-02_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_02:20_02:30",
+            "patterns": [
+                "người ta gọi là",
+                "người ta gọi là hàm",
+                "ta gọi là hàm số Còn nếu như",
+                "là hàm số Còn nếu như mà",
+                "như mà cái cặp số này nó",
+                "gọi là hàm số Còn nếu như",
+                "cái cặp số này nó không phải",
+                "cặp số này nó không phải là",
+                "không phải là cấp số nữa mà",
+                "lại là tập những cái không gian",
+                "nếu như mà cái cặp số này",
+                "số này nó không phải là cấp số",
+                "gọi nó là ánh sáng bởi vì ánh",
+                "ánh xạ là một",
+                "ánh sáng bởi vì ánh xạ là một"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 02:20 đến 02:30: người ta gọi là hàm số Còn nếu như mà cái cặp số này nó không phải là cấp số nữa mà nó lại là tập những cái không gian khác thì người ta sẽ gọi nó là ánh sáng bởi vì ánh xạ là một",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_02_20-02_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_02:30_02:40",
+            "patterns": [
+                "khi mà người ta",
+                "khi mà người ta nghiên cứu",
+                "khi mà người ta nghiên cứu một",
+                "ta nghiên cứu một cái hàm",
+                "nghiên cứu một cái hàm",
+                "cứu một cái hàm",
+                "mà người ta nghiên cứu một cái hàm"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 02:30 đến 02:40: khi mà người ta nghiên cứu một cái hàm",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_02_30-02_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_02:40_02:50",
+            "patterns": [
+                "làm cho hàm số có nghĩa",
+                "hàm số có nghĩa"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 02:40 đến 02:50: làm cho hàm số có nghĩa",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_02_40-02_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_02:50_03:00",
+            "patterns": [
+                "thì hàm số nào có nghĩa",
+                "thì hàm số nào có nghĩa ví",
+                "số nào có nghĩa ví dụ như",
+                "nào có nghĩa ví dụ như là chúng",
+                "dụ như là chúng ta phải quan tâm",
+                "quan tâm đến những cái hàm có",
+                "cái hàm có phân thức này phân thức",
+                "có phân thức này phân thức hàm",
+                "thì hàm số nào có",
+                "tâm đến những cái hàm có phân",
+                "thức hàm Loga đúng không là những cái"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 02:50 đến 03:00: thì hàm số nào có nghĩa ví dụ như là chúng ta phải quan tâm đến những cái hàm có phân thức này phân thức hàm căn thức hàm Loga đúng không là những cái",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_02_50-03_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_03:10_03:20",
+            "patterns": [
+                "khái niệm thứ hai đó",
+                "khái niệm thứ hai đó là",
+                "khái niệm thứ hai đó là tập",
+                "niệm thứ hai đó là tập giá",
+                "đó là tập giá trị thì tập giá",
+                "giá trị là gì tập giá trị",
+                "trị là tập tất cả các giá trị",
+                "tập tất cả các giá trị y",
+                "y thu được khi mà chúng ta",
+                "được khi mà chúng ta cho x chạy",
+                "khi mà chúng ta cho x chạy trên"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 03:10 đến 03:20: khái niệm thứ hai đó là tập giá trị thì tập giá trị là gì tập giá trị là tập tất cả các giá trị y thu được khi mà chúng ta cho x chạy trên",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_03_10-03_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_03:20_03:30",
+            "patterns": [
+                "giá trị đó chính là",
+                "giá trị đó chính là chạy",
+                "trị đó chính là chạy từ giá trị"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 03:20 đến 03:30: giá trị đó chính là chạy từ giá trị",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_03_20-03_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_03:30_03:40",
+            "patterns": [
+                "đồ thị thì chúng ta",
+                "đồ thị thì chúng ta sẽ ghép tất",
+                "ta sẽ ghép tất cả những cái điểm",
+                "ghép tất cả những cái điểm có",
+                "tất cả những cái điểm có tọa",
+                "cả những cái điểm có tọa độ",
+                "cái điểm có tọa độ là x y",
+                "tọa độ là x y trong đó",
+                "độ là x y trong đó là",
+                "x y trong đó là x thì",
+                "x y trong đó là x thì là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 03:30 đến 03:40: đồ thị thì chúng ta sẽ ghép tất cả những cái điểm có tọa độ là x y trong đó là x thì là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_03_30-03_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_03:40_03:50",
+            "patterns": [
+                "thì chúng ta sẽ thu được",
+                "sẽ thu được cái đồ thị của",
+                "thu được cái đồ thị của hàm số",
+                "đồ thị của hàm số một biến và",
+                "của hàm số một biến và Thông",
+                "một biến và Thông thường thì đồ thị",
+                "số nghịch biến nó sẽ làm gì",
+                "nó sẽ làm gì",
+                "hàm số nghịch biến nó sẽ làm gì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 03:40 đến 03:50: thì chúng ta sẽ thu được cái đồ thị của hàm số một biến và Thông thường thì đồ thị hàm số nghịch biến nó sẽ làm gì",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_03_40-03_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_03:50_04:00",
+            "patterns": [
+                "ví dụ như là đường",
+                "dụ như là đường thẳng đường tròn đường",
+                "dụ như là đường thẳng đường tròn",
+                "đường tròn đường Elip đường đi 3,4",
+                "3,4 Vân Vân bây giờ chúng ta sẽ",
+                "Vân bây giờ chúng ta sẽ cùng nhau",
+                "ta sẽ cùng nhau vào cái ví",
+                "cùng nhau vào cái ví dụ đầu",
+                "cái ví dụ đầu tiên của ngày hôm",
+                "đầu tiên của ngày hôm nay",
+                "tiên của ngày hôm nay",
+                "ví dụ đầu tiên của ngày hôm nay"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 03:50 đến 04:00: ví dụ như là đường thẳng đường tròn đường Elip đường đi 3,4 đường 3,4 Vân Vân bây giờ chúng ta sẽ cùng nhau vào cái ví dụ đầu tiên của ngày hôm nay",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_03_50-04_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_04:00_04:10",
+            "patterns": [
+                "mình sẽ đi tìm",
+                "định và tập giá trị của một số",
+                "giá trị của một số các hàm số",
+                "của một số các hàm số sau",
+                "một số các hàm số sau đây Thế",
+                "các hàm số sau đây Thế thì",
+                "hàm số sau đây Thế thì là",
+                "sẽ đi tìm tập xác định và",
+                "thì là tập Giá Trị tập xác định",
+                "định thì các bạn sẽ dễ dàng",
+                "các bạn sẽ dễ dàng tìm rồi đúng",
+                "sẽ dễ dàng tìm rồi đúng không Nhưng"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 04:00 đến 04:10: mình sẽ đi tìm tập xác định và tập giá trị của một số các hàm số sau đây Thế thì là tập Giá Trị tập xác định thì các bạn sẽ dễ dàng tìm rồi đúng không Nhưng",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_04_00-04_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_04:10_04:20",
+            "patterns": [
+                "giá trị của chúng ta",
+                "giá trị của chúng ta hiểu nó chính",
+                "chúng ta hiểu nó chính là tìm",
+                "chính là tìm min và biến mất",
+                "biến mất thôi Bây giờ mình sẽ tìm",
+                "thôi Bây giờ mình sẽ tìm tập",
+                "xác định nếu bạn thấy rằng là",
+                "xác định thì đây",
+                "thấy rằng là tập xác định thì đây"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 04:10 đến 04:20: giá trị của chúng ta hiểu nó chính là tìm min và biến mất thôi Bây giờ mình sẽ tìm tập xác định nếu bạn thấy rằng là tập xác định thì đây",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_04_10-04_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_04:20_04:30",
+            "patterns": [
+                "khác 0"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 04:20 đến 04:30: khác 0",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_04_20-04_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_04:30_04:40",
+            "patterns": [
+                "khi chúng ta lấy",
+                "khi chúng ta lấy máy tính",
+                "chúng ta lấy máy tính ra để chúng",
+                "ta giảm cái phương trình bậc hai này",
+                "cái phương trình bậc hai này thì",
+                "phương trình bậc hai này thì khi",
+                "trình bậc hai này thì khi mà",
+                "thì khi mà mình bấm thì nó",
+                "mình bấm thì nó sẽ ra là",
+                "sẽ ra là vô nghiệm vô nghiệm có",
+                "là cái cái tam thức bậc hai này"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 04:30 đến 04:40: khi chúng ta lấy máy tính ra để chúng ta bấm mà chúng ta giảm cái phương trình bậc hai này thì khi mà mình bấm thì nó sẽ ra là vô nghiệm vô nghiệm có nghĩa là cái cái tam thức bậc hai này",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_04_30-04_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_04:40_04:50",
+            "patterns": [
+                "bây giờ đến là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 04:40 đến 04:50: bây giờ đến là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_04_40-04_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_04:50_05:00",
+            "patterns": [
+                "giá trị tập giá trị",
+                "trị nhất là chúng ta đang đi tìm",
+                "đang đi tìm min max đấy mà",
+                "đi tìm min max đấy mà muốn",
+                "tìm min max đấy mà muốn đi",
+                "đang đi tìm min max đấy mà muốn",
+                "phải sử dụng linh hoạt rất là nhiều",
+                "rất là nhiều các cái biện pháp",
+                "là nhiều các cái biện pháp",
+                "nhiều các cái biện pháp",
+                "hoạt rất là nhiều các cái biện pháp"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 04:50 đến 05:00: giá trị tập giá trị nhất là chúng ta đang đi tìm min max đấy mà muốn đi tìm min max thì chúng ta sẽ phải sử dụng linh hoạt rất là nhiều các cái biện pháp",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_04_50-05_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_05:00_05:10",
+            "patterns": [
+                "Lập bảng biến thiên tóm",
+                "Lập bảng biến thiên tóm lại"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 05:00 đến 05:10: Lập bảng biến thiên tóm lại",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_05_00-05_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_05:20_05:30",
+            "patterns": [
+                "đạo hàm tử trước",
+                "đạo hàm tử trước thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 05:20 đến 05:30: đạo hàm tử trước thì",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_05_20-05_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_05:30_05:40",
+            "patterns": [
+                "với cả là mẫu số nguyên này",
+                "cả là mẫu số nguyên này đó",
+                "mẫu số nguyên này đó sau đó",
+                "số nguyên này đó sau đó chúng",
+                "nguyên này đó sau đó chúng ta",
+                "đó sau đó chúng ta sẽ trừ đi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 05:30 đến 05:40: nhân với cả là mẫu số nguyên này đó sau đó chúng ta sẽ trừ đi",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_05_30-05_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_05:40_05:50",
+            "patterns": [
+                "tự giữ nguyên và",
+                "giữ nguyên và mẫu đạo hàm mẫu",
+                "nguyên và mẫu đạo hàm mẫu đạo",
+                "và mẫu đạo hàm mẫu đạo hàm đầu",
+                "mẫu đạo hàm đầu ra là 2 x",
+                "đầu ra là 2 x + 2",
+                "ra là 2 x + 2 chia",
+                "là 2 x + 2 chia cho",
+                "2 chia cho mỗi Bình",
+                "chia cho mỗi Bình",
+                "2 x + 2 chia cho mỗi Bình"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 05:40 đến 05:50: tự giữ nguyên và mẫu đạo hàm mẫu đạo hàm đầu ra là 2 x + 2 chia cho mỗi Bình",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_05_40-05_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_05:50_06:00",
+            "patterns": [
+                "bây giờ là chúng ta",
+                "bây giờ là chúng ta sẽ cùng nhau",
+                "ta sẽ cùng nhau là rút gọn",
+                "đi thì ở đây chúng ta nhầm",
+                "y' đi thì ở đây chúng ta nhầm"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 05:50 đến 06:00: bây giờ là chúng ta sẽ cùng nhau là rút gọn cái y' đi thì ở đây chúng ta nhầm",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_05_50-06_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_06:10_06:20",
+            "patterns": [
+                "4 x bình và",
+                "4 x bình và bên",
+                "4 x bình và bên này",
+                "x bình và bên này nó ra",
+                "bình và bên này nó ra là",
+                "và bên này nó ra là x",
+                "x bình x 12 x bình thì",
+                "4 x bình và bên này nó",
+                "x bình trừ 2X",
+                "x bình thì 4 x bình trừ 2X"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 06:10 đến 06:20: 4 x bình và bên này nó ra là x bình x 12 x bình thì 4 x bình trừ 2X",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_06_10-06_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_06:20_06:30",
+            "patterns": [
+                "+ 1 x 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 06:20 đến 06:30: + 1 x 2",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_06_20-06_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_06:30_06:40",
+            "patterns": [
+                "6X + 2x nó",
+                "6X + 2x nó sẽ",
+                "dư 1 x 2 là + 2",
+                "1 dư 1 x 2 là +",
+                "6X + 2x nó sẽ là 8x",
+                "là 8x còn chỗ này thì là",
+                "8x còn chỗ này thì là -1",
+                "-1 là Dương 1 dư 1 x",
+                "là -1 là Dương 1 dư 1",
+                "là Dương 1 dư 1 x 2",
+                "dư 1 x 2 là + 2 chia"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 06:30 đến 06:40: 6X + 2x nó sẽ là 8x còn chỗ này thì là -1 là Dương 1 dư 1 x 2 là + 2 chia",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_06_30-06_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_06:40_06:50",
+            "patterns": [
+                "Thế bây giờ chúng",
+                "Thế bây giờ chúng ta sẽ",
+                "Thế bây giờ chúng ta sẽ cho cái",
+                "bây giờ chúng ta sẽ cho cái y'"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 06:40 đến 06:50: Thế bây giờ chúng ta sẽ cho cái y'",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_06_40-06_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_06:50_07:00",
+            "patterns": [
+                "28"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 06:50 đến 07:00: 28",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_06_50-07_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_07:00_07:10",
+            "patterns": [
+                "-2 + - √3 như",
+                "như vậy là nó ra 21 x",
+                "là nó ra 21 x = -2",
+                "nó ra 21 x = -2 +",
+                "ra 21 x = -2 + -3",
+                "nó ra 21 x = -2 + -3"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 07:00 đến 07:10: -2 + - √3 như vậy là nó ra 21 x = -2 + -3",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_07_00-07_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_07:10_07:20",
+            "patterns": [
+                "-2 + -83 Phạm Thị",
+                "-2 + -83 Phạm Thị Thiên"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 07:10 đến 07:20: -2 + -83 Phạm Thị Thiên",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_07_10-07_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_07:20_07:30",
+            "patterns": [
+                "đây là y phẩy",
+                "đây là y phẩy Và đây là",
+                "Và đây là ion này Đây là",
+                "đây là ion này Đây là -",
+                "là ion này Đây là -",
+                "Và đây là ion này Đây là -"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 07:20 đến 07:30: đây là y phẩy Và đây là ion này Đây là -",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_07_20-07_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_07:30_07:40",
+            "patterns": [
+                "đây là -2 +",
+                "đây là -2 + √3 đây là",
+                "√3 đây là dương vô cùng này",
+                "dương vô cùng này đấy thế thì",
+                "cùng này đấy thế thì là y",
+                "thế thì là y phẩy là bằng 0",
+                "phẩy là bằng 0 tại hai",
+                "bằng 0 tại hai",
+                "là y phẩy là bằng 0 tại hai"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 07:30 đến 07:40: đây là -2 + √3 đây là dương vô cùng này đấy thế thì là y phẩy là bằng 0 tại hai",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_07_30-07_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_07:50_08:00",
+            "patterns": [
+                "giới hạn là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 07:50 đến 08:00: giới hạn là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_07_50-08_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_08:00_08:10",
+            "patterns": [
+                "và chúng ta sẽ thấy là",
+                "sẽ thấy là mình sẽ lấy hệ",
+                "mình sẽ lấy hệ số cao nhất của",
+                "cao nhất của tử chia cho hệ số",
+                "cao nhất của mẫu thì nó",
+                "của mẫu thì nó",
+                "hệ số cao nhất của mẫu thì nó"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 08:00 đến 08:10: và chúng ta sẽ thấy là mình sẽ lấy hệ số cao nhất của tử chia cho hệ số cao nhất của mẫu thì nó",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_08_00-08_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_08:10_08:20",
+            "patterns": [
+                "bây giờ là nhiệm vụ",
+                "bây giờ là nhiệm vụ của chúng ta",
+                "nhiệm vụ của chúng ta là mình sẽ",
+                "chúng ta là mình sẽ thay hai",
+                "mình sẽ thay hai",
+                "của chúng ta là mình sẽ thay hai"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 08:10 đến 08:20: bây giờ là nhiệm vụ của chúng ta là mình sẽ thay hai",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_08_10-08_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_08:20_08:30",
+            "patterns": [
+                "Alpha x bình trừ",
+                "Alpha x bình trừ đi 1 này",
+                "bình trừ đi 1 này chia",
+                "trừ đi 1 này chia",
+                "Alpha x bình trừ đi 1 này chia"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 08:20 đến 08:30: Alpha x bình trừ đi 1 này chia",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_08_20-08_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_08:30_08:40",
+            "patterns": [
+                "-2 - √3 đó thì nó sẽ",
+                "√3 đó thì nó sẽ ra là",
+                "- √3 đó thì nó sẽ ra là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 08:30 đến 08:40: -2 - √3 đó thì nó sẽ ra là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_08_30-08_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_08:40_08:50",
+            "patterns": [
+                "1 + căn 3",
+                "1 + căn 3 trên",
+                "1 + căn 3 trên 2",
+                "1 + căn 3 trên 2 x",
+                "căn 3 trên 2 x 4 +",
+                "3 trên 2 x 4 + căn",
+                "trên 2 x 4 + căn 3",
+                "trên 2 mà mình bấm xấp xỉ",
+                "mà mình bấm xấp xỉ nó ra là",
+                "bấm xấp xỉ nó ra là 1,3",
+                "nó ra là 1,3",
+                "mình bấm xấp xỉ nó ra là 1,3"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 08:40 đến 08:50: 1 + căn 3 trên 2 x 4 + căn 3 trên 2 1 + căn 3 trên 2 mà mình bấm xấp xỉ nó ra là 1,3",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_08_40-08_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_08:50_09:00",
+            "patterns": [
+                "-2 + 18 căn 3",
+                "-2 + 18 căn 3 thì",
+                "-2 + 18 căn 3 thì nó",
+                "+ 18 căn 3 thì nó ra",
+                "căn 3 thì nó ra là",
+                "+ 18 căn 3 thì nó ra là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 08:50 đến 09:00: -2 + 18 căn 3 thì nó ra là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_08_50-09_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_09:00_09:10",
+            "patterns": [
+                "-0,36"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 09:00 đến 09:10: -0,36",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_09_00-09_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_09:10_09:20",
+            "patterns": [
+                "Thế thì ở đây",
+                "Thế thì ở đây là chúng ta",
+                "ở đây là chúng ta sẽ quan sát",
+                "quan sát vào bảng biến thiên này",
+                "sát vào bảng biến thiên này đúng không",
+                "bảng biến thiên này đúng không Thì",
+                "này đúng không Thì mình sẽ thấy",
+                "đúng không Thì mình sẽ thấy nhỏ",
+                "nhỏ nhất là cái này lên là",
+                "cái này là 1,36",
+                "và lớn nhất là cái này là 1,36"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 09:10 đến 09:20: Thế thì ở đây là chúng ta sẽ quan sát vào bảng biến thiên này đúng không Thì mình sẽ thấy nhỏ nhất ra nhỏ nhất là cái này lên là -0,36 và lớn nhất là cái này là 1,36",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_09_10-09_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_09:20_09:30",
+            "patterns": [
+                "1 - căn 3",
+                "1 - căn 3 trên 2",
+                "1 - căn 3 trên 2 cho",
+                "căn 3 trên 2 cho đến 1",
+                "cho đến 1 + 8392 kết luận",
+                "đến 1 + 8392 kết luận là",
+                "luận là tập giá trị",
+                "+ 8392 kết luận là tập giá trị"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 09:20 đến 09:30: 1 - căn 3 trên 2 cho đến 1 + 8392 kết luận là tập giá trị",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_09_20-09_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_09:30_09:40",
+            "patterns": [
+                "cho đến 1 + căn 3",
+                "cho đến 1 + căn 3 trên",
+                "đến 1 + căn 3 trên 2",
+                "1 + căn 3 trên 2",
+                "+ căn 3 trên 2",
+                "căn 3 trên 2",
+                "cho đến 1 + căn 3 trên 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 09:30 đến 09:40: cho đến 1 + căn 3 trên 2",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_09_30-09_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_09:40_09:50",
+            "patterns": [
+                "tiếp theo"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 09:40 đến 09:50: tiếp theo",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_09_40-09_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_10:00_10:10",
+            "patterns": [
+                "hai ví dụ thứ",
+                "hai ví dụ thứ hai câu",
+                "hai ví dụ thứ hai câu b",
+                "dụ thứ hai câu b nhé",
+                "thứ hai câu b nhé",
+                "hai ví dụ thứ hai câu b nhé"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 10:00 đến 10:10: hai ví dụ thứ hai câu b nhé",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_10_00-10_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_10:10_10:20",
+            "patterns": [
+                "câu b là y",
+                "câu b là y =",
+                "câu b là y = là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 10:10 đến 10:20: câu b là y = là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_10_10-10_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_10:20_10:30",
+            "patterns": [
+                "1 - 2sinx Thế",
+                "2sinx Thế thì bây giờ là chúng ta",
+                "bây giờ là chúng ta sẽ nói là",
+                "tập xác định trước này tập xác",
+                "xác định trước này tập xác định",
+                "xác định thì đây là hàm Loga",
+                "thì đây là hàm Loga là",
+                "xác định thì đây là hàm Loga là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 10:20 đến 10:30: 1 - 2sinx Thế thì bây giờ là chúng ta sẽ nói là tập xác định trước này tập xác định thì đây là hàm Loga là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_10_20-10_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_10:40_10:50",
+            "patterns": [
+                "bất phương trình này ra thì",
+                "bất phương trình này ra thì 1",
+                "này ra thì 1 - 2 sin",
+                "thì 1 - 2 sin x lớn",
+                "1 - 2 sin x lớn hơn",
+                "- 2 sin x lớn hơn 0",
+                "x lớn hơn 0 tức là tương",
+                "0 tức là tương đương tương đương là",
+                "tương đương là chúng ta sẽ có là",
+                "sẽ có là C",
+                "đương là chúng ta sẽ có là C"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 10:40 đến 10:50: bất phương trình này ra thì 1 - 2 sin x lớn hơn 0 tức là tương đương tương đương là chúng ta sẽ có là C",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_10_40-10_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_10:50_11:00",
+            "patterns": [
+                "bé làm nhỏ hơn",
+                "làm nhỏ hơn 1/2 đó nhiều bạn",
+                "nhỏ hơn 1/2 đó nhiều bạn thì",
+                "1/2 đó nhiều bạn thì là mới",
+                "giải phương trình lượng giác thôi chứ cũng",
+                "mới chỉ biết giải phương trình lượng",
+                "biết giải là bất phương trình lượng giác",
+                "không Thế thì bây giờ",
+                "thế nào đúng không Thế thì bây giờ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 10:50 đến 11:00: bé làm nhỏ hơn 1/2 đó nhiều bạn thì là mới chỉ biết giải phương trình lượng giác thôi chứ cũng chưa biết giải là bất phương trình lượng giác như thế nào đúng không Thế thì bây giờ",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_10_50-11_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_11:00_11:10",
+            "patterns": [
+                "đường tròn lượng giác",
+                "đường tròn lượng giác ra"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 11:00 đến 11:10: đường tròn lượng giác ra",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_11_00-11_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_11:10_11:20",
+            "patterns": [
+                "Tải AIDS thì đừng",
+                "Tải AIDS thì đừng sợ",
+                "lượng giác thì các bạn nhớ cho",
+                "giác thì các bạn nhớ cho cô",
+                "bạn nhớ cho cô là trục trặc",
+                "cho cô là trục trặc",
+                "các bạn nhớ cho cô là trục trặc"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 11:10 đến 11:20: Tải AIDS thì đừng sợ lượng giác thì các bạn nhớ cho cô là trục trặc",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_11_10-11_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_11:20_11:30",
+            "patterns": [
+                "chạy từ -1 cho"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 11:20 đến 11:30: chạy từ -1 cho",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_11_20-11_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_11:30_11:40",
+            "patterns": [
+                "đây là 1/2 này"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 11:30 đến 11:40: đây là 1/2 này",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_11_30-11_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_11:40_11:50",
+            "patterns": [
+                "Toàn"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 11:40 đến 11:50: Toàn",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_11_40-11_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_12:00_12:10",
+            "patterns": [
+                "đến cho đến điểm này các bạn",
+                "cho đến điểm này các bạn lưu",
+                "đến điểm này các bạn lưu ý",
+                "điểm này các bạn lưu ý là",
+                "các bạn lưu ý là phải chạy theo"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 12:00 đến 12:10: cho đến cho đến điểm này các bạn lưu ý là phải chạy theo",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_12_00-12_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_12:10_12:20",
+            "patterns": [
+                "thì nó sẽ chạy từ",
+                "sẽ chạy từ điểm này cho đến",
+                "chạy từ điểm này cho đến điểm",
+                "chạy từ điểm này cho đến điểm này"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 12:10 đến 12:20: thì nó sẽ chạy từ điểm này cho đến điểm này",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_12_10-12_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_12:20_12:30",
+            "patterns": [
+                "thì khi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 12:20 đến 12:30: thì khi",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_12_20-12_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_12:30_12:40",
+            "patterns": [
+                "Cái này nó là",
+                "Cái này nó là pi",
+                "Cái này nó là pi trên",
+                "này nó là pi trên 6 +",
+                "là pi trên 6 + k2pi nhé",
+                "pi trên 6 + k2pi nhé",
+                "nó là pi trên 6 + k2pi nhé"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 12:30 đến 12:40: Cái này nó là pi trên 6 + k2pi nhé",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_12_30-12_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_12:40_12:50",
+            "patterns": [
+                "6"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 12:40 đến 12:50: 6",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_12_40-12_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_12:50_13:00",
+            "patterns": [
+                "5 pi trên 6",
+                "5 pi trên 6 +",
+                "5 pi trên 6 + k2pi đó",
+                "pi trên 6 + k2pi đó",
+                "trên 6 + k2pi đó",
+                "6 + k2pi đó"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 12:50 đến 13:00: 5 pi trên 6 + k2pi đó",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_12_50-13_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_13:10_13:20",
+            "patterns": [
+                "thì mua của chúng ta phải làm tăng",
+                "phải làm tăng Cái góc này lên thì",
+                "tăng Cái góc này lên thì tăng",
+                "tốc lên là khoảng cách là chúng ta",
+                "ta cộng thêm 2 pi vào đây",
+                "cộng thêm 2 pi vào đây nữa",
+                "2 pi vào đây nữa là cộng",
+                "là cộng thêm một cái vòng vào",
+                "cộng thêm một cái vòng vào đây",
+                "thêm một cái vòng vào đây để",
+                "đây để cho nó to lên đấy",
+                "nó to lên đấy thì pi",
+                "để cho nó to lên đấy thì pi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 13:10 đến 13:20: thì mua của chúng ta phải làm tăng Cái góc này lên thì tăng tốc lên là khoảng cách là chúng ta cộng thêm 2 pi vào đây nữa là cộng thêm một cái vòng vào đây để cho nó to lên đấy thì pi",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_13_10-13_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_13:20_13:30",
+            "patterns": [
+                "6 + 2 pi",
+                "6 + 2 pi thì",
+                "6 + 2 pi thì nó",
+                "6 + 2 pi thì nó sẽ",
+                "2 pi thì nó sẽ ra là",
+                "sẽ ra là 10 13 pi trên",
+                "ra là 10 13 pi trên 6",
+                "+ 132 pi đấy",
+                "13 pi trên 6 + 132 pi đấy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 13:20 đến 13:30: 6 + 2 pi thì nó sẽ ra là nó sẽ ra là 10 13 pi trên 6 + 132 pi đấy",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_13_20-13_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_13:30_13:40",
+            "patterns": [
+                "cho đến cái góc 13/6 +",
+                "cho đến cái góc 13/6 + k2pi",
+                "đến cái góc 13/6 + k2pi là",
+                "là xong e lớp 12 như vậy",
+                "xong e lớp 12 như vậy là",
+                "như vậy là chúng ta sẽ có là",
+                "sẽ có là tương đương này",
+                "là tương đương này",
+                "chúng ta sẽ có là tương đương này"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 13:30 đến 13:40: cho đến cái góc 13/6 + k2pi là xong e lớp 12 như vậy là chúng ta sẽ có là tương đương này",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_13_30-13_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_13:40_13:50",
+            "patterns": [
+                "tao đi vẽ hình",
+                "tao đi vẽ hình sao múa thì chúng",
+                "sao múa thì chúng ta sẽ có là",
+                "sẽ có là 5 pi trên 6",
+                "có là 5 pi trên 6 chúng",
+                "5 pi trên 6 chúng ta sẽ",
+                "tập xác định D nhé viết luôn",
+                "viết luôn là tập xác định D nhé"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 13:40 đến 13:50: tao đi vẽ hình sao múa thì chúng ta sẽ có là 5 pi trên 6 chúng ta sẽ có tập xác định D nhé viết luôn là tập xác định D nhé",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_13_40-13_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_13:50_14:00",
+            "patterns": [
+                "k2pi cho đến 13 mi trên 6",
+                "cho đến 13 mi trên 6",
+                "13 mi trên 6",
+                "với k2pi cho đến 13 mi trên 6"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 13:50 đến 14:00: cộng với k2pi cho đến 13 mi trên 6",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_13_50-14_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_14:00_14:10",
+            "patterns": [
+                "Thế còn bây giờ",
+                "Thế còn bây giờ là chúng ta",
+                "bây giờ là chúng ta muốn tìm tập",
+                "ta muốn tìm tập Giá",
+                "muốn tìm tập Giá",
+                "giờ là chúng ta muốn tìm tập Giá"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 14:00 đến 14:10: Thế còn bây giờ là chúng ta muốn tìm tập Giá",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_14_00-14_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_14:30_14:40",
+            "patterns": [
+                "là bao giờ mới chạy từ",
+                "-1 cho đến 1 được chưa Sau",
+                "1 được chưa Sau đó mình đánh",
+                "được chưa Sau đó mình đánh giá",
+                "chưa Sau đó mình đánh giá dần",
+                "giá dần lên mình đánh giá đến -"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 14:30 đến 14:40: là bao giờ mới chạy từ -1 cho đến 1 được chưa Sau đó mình đánh giá dần lên mình đánh giá đến -",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_14_30-14_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_14:40_14:50",
+            "patterns": [
+                "-29 x 9 x 7",
+                "-29 x 9 x 7 -",
+                "x 9 x 7 - 2 là",
+                "x 7 - 2 là bất phương",
+                "- 2 là bất phương trình nào đảo chiều",
+                "bất phương trình nào đảo chiều là",
+                "phương trình nào đảo chiều là vì",
+                "trình nào đảo chiều là vì nó",
+                "chiều là vì nó lại chạy từ",
+                "cho đến -2 sau đó chúng ta",
+                "đến -2 sau đó chúng ta đánh",
+                "-2 sau đó chúng ta đánh giá tiếp"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 14:40 đến 14:50: -29 x 9 x 7 - 2 là bất phương trình nào đảo chiều là vì nó lại chạy từ 2 cho đến -2 sau đó chúng ta đánh giá tiếp",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_14_40-14_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_14:50_15:00",
+            "patterns": [
+                "1 - 2 sinx",
+                "1 - 2 sinx tức là",
+                "1 - 2 sinx tức là thêm",
+                "1 vào thì nó mới chạy từ",
+                "mới chạy từ 3 cho đến cho",
+                "chạy từ 3 cho đến cho đến -1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 14:50 đến 15:00: 1 - 2 sinx tức là thêm 1 vào thêm 1 vào thì nó mới chạy từ 3 cho đến cho đến -1",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_14_50-15_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_15:10_15:20",
+            "patterns": [
+                "chạy từ 0 cho đến 3",
+                "0 cho đến 3 thôi đúng không",
+                "không ạ Thế bây giờ chúng ta sẽ",
+                "Thế bây giờ chúng ta sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 15:10 đến 15:20: chạy từ 0 cho đến 3 thôi đúng không ạ Thế bây giờ chúng ta sẽ",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_15_10-15_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_15:20_15:30",
+            "patterns": [
+                "1 - 2 sin",
+                "1 - 2 sin x được",
+                "1 - 2 sin x được chưa",
+                "- 2 sin x được chưa Nó",
+                "x được chưa Nó sẽ phải là",
+                "là chạy từ len 3 cái này",
+                "chạy từ len 3 cái này nó",
+                "từ len 3 cái này nó sẽ",
+                "len 3 cái này nó sẽ",
+                "3 cái này nó sẽ",
+                "chạy từ len 3 cái này nó sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 15:20 đến 15:30: 1 - 2 sin x được chưa Nó sẽ phải là chạy từ len 3 cái này nó sẽ",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_15_20-15_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_15:40_15:50",
+            "patterns": [
+                "giá trị của chúng ta",
+                "giá trị của chúng ta sẽ chạy từ",
+                "sẽ chạy từ âm vô cùng cho",
+                "cùng cho đến tiếng Anh 3 ngày",
+                "đến tiếng Anh 3 ngày được chưa",
+                "tiếng Anh 3 ngày được chưa ạ",
+                "ta sẽ có tổng giá trị Nhé",
+                "tổng giá trị Nhé tập giá trị của",
+                "giá trị của thằng này nó sẽ",
+                "trị của thằng này nó sẽ tạo",
+                "của thằng này nó sẽ tạo thành",
+                "tạo thành từ âm vô cùng cho đến"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 15:40 đến 15:50: giá trị của chúng ta sẽ chạy từ âm vô cùng cho đến tiếng Anh 3 ngày được chưa ạ Thế là chúng ta sẽ có tổng giá trị Nhé tập giá trị của thằng này nó sẽ tạo thành từ âm vô cùng cho đến",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_15_40-15_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_15:50_16:00",
+            "patterns": [
+                "sao để lên ba",
+                "sao để lên ba bé mọc lông",
+                "để lên ba bé mọc lông giá",
+                "ba bé mọc lông giá trị thì",
+                "bé mọc lông giá trị thì nó có",
+                "giá trị thì nó có rất là",
+                "rất là nhiều phương pháp làm nên tìm",
+                "làm nên tìm câu nhắc việc tìm",
+                "tìm câu nhắc việc tìm câu là",
+                "tìm câu là mình có thể",
+                "nhắc việc tìm câu là mình có thể"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 15:50 đến 16:00: sao để lên ba bé mọc lông giá trị thì nó có rất là nhiều phương pháp làm nên tìm câu nhắc việc tìm câu là mình có thể",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_15_50-16_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_16:00_16:10",
+            "patterns": [
+                "là dùng Lập bảng biến thiên đúng",
+                "dùng Lập bảng biến thiên đúng không ạ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 16:00 đến 16:10: đánh giá hay là dùng Lập bảng biến thiên đúng không ạ",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_16_00-16_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_16:20_16:30",
+            "patterns": [
+                "một bài nữa là",
+                "một bài nữa là câu",
+                "bài nữa là câu C câu C",
+                "nữa là câu C câu C là",
+                "bài nữa là câu C câu C là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 16:20 đến 16:30: một bài nữa là câu C câu C là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_16_20-16_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_16:30_16:40",
+            "patterns": [
+                "hãng phim của 2x",
+                "hãng phim của 2x chia",
+                "cho 1 + x bình",
+                "2x chia cho 1 + x bình",
+                "chia cho 1 + x bình",
+                "1 + x bình",
+                "của 2x chia cho 1 + x bình"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 16:30 đến 16:40: hãng phim của 2x chia cho 1 + x bình",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_16_30-16_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_16:40_16:50",
+            "patterns": [
+                "Thế thì làm cái thằng",
+                "thì làm cái thằng taxi thì thật",
+                "làm cái thằng taxi thì thật ra",
+                "thật ra là mình đã được làm",
+                "Thế thì làm cái thằng taxi thì",
+                "quen ở cái chương trình lớp 11 rồi",
+                "cái chương trình lớp 11 rồi nhưng",
+                "chương trình lớp 11 rồi nhưng mà",
+                "mình cũng chưa Chưa Nói",
+                "đúng không cho mình cũng chưa Chưa Nói"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 16:40 đến 16:50: Thế thì làm cái thằng taxi thì thật ra là mình đã được làm quen ở cái chương trình lớp 11 rồi nhưng mà Tuy nhiên thì cũng chỉ là nói qua thôi đúng không cho mình cũng chưa Chưa Nói",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_16_40-16_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_17:00_17:10",
+            "patterns": [
+                "bà nó sẽ chạy",
+                "bà nó sẽ chạy từ",
+                "-1 xác định 1 vào trong cái",
+                "1 vào trong cái tập từ trừ",
+                "tập từ trừ pi trên 2",
+                "trừ pi trên 2",
+                "trong cái tập từ trừ pi trên 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 17:00 đến 17:10: bà nó sẽ chạy từ -1 xác định 1 vào trong cái tập từ trừ pi trên 2",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_17_00-17_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_17:40_17:50",
+            "patterns": [
+                "thì mình sẽ có là",
+                "thì mình sẽ có là tập xác định"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 17:40 đến 17:50: thì mình sẽ có là tập xác định",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_17_40-17_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_17:50_18:00",
+            "patterns": [
+                "xác định là cái phần bên trong",
+                "định là cái phần bên trong ắc",
+                "là cái phần bên trong ắc quy",
+                "phần bên trong ắc quy ấy là phải",
+                "trong ắc quy ấy là phải chạy",
+                "-1 cho đến 1",
+                "là phải chạy từ -1 cho đến 1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 17:50 đến 18:00: tập xác định là cái phần bên trong ắc quy ấy là phải chạy từ -1 cho đến 1",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_17_50-18_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_18:00_18:10",
+            "patterns": [
+                "từ -1 đến 1 đấy là cái",
+                "-1 đến 1 đấy là cái tập",
+                "là cái tập giá trị của nó",
+                "giá trị của nó",
+                "đấy là cái tập giá trị của nó"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 18:00 đến 18:10: từ -1 đến 1 đấy là cái tập giá trị của nó",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_18_00-18_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_18:10_18:20",
+            "patterns": [
+                "Thông thường thì người ta",
+                "thường thì người ta"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 18:10 đến 18:20: Thông thường thì người ta",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_18_10-18_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_18:20_18:30",
+            "patterns": [
+                "Tại sao mà người ta lại hay",
+                "sao mà người ta lại hay đưa",
+                "đưa về trị tuyệt đối",
+                "ta lại hay đưa về trị tuyệt đối"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 18:20 đến 18:30: Tại sao mà người ta lại hay đưa về trị tuyệt đối",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_18_20-18_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_18:50_19:00",
+            "patterns": [
+                "ta có thể sử",
+                "thể sử dụng bất đẳng thức Côsi các em",
+                "bất đẳng thức Côsi các em thấy",
+                "đẳng thức Côsi các em thấy là",
+                "thức Côsi các em thấy là lúc",
+                "em thấy là lúc nào là A +",
+                "lúc nào là A + B đúng không",
+                "là A + B đúng không áp",
+                "không áp dụng Oxi thì a +",
+                "dụng Oxi thì a + b là",
+                "thì a + b là lớn hơn",
+                "hơn hoặc bằng 2 Canada là 1",
+                "hoặc bằng 2 Canada là 1",
+                "2 Canada là 1",
+                "lớn hơn hoặc bằng 2 Canada là 1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 18:50 đến 19:00: ta có thể sử dụng bất đẳng thức Côsi các em thấy là lúc nào là A + B đúng không áp dụng Oxi thì a + b là lớn hơn hoặc bằng 2 Canada là 1",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_18_50-19_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_19:00_19:10",
+            "patterns": [
+                "bất đẳng thức Côsi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 19:00 đến 19:10: bất đẳng thức Côsi",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_19_00-19_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_19:10_19:20",
+            "patterns": [
+                "Cái này là đu",
+                "Cái này là đu đủ",
+                "Cái này là đu đủ em thì chúng",
+                "là đu đủ em thì chúng ta",
+                "đủ em thì chúng ta có là 1",
+                "ta có là 1 + x bình",
+                "có là 1 + x bình thì",
+                "1 + x bình thì bao giờ",
+                "x bình thì bao giờ là cũng lớn",
+                "giờ là cũng lớn hơn là lớn hơn"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 19:10 đến 19:20: Cái này là đu đủ em thì chúng ta có là 1 + x bình thì bao giờ là cũng lớn hơn là lớn hơn",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_19_10-19_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_19:20_19:30",
+            "patterns": [
+                "là 2 ở hai căn",
+                "là 2 ở hai căn cái 1",
+                "2 ở hai căn cái 1 +",
+                "hai căn cái 1 + x bình",
+                "căn cái 1 + x bình này",
+                "cái 1 + x bình này nhớ",
+                "1 + x bình này nhớ là",
+                "+ x bình này nhớ là có",
+                "nhớ là có bạn sẽ thắc mắc",
+                "thắc mắc là oxi là chỉ áp",
+                "áp dụng cho số dương thôi đúng",
+                "dụng cho số dương thôi đúng không",
+                "không Thì cả các em có thể",
+                "Thì cả các em có thể là",
+                "thế này cho cô",
+                "thể là viết như thế này cho cô"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 19:20 đến 19:30: là 2 ở hai căn cái 1 + x bình này nhớ là có bạn sẽ thắc mắc là oxi là chỉ áp dụng cho số dương thôi đúng không Thì cả các em có thể là viết như thế này cho cô",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_19_20-19_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_19:30_19:40",
+            "patterns": [
+                "2 căn x bình",
+                "2 căn x bình đây",
+                "2 căn x bình đây này",
+                "2 căn x bình đây này Đấy",
+                "căn x bình đây này Đấy thì",
+                "x bình đây này Đấy thì hai",
+                "này Đấy thì hai căn x bình",
+                "x bình thì nó sẽ là 2",
+                "là 2 trị tuyệt đối x thôi đấy",
+                "x thôi đấy Các bạn nhìn thấy",
+                "thôi đấy Các bạn nhìn thấy không",
+                "bạn nhìn thấy không thì như vậy là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 19:30 đến 19:40: 2 căn x bình đây này Đấy thì hai căn x bình thì nó sẽ là 2 trị tuyệt đối x thôi đấy Các bạn nhìn thấy không thì như vậy là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_19_30-19_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_19:50_20:00",
+            "patterns": [
+                "Thế còn nếu mà",
+                "nếu mà tập giá trị là có giá",
+                "trị thì là gì Đang tập giá",
+                "giá trị thì câu nói rồi là",
+                "cứ là làm taxi không quan tâm",
+                "không quan tâm đó là",
+                "là làm taxi không quan tâm đó là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 19:50 đến 20:00: Thế còn nếu mà tập giá trị là có giá trị thì là gì Đang tập giá trị thì câu nói rồi là cứ là làm taxi không quan tâm đó là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_19_50-20_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_20:20_20:30",
+            "patterns": [
+                "là hàng ACB"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 20:20 đến 20:30: là hàng ACB",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_20_20-20_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_20:30_20:40",
+            "patterns": [
+                "cho 1 + x",
+                "2x chia cho 1 + x",
+                "chia cho 1 + x",
+                "của 2x chia cho 1 + x"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 20:30 đến 20:40: của 2x chia cho 1 + x",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_20_30-20_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_20:40_20:50",
+            "patterns": [
+                "Tìm hàng account chúng ta",
+                "Tìm hàng account chúng ta cũng lại làm",
+                "lại làm giàu tương tự như là hàng",
+                "như là hàng Active thì hàm Ác",
+                "Ác si và An Cốt thì người ta",
+                "An Cốt thì người ta xác định",
+                "hàng account chúng ta cũng lại làm",
+                "xác định của nó cũng đều chạy",
+                "từ -1 đến 1",
+                "nó cũng đều chạy từ -1 đến 1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 20:40 đến 20:50: Tìm hàng account chúng ta cũng lại làm giàu tương tự như là hàng Active thì hàm Ác si và An Cốt thì người ta xác định của nó cũng đều chạy từ -1 đến 1",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_20_40-20_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_20:50_21:00",
+            "patterns": [
+                "xác định của chúng ta sẽ là 2x",
+                "cho 1 + x",
+                "2x chia cho 1 + x",
+                "chia cho 1 + x",
+                "sẽ là 2x chia cho 1 + x"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 20:50 đến 21:00: tập xác định của chúng ta sẽ là 2x chia cho 1 + x",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_20_50-21_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_21:00_21:10",
+            "patterns": [
+                "-1 cho đến 1 và chúng ta",
+                "đến 1 và chúng ta cũng nên đưa",
+                "đưa về trị tuyệt đối nhé để mình",
+                "đối nhé để mình dễ dàng hơn",
+                "nhé để mình dễ dàng hơn ấy thì",
+                "dễ dàng hơn ấy thì nó sẽ",
+                "hơn ấy thì nó sẽ là chịu",
+                "thì nó sẽ là chịu lớn của 2x"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 21:00 đến 21:10: từ -1 cho đến 1 và chúng ta cũng nên đưa về trị tuyệt đối nhé để mình dễ dàng hơn ấy thì nó sẽ là chịu lớn của 2x",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_21_00-21_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_21:10_21:20",
+            "patterns": [
+                "giống"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 21:10 đến 21:20: giống",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_21_10-21_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_21:20_21:30",
+            "patterns": [
+                "nhiên là đến đây Chúng ta cần",
+                "là đến đây Chúng ta cần phải có",
+                "phải có thêm một điều kiện nữa",
+                "có thêm một điều kiện nữa các em",
+                "điều kiện nữa các em điều kiện",
+                "kiện nữa các em điều kiện nữa",
+                "kiện nữa là gì Là cái mẫu",
+                "là gì Là cái mẫu số này",
+                "gì Là cái mẫu số này của",
+                "Là cái mẫu số này của em",
+                "cái mẫu số này của em là",
+                "là phải khác 0",
+                "số này của em là phải khác 0"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 21:20 đến 21:30: Tuy nhiên là đến đây Chúng ta cần phải có thêm một điều kiện nữa các em điều kiện nữa là gì Là cái mẫu số này của em là phải khác 0",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_21_20-21_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_21:30_21:40",
+            "patterns": [
+                "có thì hai cái bất phương",
+                "có thì hai cái bất phương trình",
+                "thì hai cái bất phương trình này của em",
+                "bất phương trình này của em mới",
+                "trình này của em mới tương đương",
+                "của em mới tương đương được bởi vì",
+                "trình này có mẫu nhưng bất phương",
+                "mẫu đúng không Thế nên là để",
+                "đảm bảo cho nó tương đương thì",
+                "tương đương thì chúng ta phải có mẫu",
+                "đương thì chúng ta phải có mẫu là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 21:30 đến 21:40: có thì hai cái bất phương trình này của em mới tương đương được bởi vì bất phương trình này có mẫu nhưng bất phương trình này lại không có mẫu đúng không Thế nên là để đảm bảo cho nó tương đương thì chúng ta phải có mẫu là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_21_30-21_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_21:40_21:50",
+            "patterns": [
+                "nó khác cái bài",
+                "nó khác cái bài này em",
+                "nó khác cái bài này em ơi",
+                "khác cái bài này em ơi nó",
+                "cái bài này em ơi nó khác",
+                "này là cái mẫu số của em",
+                "là cái mẫu số của em nó",
+                "sẵn rồi thì chúng ta không có cần",
+                "không có cần điều kiện nữa nhưng mà",
+                "này thì bắt buộc chúng ta phải cầm"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 21:40 đến 21:50: nó khác cái bài này em ơi nó khác cái bài này bài này là cái mẫu số của em nó là khác 0 sẵn rồi thì chúng ta không có cần điều kiện nữa nhưng mà bài này thì bắt buộc chúng ta phải cầm",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_21_40-21_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_21:50_22:00",
+            "patterns": [
+                "Thế thì ở đây",
+                "Thế thì ở đây là nếu hai",
+                "đây là nếu hai bên là chỉ",
+                "là nếu hai bên là chỉ tuyệt",
+                "bên là chỉ tuyệt đối rồi đúng không",
+                "đúng không thì chúng ta sẽ tiến hành",
+                "sẽ tiến hành Bình Phương nó lên đấy",
+                "hành Bình Phương nó lên đấy để",
+                "Phương nó lên đấy để có thể",
+                "thể phá được lối ra thì cái",
+                "lối ra thì cái chỗ này mình",
+                "ra thì cái chỗ này mình không",
+                "thì cái chỗ này mình không có",
+                "cái chỗ này mình không có tên",
+                "mình không có tên nó là 4",
+                "tên nó là 4 x bình",
+                "nó là 4 x bình",
+                "là 4 x bình",
+                "không có tên nó là 4 x bình"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 21:50 đến 22:00: Thế thì ở đây là nếu hai bên là chỉ tuyệt đối rồi đúng không thì chúng ta sẽ tiến hành Bình Phương nó lên đấy để có thể phá được lối ra thì cái chỗ này mình không có tên nó là 4 x bình",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_21_50-22_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_22:00_22:10",
+            "patterns": [
+                "bình + 2x +",
+                "bình + 2x + 1",
+                "+ 2x + 1 theo hằng đẳng",
+                "1 theo hằng đẳng thức này là xh",
+                "hằng đẳng thức này là xh -1",
+                "thức này là xh -1 đấy thì",
+                "là xh -1 đấy thì ở đây",
+                "đấy thì ở đây các bạn giải",
+                "thì ở đây các bạn giải ra",
+                "ở đây các bạn giải ra thì",
+                "thì ở đây các bạn giải ra thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 22:00 đến 22:10: bình + 2x + 1 theo hằng đẳng thức này là xh -1 đấy thì ở đây các bạn giải ra thì",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_22_00-22_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_22:10_22:20",
+            "patterns": [
+                "= 0 và x khác -1 đấy",
+                "- 2x - 1 = 0 và",
+                "2x - 1 = 0 và x",
+                "- 1 = 0 và x khác",
+                "x khác -1 đấy vào cái này",
+                "-1 đấy vào cái này các bạn",
+                "đấy vào cái này các bạn giải",
+                "vào cái này các bạn giải quyết",
+                "cái này các bạn giải quyết ra",
+                "vào cái này các bạn giải quyết ra"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 22:10 đến 22:20: - 2x - 1 = 0 và x khác -1 đấy vào cái này các bạn giải quyết ra",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_22_10-22_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_22:20_22:30",
+            "patterns": [
+                "xem là nghiệm của nó là",
+                "là nghiệm của nó là bao nhiêu",
+                "của nó là bao nhiêu 3 - 2",
+                "là bao nhiêu 3 - 2 -",
+                "nhiêu 3 - 2 - 1 +",
+                "- 2 - 1 + x =",
+                "2 - 1 + x = 1,1",
+                "- 1 + x = 1,1 nghiệm",
+                "+ x = 1,1 nghiệm là 1 với",
+                "= 1,1 nghiệm là 1 với cả là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 22:20 đến 22:30: xem là nghiệm của nó là bao nhiêu 3 - 2 - 1 + x = 1,1 nghiệm là 1 với cả là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_22_20-22_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_22:30_22:40",
+            "patterns": [
+                "nhưng"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 22:30 đến 22:40: nhưng",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_22_30-22_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_22:50_23:00",
+            "patterns": [
+                "giá trị gì đây tập",
+                "giá trị gì đây tập giá",
+                "giá trị gì đây tập giá trị",
+                "giá trị của tôi là vào lúc",
+                "tôi là vào lúc nãy rồi tầm",
+                "là vào lúc nãy rồi tầm giá",
+                "lúc nãy rồi tầm giá trị của",
+                "giá trị của hàng A cos là",
+                "trị của hàng A cos là",
+                "tầm giá trị của hàng A cos là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 22:50 đến 23:00: giá trị gì đây tập giá trị của tôi là vào lúc nãy rồi tầm giá trị của hàng A cos là",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_22_50-23_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p_23:00_23:10",
+            "patterns": [
+                "nghe chưa"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p trong đoạn từ 23:00 đến 23:10: nghe chưa",
+                "./giaitich/Giaitich1Chuong1Bai1HamsomotbienP1360p/image_at_23_00-23_10.jpg"
+            ]
+        },
+        {
+            "tag": "tóm tắt_Giải_tích_1_Chương_1_Bài_1_Hàm_số_một_biến_P1_360p",
+            "patterns": [
+                "tóm tắt Giải tích 1 Chương 1 Bài 1 Hàm số một biến P1_360p",
+                "tóm tắt bài giảng 1",
+                "tóm tắt bài giảng cơ sở dữ liệu 1",
+                "tóm tắt bài 1"
+            ],
+            "responses": [
+                "Giải tích một thì giải tích hai thì nghiên cứu về hằng số bốn biến và giải tích hai thì nghiên cứu về hằng số hai biến thế thì môn giải tích có rất nhiều ứng dụng trong thực tế...Các em học sinh lớp 12 thì năm nào cũng đưa đến cái hàm số nhưng mà cô sẽ nói qua một chút về hàm số thôi. Chứ bây giờ thì khái niệm hàm số là gì?\" hàng số \" là một khái niệm thường gặp trong môn đại số viễn thông. Nếu như mà các bạn học về môn đại số viễn thông thì các bạn sẽ thấy nó khá là quen thuộc.' tầm xác định thì là tầm các giá trị ích còn tầm giá trị thì lại là tầm các giá trị y thu được khi mà chúng ta cho ếch chạy trên toàn bộ cái tầm xác định này '.Chúng ta bắt đầu tìm hiểu tập xác định và tầm giá trị của một số các hạng số sau đây. Ờ quý vị là ờ tầm xác định và tầm giá trị thì chúng ta hiểu nó cũng chính là tìm pin và tìm mark thôi nháu sinh vê mà nói miền bắc là quê của u sinh vê ấy thế nhưng mà cái câu văn cô nói miền bắc là của u sinh vê mà các bạn đang nói đến là miền bắc và miền nam là của u sinh vê mà các bạn đang nói đến.Nếu bạn muốn biết cách bấm máy y phẩy bằng không thì hãy bấm vào đây nhé. Nếu bạn bấm máy y phẩy bằng không thì bạn sẽ có một năm ba một hai tám hai. Bạn bấm đấy Đúng rồi các bạn ơi cộng trừ căn ba cộng trừ căn bốn là hai mốt nhá và ích bằng trừ hai cộng trừ căn ba đúng không nào các bạn ơi thế thì làm sao mà không có bảng huyết thiên nhỉ\" Vô cùng trên vô cùng bởi vì là khi mà x dần đến cuối cùng thì đây là vô cùng trên cuối cùng đúng không ạ \" bây giờ là nhiệm vụ của chúng ta là chúng ta sẽ tính ra xem nó là bằng gì...Chúng ta sẽ sang ví dụ thứ hai nhé. Nếu mà bật xuất chỉ nó ra là trừ không phẩy trừ không phẩy ba sáu thì tầm giá trị của nó sẽ chạm từ một trừ ngàn ba chín hai cho đến một cộng trăm ba chín hai đấy nhá.Ok ờ cô bê là y bằng là lô gan te của một thứ y ha xi xích đúng không ạ thế thì bây giờ là chúng ta sẽ có giải bất phương trình đột giác như thế nào nhỉCác công trình này đều liên quan đến việc xin ích kỷ của em bé. Vì sao cái xin ích của em chỉ được nhỏ hơn phần hai cơ chứ. Vì sao cái xin ích của em chỉ được nhỏ hơn phần hai?cái này nó sẽ chạy từ điểm này cho đến điểm này các bạn lưu ý là phải chạy theo chiều dương nhé các bạn lưu ý là phải chạy theo chiều dương chứ không phải chiều âm đâu nhé\" chạy từ năm pi trên sáu cộng với k hai pi cho đến cái đất mười ba pi trên sáu cộng k hai pi \" là cái đất chúng ta sẽ có lại tương đương lại \" bây giờ chúng ta sẽ có lại tương đương lại \"...Bài này mình đánh giá rất là dễ bởi vì chúng ta thấy là nó xuất hiện xì lịch mà xì lịch thì bao giờ cũng chạy từ âm một cho đến một đúng không ạ thế nhưng mà ở đây mình thấy nó cũng có 2 tập giá trịTổng giá trị của cái tổng giá trị này là chúng ta chạy tới âm vô cùng cho đến cho đến delta này nghe thông qua thì nó có vẻ đơn giản nhưng mà mình thấy nó lại có tổng giá trị rất là cao...Câu chuyện về hàm axi lạ quá. Nếu các mẹ bầu chọn sai cách thì có thể sửa bằng cách quay hoặc thả gà quay. Còn nếu dùng bách đặt thức thì có thể dùng bánh giá hay lộc bạt việt yên.Tổng xác định của hàm axin và hàm axop là trừ một đến một, tổng xác định của hàm này là trừ một cho đến một, tổng xác định của hàm axin là trừ một cho đến một...Câu chuyện về những chú bê con gặp nạn trong phim Người phán xử kể từ đây sẽ được tiếp tục trong phần 2 các em học sinh sẽ làm bài tập về nhà. Các em thấy thế nào?Hãng xin nghỉ chơi thôi, đừng nghĩ hãng xin là hãng xin mà sẽ làm hãng xin thôi, đừng nghĩ hãng xin là hãng xin mà sẽ làm cái điều ngớ ngẩn thế này, em xin mách nước cho các bạn \" Ơ hay cái gì mà cứ là hoạ si thì bao giờ là tập là chỉ có đó \" \">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ẹj là gì? \">>>>>>>>>>>>>>>>>>>>>>>>>>>>>ẸỮ là hàng axin của hai x chia sau một cộng x \"Ực sCần phải có thêm một điều kiện nữa nghen các anh em ơi! Để cho hai cái bất công trình này tương đương thì chúng ta phải có mẫu số khác chứ ạ, cái mẫu sổ này có thể là cái khác không ạ...Nếu mà chúng ta xác định được ba x bình trừ đi hai x à trừ đi một nhỏ hơn không ấy thì ta sẽ có ba x bình trừ đi hai x trừ đi một nhỏ hơn không ấy"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_00:00_00:10",
+            "patterns": [
+                "cho các em bây giờ",
+                "cho các em bây giờ là",
+                "cho các em bây giờ là chúng ta",
+                "bây giờ là chúng ta sẽ ra cái",
+                "ta sẽ ra cái bài số 2",
+                "sẽ ra cái bài số 2 bài",
+                "ra cái bài số 2 bài số",
+                "cái bài số 2 bài số 2",
+                "2 ở trong chương 1",
+                "ở trong chương 1",
+                "2 bài số 2 ở trong chương 1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 00:00 đến 00:10: cho các em bây giờ là chúng ta sẽ ra cái bài số 2 bài số 2 ở trong chương 1",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_00_00-00_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_00:10_00:20",
+            "patterns": [
+                "tao sẽ học về",
+                "sẽ học về dãy số thực ra",
+                "học về dãy số thực ra là",
+                "về dãy số thực ra là dãy số",
+                "đã học ở lớp 11 rồi đúng",
+                "học ở lớp 11 rồi đúng không",
+                "không Nhưng mà bây giờ mình sẽ nhắc",
+                "mà bây giờ mình sẽ nhắc lại",
+                "sẽ nhắc lại nhé Mình nhắc lại là",
+                "là mình làm một số những cái bài",
+                "làm một số những cái bài mà",
+                "một số những cái bài mà mình",
+                "số những cái bài mà mình chưa",
+                "những cái bài mà mình chưa được học"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 00:10 đến 00:20: tao sẽ học về dãy số thực ra là dãy số thì cũng đã học ở lớp 11 rồi đúng không Nhưng mà bây giờ mình sẽ nhắc lại nhé Mình nhắc lại là mình làm một số những cái bài mà mình chưa được học",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_00_10-00_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_00:30_00:40",
+            "patterns": [
+                "thì hàm số xác định số",
+                "định số thì nó sẽ là một",
+                "nó sẽ là một cái hàm số",
+                "sẽ là một cái hàm số",
+                "thì nó sẽ là một cái hàm số"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 00:30 đến 00:40: thì hàm số xác định số thì nó sẽ là một cái hàm số",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_00_30-00_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_00:40_00:50",
+            "patterns": [
+                "giá trị số tự nhiên",
+                "giá trị số tự nhiên là",
+                "giá trị số tự nhiên là n thì",
+                "tự nhiên là n thì nó sẽ",
+                "là n thì nó sẽ sang bên",
+                "nó sẽ sang bên này là SN",
+                "sẽ sang bên này là SN ta",
+                "bên này là SN ta là x",
+                "này là SN ta là x n",
+                "SN ta là x n",
+                "bên này là SN ta là x n"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 00:40 đến 00:50: giá trị số tự nhiên là n thì nó sẽ sang bên này là SN ta là x n",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_00_40-00_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_00:50_01:00",
+            "patterns": [
+                "x1 x2 cho đến",
+                "cho đến là xn và chúng ta",
+                "là xn và chúng ta sẽ ký hiệu",
+                "sẽ ký hiệu cái dãy số",
+                "ký hiệu cái dãy số",
+                "hiệu cái dãy số",
+                "chúng ta sẽ ký hiệu cái dãy số"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 00:50 đến 01:00: x1 x2 cho đến là xn và chúng ta sẽ ký hiệu cái dãy số",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_00_50-01_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_01:10_01:20",
+            "patterns": [
+                "dãy số có quy",
+                "dãy số có quy luật",
+                "dãy số có quy luật và dãy số",
+                "có quy luật Ví dụ như thế này",
+                "Ví dụ như thế này 13579 thì nó",
+                "này 13579 thì nó chính là một",
+                "nó chính là một cái dãy số",
+                "chính là một cái dãy số có",
+                "có quy luật như thế này thì nó"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 01:10 đến 01:20: dãy số có quy luật và dãy số không có quy luật Ví dụ như thế này 13579 thì nó chính là một cái dãy số có quy luật như thế này thì nó",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_01_10-01_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_01:30_01:40",
+            "patterns": [
+                "khái niệm"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 01:30 đến 01:40: khái niệm",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_01_30-01_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_01:40_01:50",
+            "patterns": [
+                "Nếu như mà"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 01:40 đến 01:50: Nếu như mà",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_01_40-01_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_01:50_02:00",
+            "patterns": [
+                "bằng một cái số nhỏ",
+                "bằng một cái số nhỏ hơn",
+                "bằng một cái số nhỏ hơn một",
+                "bằng một cái số nhỏ hơn một cái"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 01:50 đến 02:00: bằng một cái số nhỏ hơn một cái",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_01_50-02_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_02:00_02:10",
+            "patterns": [
+                "không thể nào ra vô cùng được"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 02:00 đến 02:10: không thể nào ra vô cùng được",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_02_00-02_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_02:10_02:20",
+            "patterns": [
+                "thể nào ra dương vô cùng được",
+                "cùng được thì người ta gọi nó",
+                "được thì người ta gọi nó là",
+                "người ta gọi nó là bị chặn",
+                "bị chặn trên Còn nếu như mà",
+                "nếu như mà một cái dãy mà",
+                "như mà một cái dãy mà gọi",
+                "mà một cái dãy mà gọi là",
+                "mà gọi là tình trạng dưới Tức là",
+                "bằng một cái số m nhỏ nào",
+                "một cái số m nhỏ nào đấy",
+                "không thể nào ra dương vô",
+                "bằng một cái số m nhỏ nào đấy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 02:10 đến 02:20: không thể nào ra dương vô cùng được thì người ta gọi nó là bị chặn trên Còn nếu như mà một cái dãy mà gọi là tình trạng dưới Tức là nó sẽ phải lớn hơn hoặc bằng một cái số m nhỏ nào đấy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_02_10-02_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_02:20_02:30",
+            "patterns": [
+                "Tức là nó sẽ không thể",
+                "nào dần về âm vô cùng được thì tức",
+                "cùng được thì tức là nó phải trả"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 02:20 đến 02:30: Tức là nó sẽ không thể nào dần về âm vô cùng được thì tức là nó phải trả",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_02_20-02_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_02:30_02:40",
+            "patterns": [
+                "Tức là nó sẽ vừa bị",
+                "vừa bị chặn trên và vừa bị",
+                "bị kẹt giữa một cái giá trị",
+                "giữa một cái giá trị m nhỏ",
+                "cái giá trị m nhỏ",
+                "kẹt giữa một cái giá trị m nhỏ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 02:30 đến 02:40: Tức là nó sẽ vừa bị chặn trên và vừa bị chặn dưới Tức là nó sẽ bị kẹt giữa một cái giá trị m nhỏ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_02_30-02_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_02:40_02:50",
+            "patterns": [
+                "khái niệm thứ hai đó",
+                "khái niệm thứ hai đó là",
+                "khái niệm thứ hai đó là khái",
+                "niệm thứ hai đó là khái niệm",
+                "khái niệm lãnh lương thiện dãy đơn điệu",
+                "lãnh lương thiện dãy đơn điệu thì",
+                "điệu thì ở đây chúng ta sẽ",
+                "thì ở đây chúng ta sẽ có hai",
+                "sẽ có hai loại là dãy tăng",
+                "sẽ có hai loại là dãy tăng hoặc"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 02:40 đến 02:50: khái niệm thứ hai đó là khái niệm lãnh lương thiện dãy đơn điệu thì ở đây chúng ta sẽ có hai loại là dãy tăng hoặc",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_02_40-02_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_02:50_03:00",
+            "patterns": [
+                "Tức là số đằng sau sẽ",
+                "Tức là số đằng sau sẽ phải",
+                "là số đằng sau sẽ phải nhỏ",
+                "là số đằng sau sẽ phải nhỏ hơn"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 02:50 đến 03:00: Tức là số đằng sau sẽ phải nhỏ hơn",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_02_50-03_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_03:00_03:10",
+            "patterns": [
+                "Thế còn về giới",
+                "Thế còn về giới hạn giới hạn của",
+                "giới hạn của dãy số thì các",
+                "hạn của dãy số thì các bạn",
+                "dãy số thì các bạn lưu ý",
+                "số thì các bạn lưu ý là",
+                "lưu ý là chúng ta",
+                "thì các bạn lưu ý là chúng ta"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 03:00 đến 03:10: Thế còn về giới hạn giới hạn của dãy số thì các bạn lưu ý là chúng ta",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_03_00-03_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_03:10_03:20",
+            "patterns": [
+                "theo cái hay Denta ở đây nhé",
+                "hay Denta ở đây nhé thì các",
+                "đây nhé thì các bạn lưu ý",
+                "nhé thì các bạn lưu ý là",
+                "tìm hiểu về ars",
+                "mà các bạn muốn tìm hiểu về ars"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 03:10 đến 03:20: theo cái hay Denta ở đây nhé thì các bạn lưu ý là nếu mà các bạn muốn tìm hiểu về ars",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_03_10-03_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_03:20_03:30",
+            "patterns": [
+                "đơn giản nhất để chúng",
+                "giản nhất để chúng ta hiểu thế nào",
+                "chúng ta hiểu thế nào là giới hạn",
+                "thế nào là giới hạn Thôi thì giới",
+                "giới hạn của một dãy số thì",
+                "hạn của một dãy số thì người",
+                "của một dãy số thì người ta",
+                "dãy số thì người ta sẽ ký",
+                "nhất để chúng ta hiểu thế nào",
+                "sẽ ký hiệu đó",
+                "số thì người ta sẽ ký hiệu đó"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 03:20 đến 03:30: đơn giản nhất để chúng ta hiểu thế nào là giới hạn Thôi thì giới hạn của một dãy số thì người ta sẽ ký hiệu đó",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_03_20-03_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_03:30_03:40",
+            "patterns": [
+                "là khi mà n dần",
+                "n dần đến dương vô cùng",
+                "khi mà n dần đến dương vô cùng"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 03:30 đến 03:40: là khi mà n dần đến dương vô cùng",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_03_30-03_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_03:40_03:50",
+            "patterns": [
+                "hội tụ còn nếu"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 03:40 đến 03:50: hội tụ còn nếu",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_03_40-03_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_03:50_04:00",
+            "patterns": [
+                "trường hợp còn lại có",
+                "có nghĩa là gì ạ trường còn",
+                "nghĩa là gì ạ trường còn lại có",
+                "là nếu như l mà là vô",
+                "cùng hoặc là cái l để không",
+                "tồn tại thì khi đó cái dãy",
+                "tại thì khi đó cái dãy này",
+                "khi đó cái dãy này",
+                "đó cái dãy này",
+                "tồn tại thì khi đó cái dãy này"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 03:50 đến 04:00: trường hợp còn lại có nghĩa là gì ạ trường còn lại có nghĩa là nếu như l mà là vô cùng hoặc là cái l để không tồn tại thì khi đó cái dãy này",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_03_50-04_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_04:00_04:10",
+            "patterns": [
+                "rất là quen thuộc"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 04:00 đến 04:10: rất là quen thuộc",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_04_00-04_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_04:20_04:30",
+            "patterns": [
+                "tiêu chuẩn hội tụ là",
+                "hội tụ là gì nếu như chúng",
+                "gì nếu như chúng ta có dãy tăng",
+                "chúng ta có dãy tăng mà bị",
+                "ta có dãy tăng mà bị chặn trên"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 04:20 đến 04:30: tiêu chuẩn hội tụ là gì nếu như chúng ta có dãy tăng mà bị chặn trên",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_04_20-04_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_04:30_04:40",
+            "patterns": [
+                "cứ tăng tăng mà lại bị chặn trên",
+                "thế này là chứng tỏ phải dừng lại",
+                "nếu như mà một cái lãi mà",
+                "như mà một cái lãi mà nó",
+                "mà một cái lãi mà nó cứ",
+                "cái lãi mà nó cứ giảm giảm",
+                "một cái lãi mà nó cứ giảm giảm"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 04:30 đến 04:40: tức là cứ tăng tăng mà lại bị chặn trên thế này là chứng tỏ phải dừng lại tức là hội tụ đi Còn nếu như mà một cái lãi mà nó cứ giảm giảm",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_04_30-04_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_04:50_05:00",
+            "patterns": [
+                "và chúng ta có một số",
+                "chúng ta có một số các cái giới",
+                "có một số các cái giới hạn",
+                "một số các cái giới hạn cơ",
+                "số các cái giới hạn cơ bản thì",
+                "cái giới hạn cơ bản thì trong những",
+                "bản thì trong những cái giới hạn",
+                "hạn cơ bản này thì chúng ta",
+                "ta chỉ có duy nhất một để giới",
+                "chúng ta có một số các cái",
+                "hạn này và mình đã được học",
+                "được học ở phổ thông",
+                "và mình đã được học ở phổ thông"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 04:50 đến 05:00: và chúng ta có một số các cái giới hạn cơ bản thì trong những cái giới hạn cơ bản này thì chúng ta chỉ có duy nhất một để giới hạn này và mình đã được học ở phổ thông",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_04_50-05_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_05:00_05:10",
+            "patterns": [
+                "giới hạn của X thuộc",
+                "giới hạn của X thuộc n trong",
+                "của X thuộc n trong đó x",
+                "thuộc n trong đó x là có",
+                "là có trị tuyệt đối nhỏ hơn 1",
+                "đối nhỏ hơn 1 thì tất cả",
+                "hơn 1 thì tất cả những cái lũ",
+                "thì tất cả những cái lũ đó",
+                "tất cả những cái lũ đó sẽ",
+                "cả những cái lũ đó sẽ đều",
+                "về không hết ví dụ như là",
+                "dần về không hết ví dụ như là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 05:00 đến 05:10: giới hạn của X thuộc n trong đó x là có trị tuyệt đối nhỏ hơn 1 thì tất cả những cái lũ đó sẽ đều dần về không hết ví dụ như là",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_05_00-05_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_05:20_05:30",
+            "patterns": [
+                "thích bởi vì đây là",
+                "cần phải giải thích bởi vì đây là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 05:20 đến 05:30: không cần phải giải thích bởi vì đây là",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_05_20-05_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_05:30_05:40",
+            "patterns": [
+                "Còn bây giờ là mình sẽ",
+                "bây giờ là mình sẽ làm bài",
+                "là mình sẽ làm bài tập tất nhiên"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 05:30 đến 05:40: Còn bây giờ là mình sẽ làm bài tập tất nhiên",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_05_30-05_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_06:00_06:10",
+            "patterns": [
+                "giới hạn dãy số thì nó",
+                "giới hạn dãy số thì nó sẽ",
+                "dãy số thì nó sẽ có những",
+                "nó sẽ có những cái loại giới",
+                "sẽ có những cái loại giới hạn",
+                "có những cái loại giới hạn cấp",
+                "giới hạn dãy số thì",
+                "loại giới hạn cấp tỉnh gì đúng",
+                "giới hạn cấp tỉnh gì đúng không",
+                "hạn cấp tỉnh gì đúng không Thì",
+                "gì đúng không Thì giới hạn dãy",
+                "nó chỉ có 3 loại thôi đấy",
+                "thì nó chỉ có 3 loại thôi đấy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 06:00 đến 06:10: giới hạn dãy số thì nó sẽ có những cái loại giới hạn cấp tỉnh gì đúng không Thì giới hạn dãy số thì nó chỉ có 3 loại thôi đấy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_06_00-06_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_06:20_06:30",
+            "patterns": [
+                "hàm số mới có chứ",
+                "còn giới hạn dãy",
+                "số mới có chứ còn giới hạn dãy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 06:20 đến 06:30: hàm số mới có chứ còn giới hạn dãy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_06_20-06_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_06:30_06:40",
+            "patterns": [
+                "thì những cái"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 06:30 đến 06:40: thì những cái",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_06_30-06_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_07:00_07:10",
+            "patterns": [
+                "bữa sau thì mình",
+                "bữa sau thì mình sẽ",
+                "bữa sau thì mình sẽ có"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 07:00 đến 07:10: bữa sau thì mình sẽ có",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_07_00-07_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_07:10_07:20",
+            "patterns": [
+                "học để một cái bài mà",
+                "học để một cái bài mà chúng",
+                "để một cái bài mà chúng ta",
+                "cái bài mà chúng ta sẽ có một",
+                "có một cái phương pháp mới để tính",
+                "mới để tính giới hạn rất là nhanh",
+                "là nhanh và bây giờ thì mình sẽ",
+                "bây giờ thì mình sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 07:10 đến 07:20: học để một cái bài mà chúng ta sẽ có một cái phương pháp mới để tính giới hạn rất là nhanh và bây giờ thì mình sẽ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_07_10-07_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_07:20_07:30",
+            "patterns": [
+                "ví dụ số 1 và",
+                "ví dụ số 1 và chúng",
+                "ví dụ số 1 và chúng ta",
+                "số 1 và chúng ta sẽ test thử",
+                "sẽ test thử hội tụ của các cái",
+                "hội tụ của các cái dãy số",
+                "tụ của các cái dãy số sau",
+                "của các cái dãy số sau",
+                "cái dãy số sau",
+                "hội tụ của các cái dãy số sau"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 07:20 đến 07:30: ví dụ số 1 và chúng ta sẽ test thử hội tụ của các cái dãy số sau",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_07_20-07_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_08:20_08:30",
+            "patterns": [
+                "cách sử dụng của",
+                "sử dụng của cái dãy số này",
+                "dụng của cái dãy số này và",
+                "của cái dãy số này và bây",
+                "cái dãy số này và bây giờ",
+                "số này và bây giờ là tìm giới",
+                "giờ là tìm giới hạn Nếu có cái",
+                "Nếu có cái phần mà lúc nãy",
+                "cái phần mà lúc nãy thì cô",
+                "phần mà lúc nãy thì cô mới",
+                "lúc nãy thì cô mới xóa hết",
+                "lúc nãy thì cô mới xóa hết rồi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 08:20 đến 08:30: cách sử dụng của cái dãy số này và bây giờ là tìm giới hạn Nếu có cái phần mà lúc nãy thì cô mới xóa hết rồi",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_08_20-08_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_08:30_08:40",
+            "patterns": [
+                "mà chia cho n giai thừa",
+                "chia cho n giai thừa"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 08:30 đến 08:40: mà chia cho n giai thừa",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_08_30-08_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_08:40_08:50",
+            "patterns": [
+                "dãy dãy số này",
+                "dãy dãy số này là bằng",
+                "dãy dãy số này là bằng 0",
+                "này là bằng 0 rồi đó Tuy",
+                "bằng 0 rồi đó Tuy nhiên thì",
+                "Tuy nhiên thì bây",
+                "bằng 0 rồi đó Tuy nhiên thì bây"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 08:40 đến 08:50: dãy dãy số này là bằng 0 rồi đó Tuy nhiên thì bây",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_08_40-08_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_08:50_09:00",
+            "patterns": [
+                "thử làm là mình chứng minh ý",
+                "tại sao mà thế giới hạn này nó lại",
+                "thế giới hạn này nó lại bằng",
+                "giới hạn này nó lại bằng không",
+                "ok chưa Đấy Thế thì bây giờ là",
+                "Đấy Thế thì bây giờ là gì ạ",
+                "bây giờ là gì ạ để mà",
+                "để mà xét sự hội tụ của",
+                "ạ để mà xét sự hội tụ của"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 08:50 đến 09:00: thử làm là mình chứng minh ý mình chứng minh là tại sao mà thế giới hạn này nó lại bằng không nhé ok chưa Đấy Thế thì bây giờ là gì ạ để mà xét sự hội tụ của",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_08_50-09_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_09:00_09:10",
+            "patterns": [
+                "lấy ví dụ của 1A này",
+                "ví dụ của 1A này thì mình",
+                "dụ của 1A này thì mình sẽ",
+                "1A này thì mình sẽ sử dụng",
+                "sẽ sử dụng cái tiêu chuẩn hội",
+                "sử dụng cái tiêu chuẩn hội tụ lúc",
+                "cái tiêu chuẩn hội tụ lúc nãy tiêu",
+                "chuẩn hội tụ lúc nãy tiêu chuẩn",
+                "hội tụ lúc nãy tiêu chuẩn của",
+                "tiêu chuẩn của mỗi lúc nãy là",
+                "lúc nãy là khi mà một cái",
+                "là khi mà một cái dãy tăng",
+                "mà một cái dãy tăng mà nó",
+                "dãy tăng mà nó bị chặn trên",
+                "nó bị chặn trên thì nó sẽ",
+                "nó bị chặn trên thì nó sẽ có"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 09:00 đến 09:10: lấy ví dụ của 1A này thì mình sẽ sử dụng cái tiêu chuẩn hội tụ lúc nãy tiêu chuẩn của mỗi lúc nãy là khi mà một cái dãy tăng mà nó bị chặn trên thì nó sẽ có",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_09_00-09_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_09:10_09:20",
+            "patterns": [
+                "giới hạn và hội tụ",
+                "đúng không Và khi mà một dãy",
+                "Và khi mà một dãy giảm thì",
+                "khi mà một dãy giảm thì bị",
+                "chặn dưới thì nó cũng sẽ hội",
+                "sẽ hội tụ thế thì bây giờ",
+                "tụ thế thì bây giờ là bước 1",
+                "bây giờ là bước 1 là chúng",
+                "giờ là bước 1 là chúng ta",
+                "bước 1 là chúng ta sẽ kiểm tra",
+                "sẽ kiểm tra cô xem nhé là",
+                "kiểm tra cô xem nhé là cái dãy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 09:10 đến 09:20: giới hạn và hội tụ đúng không Và khi mà một dãy giảm thì bị chặn dưới thì nó cũng sẽ hội tụ thế thì bây giờ là bước 1 là chúng ta sẽ kiểm tra cô xem nhé là cái dãy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_09_10-09_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_09:40_09:50",
+            "patterns": [
+                "cách số 2 thì",
+                "cách số 2 thì chúng",
+                "cách số 2 thì chúng ta",
+                "số 2 thì chúng ta"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 09:40 đến 09:50: cách số 2 thì chúng ta",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_09_40-09_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_09:50_10:00",
+            "patterns": [
+                "so sánh"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 09:50 đến 10:00: so sánh",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_09_50-10_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_10:00_10:10",
+            "patterns": [
+                "Nếu như mà Cái thuốc này mà",
+                "như mà Cái thuốc này mà lớn",
+                "mà Cái thuốc này mà lớn hơn",
+                "mà lớn hơn 1 thì nó sẽ",
+                "hơn 1 thì nó sẽ là sẽ",
+                "là sẽ tăng Còn nếu mà Cái",
+                "hơn lớn hơn 0 và bé hơn",
+                "0 và bé hơn 1 thì nó sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 10:00 đến 10:10: Nếu như mà Cái thuốc này mà lớn hơn 1 thì nó sẽ là sẽ tăng Còn nếu mà Cái thuốc này mà lớn hơn lớn hơn 0 và bé hơn 1 thì nó sẽ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_10_00-10_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_10:40_10:50",
+            "patterns": [
+                "2n hay n cộng 1 cho",
+                "hay n cộng 1 cho cô nhé",
+                "cộng 1 cho cô nhé Thì",
+                "cho cô nhé Thì",
+                "hay n cộng 1 cho cô nhé Thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 10:40 đến 10:50: 2n hay n cộng 1 cho cô nhé Thì",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_10_40-10_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_10:50_11:00",
+            "patterns": [
+                "chia cho n + 1 giai",
+                "chia cho n + 1 giai thừa",
+                "cho n + 1 giai thừa nên",
+                "n + 1 giai thừa nên chia cho",
+                "nên chia cho x m n ta",
+                "chia cho x m n ta làm",
+                "x m n ta làm nhân cực",
+                "ta làm nhân cực đại là",
+                "m n ta làm nhân cực đại là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 10:50 đến 11:00: chia cho n + 1 giai thừa nên chia cho x m n ta làm nhân cực đại là",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_10_50-11_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_11:00_11:10",
+            "patterns": [
+                "chia cho 2 mũ n Các",
+                "chia cho 2 mũ n Các bạn",
+                "cho 2 mũ n Các bạn nhìn",
+                "2 mũ n Các bạn nhìn thấy",
+                "mũ n Các bạn nhìn thấy không",
+                "không Thế thì chúng ta dễ dàng thấy",
+                "thì chúng ta dễ dàng thấy rằng là",
+                "thấy rằng là một triệt tiêu khá",
+                "rằng là một triệt tiêu khá là nhiều",
+                "nhiều hay 2 m + 1 là",
+                "hay 2 m + 1 là triệt",
+                "2 m + 1 là triệt",
+                "rằng là một triệt tiêu khá là",
+                "nhiều hay 2 m + 1 là triệt"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 11:00 đến 11:10: chia cho 2 mũ n Các bạn nhìn thấy không Thế thì chúng ta dễ dàng thấy rằng là một triệt tiêu khá là nhiều hay 2 m + 1 là triệt",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_11_00-11_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_11:10_11:20",
+            "patterns": [
+                "n + 1 giai",
+                "n + 1 giai thừa",
+                "n + 1 giai thừa triệt",
+                "n + 1 giai thừa triệt tiêu n",
+                "n + 1 =",
+                "thừa chỉ còn cái n + 1 ="
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 11:10 đến 11:20: n + 1 giai thừa triệt tiêu n giai thừa chỉ còn cái n + 1 =",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_11_10-11_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_11:30_11:40",
+            "patterns": [
+                "2/3 n = 3",
+                "2/3 n = 3 giữa 2/4",
+                "2/3 n = 3 giữa 2/4 2/5",
+                "= 3 giữa 2/4 2/5 2/6 Tức",
+                "2/6 Tức là nó sẽ là luôn",
+                "nó sẽ là luôn luôn là nhỏ hơn",
+                "là nhỏ hơn 1 đúng không ạ",
+                "đúng không ạ Luôn luôn nhỏ hơn 1",
+                "hơn 1 với mọi",
+                "ạ Luôn luôn nhỏ hơn 1 với mọi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 11:30 đến 11:40: 2/3 n = 3 giữa 2/4 2/5 2/6 Tức là nó sẽ là luôn luôn là nhỏ hơn 1 đúng không ạ Luôn luôn nhỏ hơn 1 với mọi",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_11_30-11_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_11:40_11:50",
+            "patterns": [
+                "đầu tính từ N = 2 trở",
+                "tính từ N = 2 trở đi",
+                "từ N = 2 trở đi thì",
+                "đi thì là nó đều nhỏ hơn",
+                "đều nhỏ hơn 1 điều đó có",
+                "nhỏ hơn 1 điều đó có nghĩa",
+                "hơn 1 điều đó có nghĩa là",
+                "có nghĩa là cái dãy này thì",
+                "nghĩa là cái dãy này thì nó",
+                "là cái dãy này thì nó sẽ",
+                "nó sẽ là dễ dàng đúng",
+                "này thì nó sẽ là dễ dàng đúng"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 11:40 đến 11:50: bắt đầu tính từ N = 2 trở đi thì là nó đều nhỏ hơn 1 điều đó có nghĩa là cái dãy này thì nó sẽ là dễ dàng đúng",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_11_40-11_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_11:50_12:00",
+            "patterns": [
+                "Thế thì các bạn",
+                "Thế thì các bạn lưu ý",
+                "Thế thì các bạn lưu ý là",
+                "thật ra là nếu mà nói về cái"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 11:50 đến 12:00: Thế thì các bạn lưu ý là thật ra là nếu mà nói về cái",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_11_50-12_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_12:00_12:10",
+            "patterns": [
+                "chỉ cần là khi mà n đủ",
+                "cần là khi mà n đủ lớn mà"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 12:00 đến 12:10: mà chỉ cần là khi mà n đủ lớn mà",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_12_00-12_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_12:10_12:20",
+            "patterns": [
+                "các bạn cũng không",
+                "các bạn cũng không cần",
+                "cần phải là nó phải đúng với",
+                "phải đúng với tất cả n tức là",
+                "với tất cả n tức là phải",
+                "đúng với tất cả n tức là phải"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 12:10 đến 12:20: các bạn cũng không cần phải là nó phải đúng với tất cả n tức là phải",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_12_10-12_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_12:30_12:40",
+            "patterns": [
+                "mà đã là dễ dàng thì chúng ta",
+                "dễ dàng thì chúng ta cần phải cái",
+                "bị chặn dưới em bị chặn dưới",
+                "cái bị chặn dưới em bị chặn",
+                "chặn dưới em bị chặn dưới thì quá"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 12:30 đến 12:40: Nếu như mà đã là dễ dàng thì chúng ta cần phải cái bị chặn dưới em bị chặn dưới thì quá",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_12_30-12_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_12:40_12:50",
+            "patterns": [
+                "thế nên là nó",
+                "thế nên là nó sẽ là gì",
+                "nó sẽ là gì bị chặn",
+                "nên là nó sẽ là gì bị chặn"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 12:40 đến 12:50: thế nên là nó sẽ là gì bị chặn",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_12_40-12_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_12:50_13:00",
+            "patterns": [
+                "chứng tỏ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 12:50 đến 13:00: chứng tỏ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_12_50-13_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_13:00_13:10",
+            "patterns": [
+                "từ 1 và 2 suy",
+                "từ 1 và 2 suy ra"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 13:00 đến 13:10: từ 1 và 2 suy ra",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_13_00-13_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_13:30_13:40",
+            "patterns": [
+                "bằng cái này đúng không"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 13:30 đến 13:40: bằng cái này đúng không",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_13_30-13_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_13:40_13:50",
+            "patterns": [
+                "sẽ làm bằng xn X với 2",
+                "làm bằng xn X với 2 chia",
+                "xn X với 2 chia cho n",
+                "2 chia cho n +",
+                "chia cho n +",
+                "xn X với 2 chia cho n +"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 13:40 đến 13:50: sẽ làm bằng xn X với 2 chia cho n +",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_13_40-13_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_13:50_14:00",
+            "patterns": [
+                "nhân với 2 chia cho n",
+                "2 chia cho n + 1 bây",
+                "chia cho n + 1 bây giờ",
+                "cho n + 1 bây giờ là",
+                "n + 1 bây giờ là cô cần",
+                "bây giờ là cô cần các bạn",
+                "là cô cần các bạn là cho",
+                "cô cần các bạn là cho n",
+                "là cô cần các bạn là cho n"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 13:50 đến 14:00: nhân với 2 chia cho n + 1 bây giờ là cô cần các bạn là cho n",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_13_50-14_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_14:00_14:10",
+            "patterns": [
+                "cho n Gần ra dương",
+                "cho n Gần ra dương vô cùng"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 14:00 đến 14:10: cho n Gần ra dương vô cùng",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_14_00-14_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_14:10_14:20",
+            "patterns": [
+                "mấy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 14:10 đến 14:20: mấy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_14_10-14_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_14:20_14:30",
+            "patterns": [
+                "thì các bạn thấy là",
+                "thì các bạn thấy là khi",
+                "bạn thấy là khi mà n Gần",
+                "ra vô cùng ấy thì thằng này",
+                "cùng ấy thì thằng này là dẫn",
+                "ấy thì thằng này là dẫn đến",
+                "không đúng không nào dẫn đến không",
+                "như vậy là chúng ta sẽ có biểu",
+                "ta sẽ có biểu thức là gì ạ",
+                "biểu thức là gì ạ là a",
+                "gì ạ là a = a x 0",
+                "gì ạ là a = a x",
+                "a = a x 0 thì",
+                "= a x 0 thì",
+                "ạ là a = a x 0 thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 14:20 đến 14:30: thì các bạn thấy là khi mà n Gần ra vô cùng ấy thì thằng này là dẫn đến không đúng không nào dẫn đến không như vậy là chúng ta sẽ có biểu thức là gì ạ là a = a x 0 thì",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_14_20-14_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_14:40_14:50",
+            "patterns": [
+                "mệnh hỏa Lim của",
+                "mệnh hỏa Lim của x n",
+                "hỏa Lim của x n là bằng",
+                "Lim của x n là bằng 0",
+                "n là bằng 0 viết lên đây",
+                "0 viết lên đây là mình hiểu",
+                "lên đây là mình hiểu là Lim",
+                "Lim là n giờ đến dương vô",
+                "n giờ đến dương vô cùng đây",
+                "vô cùng đây Mình chỉ biết đi",
+                "vô cùng đây Mình chỉ biết đi như"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 14:40 đến 14:50: mệnh hỏa Lim của x n là bằng 0 viết lên đây là mình hiểu là Lim là n giờ đến dương vô cùng đây Mình chỉ biết đi như",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_14_40-14_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_14:50_15:00",
+            "patterns": [
+                "ví dụ thứ hai"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 14:50 đến 15:00: ví dụ thứ hai",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_14_50-15_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_15:10_15:20",
+            "patterns": [
+                "ví dụ này vẫn là",
+                "ví dụ này vẫn là với",
+                "vẫn là với cái câu hỏi là",
+                "là với cái câu hỏi là kiểm",
+                "tra là cái dãy này có",
+                "là kiểm tra là cái dãy này có"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 15:10 đến 15:20: ví dụ này vẫn là với cái câu hỏi là kiểm tra là cái dãy này có",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_15_10-15_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_15:30_15:40",
+            "patterns": [
+                "mình bước"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 15:30 đến 15:40: mình bước",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_15_30-15_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_15:50_16:00",
+            "patterns": [
+                "trừ đi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 15:50 đến 16:00: trừ đi",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_15_50-16_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_16:00_16:10",
+            "patterns": [
+                "xét nghiệm thì X N là áp",
+                "là áp dụng công thức này đúng không",
+                "dụng công thức này đúng không tác",
+                "này đúng không tác dụng công thức này"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 16:00 đến 16:10: xét nghiệm thì X N là áp dụng công thức này đúng không tác dụng công thức này",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_16_00-16_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_16:10_16:20",
+            "patterns": [
+                "bios có làm thai",
+                "bios có làm thai chia cho x",
+                "thai chia cho x n - 1",
+                "chia cho x n - 1 +",
+                "x n - 1 + 1 -",
+                "n - 1 + 1 - x",
+                "chia cho x n - 1 + 1",
+                "n trừ 1 Đấy nhìn lại mình",
+                "Đấy nhìn lại mình sẽ quy đầu",
+                "1 Đấy nhìn lại mình sẽ quy đầu"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 16:10 đến 16:20: bios có làm thai chia cho x n - 1 + 1 - x n trừ 1 Đấy nhìn lại mình sẽ quy đầu",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_16_10-16_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_16:20_16:30",
+            "patterns": [
+                "quy đồng thì nó sẽ",
+                "quy đồng thì nó sẽ là bao",
+                "nó sẽ là bao nhiêu thì hát ở",
+                "thì hát ở đây sẽ là bằng",
+                "sẽ là bằng này khi mà quy",
+                "là bằng này khi mà quy đồng",
+                "lên đúng không Thì nó sẽ là",
+                "sẽ là - x n trừ 1",
+                "là - x n trừ 1 Bình Phương",
+                "x n trừ 1 Bình Phương",
+                "n trừ 1 Bình Phương"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 16:20 đến 16:30: quy đồng thì nó sẽ là bao nhiêu thì hát ở đây sẽ là bằng này khi mà quy đồng lên đúng không Thì nó sẽ là - x n trừ 1 Bình Phương",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_16_20-16_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_16:30_16:40",
+            "patterns": [
+                "2 + xn -",
+                "2 + xn - 1",
+                "2 + xn - 1 +",
+                "+ xn - 1 + 12 chia",
+                "- 1 + 12 chia cho x",
+                "12 chia cho x n - 1",
+                "chia cho x n - 1 đó",
+                "n - 1 đó",
+                "12 chia cho x n - 1 đó"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 16:30 đến 16:40: 2 + xn - 1 + 12 chia cho x n - 1 đó",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_16_30-16_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_16:40_16:50",
+            "patterns": [
+                "Việt Nam có thể thấy",
+                "rằng là do cái ích không này bằng",
+                "cái ích không này bằng 1 thế",
+                "không này bằng 1 thế nên là",
+                "này bằng 1 thế nên là nếu",
+                "là nếu mà mình cứ thay vào",
+                "thay vào theo kiểu chi Ngồi ấy",
+                "vào theo kiểu chi Ngồi ấy thì mình",
+                "kiểu chi Ngồi ấy thì mình thấy",
+                "thấy rằng là tất cả cái X này",
+                "rằng là do cái ích không này",
+                "tất cả cái X này dễ dàng",
+                "cái X này dễ dàng là nó thấy",
+                "dễ dàng là nó thấy là",
+                "X này dễ dàng là nó thấy là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 16:40 đến 16:50: Việt Nam có thể thấy rằng là do cái ích không này bằng 1 thế nên là nếu mà mình cứ thay vào theo kiểu chi Ngồi ấy thì mình thấy rằng là tất cả cái X này dễ dàng là nó thấy là",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_16_40-16_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_16:50_17:00",
+            "patterns": [
+                "mang dấu gì thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 16:50 đến 17:00: mang dấu gì thì",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_16_50-17_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_17:10_17:20",
+            "patterns": [
+                "-1 với cả hai đấy",
+                "với cả hai đấy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 17:10 đến 17:20: -1 với cả hai đấy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_17_10-17_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_17:20_17:30",
+            "patterns": [
+                "thì bên tay phải tối",
+                "thì bên tay phải tối nay nó",
+                "bên tay phải tối nay nó sẽ",
+                "tay phải tối nay nó sẽ cùng",
+                "phải tối nay nó sẽ cùng dấu",
+                "nó sẽ cùng dấu hệ số cao",
+                "sẽ cùng dấu hệ số cao nhất đúng",
+                "nhất đúng không Vậy nên nó sẽ",
+                "nó sẽ là 5 dấu trừ hỏi",
+                "nó sẽ cùng dấu hệ số cao nhất",
+                "dấu trừ hỏi + - thế như",
+                "hỏi + - thế như vậy là",
+                "như vậy là gì",
+                "hỏi + - thế như vậy là gì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 17:20 đến 17:30: thì bên tay phải tối nay nó sẽ cùng dấu hệ số cao nhất đúng không Vậy nên nó sẽ là 5 dấu trừ hỏi + - thế như vậy là gì",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_17_20-17_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_17:30_17:40",
+            "patterns": [
+                "Thế thì chúng ta",
+                "Thế thì chúng ta chỉ quan tâm",
+                "quan tâm đến cái bộ này thôi",
+                "tâm đến cái bộ này thôi nhé",
+                "đến cái bộ này thôi nhé Mình",
+                "này thôi nhé Mình chỉ quan tâm",
+                "tâm đến cái vụ này thôi Bởi",
+                "thôi Bởi vì khi mà n bắt",
+                "vì khi mà n bắt đầu lớn",
+                "lớn lớn hơn 2 thì",
+                "n bắt đầu lớn lớn hơn 2 thì"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 17:30 đến 17:40: Thế thì chúng ta chỉ quan tâm đến cái bộ này thôi nhé Mình chỉ quan tâm đến cái vụ này thôi Bởi vì khi mà n bắt đầu lớn lớn hơn 2 thì",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_17_30-17_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_17:40_17:50",
+            "patterns": [
+                "khái niệm này mang dấu",
+                "khái niệm này mang dấu âm",
+                "niệm này mang dấu âm mà Vừa rồi",
+                "mà Vừa rồi cô nói là khi",
+                "cô nói là khi mà chúng ta",
+                "là khi mà chúng ta xét tỉ số",
+                "chúng ta xét tỉ số Hay là mình",
+                "số Hay là mình xét hiệu thì",
+                "là đúng với tất cả n đúng không",
+                "với tất cả n đúng không"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 17:40 đến 17:50: khái niệm này mang dấu âm mà Vừa rồi cô nói là khi mà chúng ta xét tỉ số Hay là mình xét hiệu thì mình cũng không cần phải là đúng với tất cả n đúng không",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_17_40-17_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_17:50_18:00",
+            "patterns": [
+                "lớn hơn 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 17:50 đến 18:00: lớn hơn 2",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_17_50-18_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_18:00_18:10",
+            "patterns": [
+                "đầu lớn hơn 2 với",
+                "bắt đầu lớn hơn 2 với"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 18:00 đến 18:10: bắt đầu lớn hơn 2 với",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_18_00-18_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_18:30_18:40",
+            "patterns": [
+                "lớn hơn 0 rồi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 18:30 đến 18:40: lớn hơn 0 rồi",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_18_30-18_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_18:40_18:50",
+            "patterns": [
+                "bị chặn dưới"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 18:40 đến 18:50: bị chặn dưới",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_18_40-18_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_18:50_19:00",
+            "patterns": [
+                "chứng tỏ là nó là hội tụ",
+                "là nó là hội tụ",
+                "thì chứng tỏ là nó là hội tụ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 18:50 đến 19:00: thì chứng tỏ là nó là hội tụ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_18_50-19_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_19:10_19:20",
+            "patterns": [
+                "chỉ muốn tìm giới hạn của nó thì",
+                "giới hạn của nó thì thôi lại",
+                "lại nhọn thôi chúng ta lại bỏ đi",
+                "của nó là a đấy thì chúng",
+                "nó là a đấy thì chúng ta",
+                "nó là a đấy thì chúng ta sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 19:10 đến 19:20: chỉ muốn tìm giới hạn của nó thì thôi lại nhọn thôi chúng ta lại bỏ đi cộng giới hạn của nó là a đấy thì chúng ta sẽ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_19_10-19_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_19:20_19:30",
+            "patterns": [
+                "áp dụng cho cô cái này biểu",
+                "dụng cho cô cái này biểu thức",
+                "cho cô cái này biểu thức này",
+                "cô cái này biểu thức này là xn",
+                "thức này là xn = 2 chia",
+                "này là xn = 2 chia cho",
+                "là xn = 2 chia cho x",
+                "2 chia cho x n - 1",
+                "chia cho x n - 1 +",
+                "x n - 1 + 1 và",
+                "n - 1 + 1 và có",
+                "và có cần các bạn đã cho",
+                "có cần các bạn đã cho",
+                "1 và có cần các bạn đã cho"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 19:20 đến 19:30: áp dụng cho cô cái này biểu thức này là xn = 2 chia cho x n - 1 + 1 và có cần các bạn đã cho",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_19_20-19_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_19:40_19:50",
+            "patterns": [
+                "Vậy chúng ta sẽ",
+                "Vậy chúng ta sẽ được một",
+                "ta sẽ được một cái phương trình",
+                "sẽ được một cái phương trình như",
+                "được một cái phương trình như thế này",
+                "phương trình như thế này là a =",
+                "thế này là a = 2 trên",
+                "này là a = 2 trên a",
+                "là a = 2 trên a +",
+                "2 trên a + 1 đúng không",
+                "trên a + 1 đúng không Thì",
+                "1 đúng không Thì chúng ta quy",
+                "quy đồng lên đoạn quy đồng lên",
+                "Thì chúng ta quy đồng lên đoạn quy",
+                "đồng lên thì chúng ta sẽ được là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 19:40 đến 19:50: Vậy chúng ta sẽ được một cái phương trình như thế này là a = 2 trên a + 1 đúng không Thì chúng ta quy đồng lên đoạn quy đồng lên thì chúng ta sẽ được là",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_19_40-19_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_19:50_20:00",
+            "patterns": [
+                "với cả là 2",
+                "-2 = 0 Có vẻ",
+                "-2 = 0 Có vẻ như",
+                "-2 = 0 Có vẻ như là 60",
+                "0 Có vẻ như là 60 phương trình",
+                "vẻ như là 60 phương trình này",
+                "như là 60 phương trình này đấy thì",
+                "60 phương trình này đấy thì nó",
+                "phương trình này đấy thì nó sẽ",
+                "này đấy thì nó sẽ có hai",
+                "nó sẽ có hai nghiệm là -1 với",
+                "hai nghiệm là -1 với cả là 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 19:50 đến 20:00: -2 = 0 Có vẻ như là 60 phương trình này đấy thì nó sẽ có hai nghiệm là -1 với cả là 2",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_19_50-20_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_20:00_20:10",
+            "patterns": [
+                "nhưng mà -1 thì chúng",
+                "mà -1 thì chúng ta sẽ loại đi",
+                "chúng ta sẽ loại đi bởi vì",
+                "bởi vì là cái dãy số này",
+                "vì là cái dãy số này là",
+                "là cái dãy số này là đại",
+                "cái dãy số này là đại dương",
+                "số này là đại dương nên nó sẽ",
+                "đại dương nên nó sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 20:00 đến 20:10: nhưng mà -1 thì chúng ta sẽ loại đi bởi vì là cái dãy số này là đại dương nên nó sẽ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_20_00-20_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_20:30_20:40",
+            "patterns": [
+                "tính giới hạn vô cùng trên",
+                "là vô cùng trừ vô cùng thì làm"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 20:30 đến 20:40: tính giới hạn vô cùng trên vô cùng rồi là vô cùng trừ vô cùng thì làm",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_20_30-20_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_20:40_20:50",
+            "patterns": [
+                "phổ thông hình học rồi nhé",
+                "học rồi nhé mình sẽ không đề",
+                "cập đến cái đấy nữa mà muốn",
+                "mình sẽ để sau bữa sau tôi",
+                "sẽ để sau bữa sau tôi sẽ",
+                "sau bữa sau tôi sẽ hướng dẫn",
+                "hướng dẫn cho các bạn cái phương",
+                "dẫn cho các bạn cái phương pháp",
+                "đề cập đến cái đấy nữa mà",
+                "các bạn cái phương pháp mà mới để",
+                "mà mới để chị có thể bị",
+                "mà mới để chị có thể bị giới"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 20:40 đến 20:50: phổ thông hình học rồi nhé mình sẽ không đề cập đến cái đấy nữa mà muốn đề cập thì mình sẽ để sau bữa sau tôi sẽ hướng dẫn cho các bạn cái phương pháp mà mới để chị có thể bị giới",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_20_40-20_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_20:50_21:00",
+            "patterns": [
+                "bây giờ mình sẽ sang",
+                "bây giờ mình sẽ sang một",
+                "mình sẽ sang một ví dụ thứ",
+                "sẽ sang một ví dụ thứ ba này",
+                "một ví dụ thứ ba này là",
+                "ví dụ thứ ba này là x0",
+                "dụ thứ ba này là x0 =",
+                "ba này là x0 = √3 và",
+                "√3 và x n là bằng căn",
+                "n là bằng căn",
+                "= √3 và x n là bằng căn"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 20:50 đến 21:00: bây giờ mình sẽ sang một ví dụ thứ ba này là x0 = √3 và x n là bằng căn",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_20_50-21_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_21:00_21:10",
+            "patterns": [
+                "Tổ 1 + x",
+                "Tổ 1 + x n",
+                "Tổ 1 + x n -",
+                "1 + x n - 1 và",
+                "tục Vẫn là cái câu hỏi đó",
+                "Vẫn là cái câu hỏi đó là",
+                "cái câu hỏi đó là người ta",
+                "hỏi đó là người ta hỏi em",
+                "đó là người ta hỏi em là",
+                "người ta hỏi em là cái dạng",
+                "em là cái dạng này là có",
+                "là cái dạng này là có hội",
+                "này là có hội tụ không mà nếu",
+                "không mà nếu mà hội tụ thì đi"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 21:00 đến 21:10: Tổ 1 + x n - 1 và tiếp tục Vẫn là cái câu hỏi đó là người ta hỏi em là cái dạng này là có hội tụ không mà nếu mà hội tụ thì đi",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_21_00-21_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_21:10_21:20",
+            "patterns": [
+                "tỉ số đúng không"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 21:10 đến 21:20: tỉ số đúng không",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_21_10-21_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_21:20_21:30",
+            "patterns": [
+                "ở đây là cô sẽ",
+                "ở đây là cô sẽ xét nghiệm",
+                "sẽ xét nghiệm HIV có trách nhiệm",
+                "nghiệm HIV có trách nhiệm là xn -",
+                "trách nhiệm là xn - x n",
+                "là xn - x n - 1",
+                "xn - x n - 1 đấy",
+                "x n - 1 đấy",
+                "n - 1 đấy",
+                "là xn - x n - 1 đấy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 21:20 đến 21:30: ở đây là cô sẽ xét nghiệm HIV có trách nhiệm là xn - x n - 1 đấy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_21_20-21_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_21:30_21:40",
+            "patterns": [
+                "căn của 1 +",
+                "căn của 1 + x n",
+                "căn của 1 + x n -",
+                "1 + x n - 1 -",
+                "của 1 + x n - 1 -"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 21:30 đến 21:40: căn của 1 + x n - 1 -",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_21_30-21_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_21:40_21:50",
+            "patterns": [
+                "bây giờ là làm thế",
+                "biết được là Dương hay là âm",
+                "là âm thì chúng ta sẽ nhân liên",
+                "liên hợp ở đây đang là 5",
+                "đây đang là 5 trừ đi cái",
+                "trừ đi cái này thì chúng ta",
+                "đi cái này thì chúng ta sẽ nhân"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 21:40 đến 21:50: bây giờ là làm thế nào để biết được là Dương hay là âm thì chúng ta sẽ nhân liên hợp ở đây đang là 5 trừ đi cái này thì chúng ta sẽ nhân",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_21_40-21_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_21:50_22:00",
+            "patterns": [
+                "+ 15"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 21:50 đến 22:00: + 15",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_21_50-22_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_22:00_22:10",
+            "patterns": [
+                "tiểu thiên tử chúng ta sẽ",
+                "tiểu thiên tử chúng ta sẽ được là",
+                "được là hằng đẳng thức đúng không a",
+                "thức đúng không a trừ B nhân a",
+                "không a trừ B nhân a +",
+                "B nhân a + b thì nó",
+                "nhân a + b thì nó sẽ",
+                "+ b thì nó sẽ là a",
+                "thức đúng không a trừ B nhân",
+                "sẽ là a bình trừ B",
+                "thì nó sẽ là a bình trừ B"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 22:00 đến 22:10: tiểu thiên tử chúng ta sẽ được là hằng đẳng thức đúng không a trừ B nhân a + b thì nó sẽ là a bình trừ B",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_22_00-22_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_22:10_22:20",
+            "patterns": [
+                "Lớp mình có thể",
+                "Lớp mình có thể thấy",
+                "thấy rằng là cái mẫu này của",
+                "rằng là cái mẫu này của",
+                "là cái mẫu này của",
+                "thể thấy rằng là cái mẫu này của"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 22:10 đến 22:20: Lớp mình có thể thấy rằng là cái mẫu này của",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_22_10-22_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_22:40_22:50",
+            "patterns": [
+                "căn 592 với cả",
+                "căn 592 với cả là",
+                "với cả là 1 trừ căn 5",
+                "1 trừ căn 5 trên 2 1",
+                "căn 5 trên 2 1 trừ căn",
+                "cả là 1 + 85 trên 2",
+                "là 1 + 85 trên 2",
+                "với cả là 1 + 85 trên 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 22:40 đến 22:50: căn 592 với cả là 1 trừ căn 5 trên 2 1 trừ căn 5 trên 2 với cả là 1 + 85 trên 2",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_22_40-22_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_22:50_23:00",
+            "patterns": [
+                "riêng với 1 + 35 trên",
+                "riêng với 1 + 35 trên 2",
+                "với 1 + 35 trên 2 mà",
+                "+ 35 trên 2 mà bấm ra",
+                "bấm ra là nó bảo là 1,6",
+                "nó bảo là 1,6 Thế bây giờ các",
+                "là 1,6 Thế bây giờ các bạn nhìn",
+                "Thế bây giờ các bạn nhìn thấy",
+                "bây giờ các bạn nhìn thấy rằng",
+                "thấy rằng là bên tay phải này",
+                "rằng là bên tay phải này nó lại",
+                "bên tay phải này nó lại cùng",
+                "nó lại cùng dấu với hệ số",
+                "cùng dấu với hệ số cao",
+                "nó lại cùng dấu với hệ số cao"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 22:50 đến 23:00: riêng với 1 + 35 trên 2 mà bấm ra là nó bảo là 1,6 Thế bây giờ các bạn nhìn thấy rằng là bên tay phải này nó lại cùng dấu với hệ số cao",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_22_50-23_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_23:00_23:10",
+            "patterns": [
+                "chạy là các số tự nhiên",
+                "chạy là các số tự nhiên đó",
+                "là các số tự nhiên đó là chạy",
+                "số tự nhiên đó là chạy"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 23:00 đến 23:10: chạy là các số tự nhiên đó là chạy",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_23_00-23_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_23:10_23:20",
+            "patterns": [
+                "n lớn hơn hoặc",
+                "hơn hoặc bằng 2 thì tức là",
+                "thì tức là nó bị âm thì",
+                "thì nhìn thấy không Tức là tính từ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 23:10 đến 23:20: n lớn hơn hoặc bằng 2 thì tức là nó bị âm thì nhìn thấy không Tức là tính từ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_23_10-23_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_23:20_23:30",
+            "patterns": [
+                "hơn hoặc bằng 2",
+                "lớn hơn hoặc bằng 2"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 23:20 đến 23:30: lớn hơn hoặc bằng 2",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_23_20-23_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_23:30_23:40",
+            "patterns": [
+                "thì cái thằng hát của em",
+                "thằng hát của em nó đã là",
+                "hát của em nó đã là mang",
+                "đã là mang dấu âm rồi nên chứng",
+                "thì cái thằng hát của",
+                "tỏ là cái dãy này là dễ",
+                "là cái dãy này là dễ dàng",
+                "dãy này là dễ dàng",
+                "tỏ là cái dãy này là dễ dàng"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 23:30 đến 23:40: thì cái thằng hát của em nó đã là mang dấu âm rồi nên chứng tỏ là cái dãy này là dễ dàng",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_23_30-23_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_23:40_23:50",
+            "patterns": [
+                "mặt khác là cái váy này là",
+                "khác là cái váy này là x",
+                "là cái váy này là x n",
+                "váy này là x n này của",
+                "này là x n này của chúng",
+                "n này của chúng ta lại luôn luôn",
+                "luôn luôn là Dương",
+                "của chúng ta lại luôn luôn là Dương"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 23:40 đến 23:50: nhưng mặt khác là cái váy này là x n này của chúng ta lại luôn luôn là Dương",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_23_40-23_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_23:50_24:00",
+            "patterns": [
+                "dưới đúng không giảng ở lại bị",
+                "bị chặn dưới đấy chứng tỏ là",
+                "chứng tỏ là hội tụ",
+                "chặn dưới đấy chứng tỏ là hội tụ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 23:50 đến 24:00: bị chặn dưới đúng không giảng ở lại bị chặn dưới đấy chứng tỏ là hội tụ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_23_50-24_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_24:00_24:10",
+            "patterns": [
+                "vậy là từ 1 và 2 là",
+                "từ 1 và 2 là suy ra",
+                "và 2 là suy ra là cái dãy",
+                "suy ra là cái dãy này là",
+                "ra là cái dãy này là một",
+                "là cái dãy này là một tụ",
+                "dãy này là một tụ đó mà",
+                "này là một tụ đó mà nếu",
+                "là một tụ đó mà nếu mà",
+                "dãy này là thủ tục thì chúng ta",
+                "thủ tục thì chúng ta lại",
+                "này là thủ tục thì chúng ta lại"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 24:00 đến 24:10: như vậy là từ 1 và 2 là suy ra là cái dãy này là một tụ đó mà nếu mà dãy này là thủ tục thì chúng ta lại",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_24_00-24_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_24:10_24:20",
+            "patterns": [
+                "gái gọi cái giới",
+                "gái gọi cái giới hạn này",
+                "gái gọi cái giới hạn này là ai",
+                "cái giới hạn này là ai và",
+                "hạn này là ai và chúng ta",
+                "là ai và chúng ta sẽ",
+                "hạn này là ai và chúng ta sẽ"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 24:10 đến 24:20: gái gọi cái giới hạn này là ai và chúng ta sẽ",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_24_10-24_20.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_24:20_24:30",
+            "patterns": [
+                "lại cho n gần đến dương",
+                "n gần đến dương vô",
+                "lại cho n gần đến dương vô"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 24:20 đến 24:30: lại cho n gần đến dương vô",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_24_20-24_30.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_24:30_24:40",
+            "patterns": [
+                "bằng căn của 1"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 24:30 đến 24:40: bằng căn của 1",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_24_30-24_40.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_24:40_24:50",
+            "patterns": [
+                "a bình trừ a",
+                "a bình trừ a trừ",
+                "trừ a trừ 1 bằng 0",
+                "trừ 1 bằng 0",
+                "a bình trừ a trừ 1 bằng 0"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 24:40 đến 24:50: a bình trừ a trừ 1 bằng 0",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_24_40-24_50.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_24:50_25:00",
+            "patterns": [
+                "Lý Khánh Phương trình này giống hệt",
+                "Khánh Phương trình này giống hệt cái",
+                "này giống hệt cái này luôn em",
+                "cái này luôn em bấm hết đúng",
+                "này là cái A của em là",
+                "hoặc là bằng 1 trừ căn 5",
+                "bằng 1 trừ căn 5 trên 2",
+                "1 trừ căn 5 trên 2 hoặc",
+                "căn 5 trên 2 hoặc là",
+                "1 trừ căn 5 trên 2 hoặc là"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 24:50 đến 25:00: Lý Khánh Phương trình này giống hệt cái này luôn em bấm hết đúng không cái này là cái A của em là hoặc là bằng 1 trừ căn 5 trên 2 hoặc là",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_24_50-25_00.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_25:00_25:10",
+            "patterns": [
+                "Tuy nhiên tỷ lệ 1:35 trên hai",
+                "lệ 1:35 trên hai chúng ta có",
+                "1:35 trên hai chúng ta có thể loại",
+                "ta có thể loại đi bởi vì",
+                "đi bởi vì cái này nó là",
+                "bởi vì cái này nó là dễ",
+                "vì cái này nó là dễ thương",
+                "này nó là dễ thương Đúng không Nó",
+                "thương Đúng không Nó là dễ thương",
+                "dễ thương thì nó không thể nào nhận"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 25:00 đến 25:10: Tuy nhiên tỷ lệ 1:35 trên hai chúng ta có thể loại đi bởi vì cái này nó là dễ thương Đúng không Nó là dễ thương thì nó không thể nào nhận",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_25_00-25_10.jpg"
+            ]
+        },
+        {
+            "tag": "video_Giải tích 1 Chương 1 Bài 2 Dãy số_360p_25:20_25:30",
+            "patterns": [
+                "mang tính chất tham khảo về",
+                "tham khảo về dãy số",
+                "khảo về dãy số",
+                "mang tính chất tham khảo về dãy số"
+            ],
+            "responses": [
+                "Nội dung bạn đề cập có thể trong video Giải tích 1 Chương 1 Bài 2 Dãy số_360p trong đoạn từ 25:20 đến 25:30: mang tính chất tham khảo về dãy số",
+                "./giaitich/Giaitich1Chuong1Bai2Dayso360p/image_at_25_20-25_30.jpg"
+            ]
+        },
+        {
+            "tag": "tóm tắt_Giải_tích_1_Chương_1_Bài_2_Dãy_số_360p",
+            "patterns": [
+                "tóm tắt Giải tích 1 Chương 1 Bài 2 Dãy số_360p",
+                "tóm tắt bài giảng 1",
+                "tóm tắt bài giảng cơ sở dữ liệu 1",
+                "tóm tắt bài 1"
+            ],
+            "responses": [
+                "Chào các em lớp 12a1, trong chương trình giáo dục phổ thông mới chúng ta sẽ học về dãy số. Bây giờ thì chúng ta sẽ chuyển sang bài số 2 học về dãy số.Theo anh thì cái dãy số mà không có quy luật thì nó sẽ là không có quy luật. Còn nếu như một cái dãy số mà có quy luật thì nó sẽ có một công thức thể hiện cái quy luật đóTheo em hiểu thì cái đấy gọi là bị chặn trên tức là bị chặn dưới còn nếu như mà một cái dãy số mà được gọi là bị chặn tức là nó sẽ vừa bị chặn trên và vừa bị chặn dưới tức là nó sẽ bị chặn dưới.Giới hạn của một dãy số ở đây cô sẽ không sử dụng cái địa giới hạn theo cái   ở đây nhá các bạn lưu ý là khi mà người ta viết như này thì chúng ta hiểu là gì ạ?Nếu như chúng ta có dãy tăng và dãy chạm trên.tăng cường và giảm nhẹ đều bị chặn trên hoặc là giảm và chặn dưới thì tức là hai cái này sẽ hụt tụ được chưa ạ?Với dãy số có trị tuyệt đối nhỏ hơn một thì tất cả những cái ví của nó sẽ đều dần về không hết ví dụ như là ly của một phần hai mu n là nó bao không hay vì một phần hai nhỏ hơn một nháĐiều bí lạ là giới hạn dãy số thì nó sẽ có những loại giới hạn bất định gì đúng không thì giới hạn vô cùng giới hạn vô cùng chê vô cùng mà giới hạn bằng vô cùng chừ vô cùng đâu.Sáng ngày 22/11, tại sân KTX Mễ Trì ( 182 Lương Thế Vinh, Thanh Xuân, Hà Nội ) đã diễn ra buổi học môn lý thuyết với sự háo hức chờ đợi của các em học sinh.Bà nội đã chứng minh như thế này : \" cái giới hạn cơ bản để có thể xóa bất cứ thứ gì cũng đều bằng không \" \"> OK \"> OK \"> OK \"> OK \" \"> OK \"Vì sao chúng ta lại có câu hỏi này mong các thầy cô trả lời giúp chúng ta nhé vì bây giờ mình đang là sinh viên năm nhất mà không biết gì về mạng internet cả. Nếu có cách nào đơn giản thì mình sử dụng google cũng đượcồ các bạn nếu như mà cái thương này mà lớn hơn một thì nó sẽ là chạy tăng. Còn nếu như mà cái thương này nhỏ hơn không mà nhỏ hơn một thì nó sẽ là rẽ dần.Các cụ ta có câu \" Qua n cộng một là triệt tiêu hai mươi bốn \" và bây giờ đến n cộng một là triệt tiêu n giai thừa \". Các cụ ta có n cộng một thì nó sẽ là n cộng một \".Giải trình của em phụ tùng đen nhỏ ấy bị chặn dưới thì quá đơn giản chúng ta cần phải chứng minh là phụ tùng lớn không ấy thế nhưng mà nếu như em bị chặn dưới chứng tỏ là chứng tỏ là...xn cộng một là bằng xn nhân với nhân với hai chia cho n cộng một đấy các bạn ạ. Còn nếu như xn cộng một là bằng xn nhân với hai chia cho n cộng một thì sẽ có xn cộng một là bằng xn nhân với hai chia cho n cộng một đấy.> lim của x là bằng không > thế hệ của x là bằng không > thế hệ của x là bằng không > thế hệ của x là bằng không Với câu hỏi là kiểm tra xem cái dãy này nó có phải là hậu tượng không và nếu mà hậu tượng thì chúng ta sẽ tìm giới hạn hay không thì chúng ta sẽ tìm giới hạn bằng cách nào?Hẳn là các cụ ta cũng biết là lương dương lắm nhỉ, có điều nó không phải là lương dương thật đâu ạ, thế nên các cụ mới bảo là lương dương. Các cụ bảo là lương dương mà lại.Lúc này chúng ta mới quan tâm đến cái bộ máy quét mã vạch cơ bản nhất.bây giờ chúng ta xét dấu x để biết nó mang dấu gì.bắt đầu từ en bằng hai hay là hiệu năm cũng được...Ban đầu chúng ta chỉ quan tâm đến cái chất đằng sau của cái hiệu này thôi cô ạ. Nhưng bây giờ nếu mà dãy dạt thì chúng ta xem là nó bị chặn dưới ấy, cái dãy này là bị chặn dưới...Theo phương trình xn là bằng hai cộng với xn trừ một cộng một. Nếu chúng ta quy đồng lên và quy đồng lên thì chúng ta sẽ được là a bình à a bình là trừ a trừ hai.Đây là một trong những ví dụ mình mới học được từ chương trình tin học văn phòng, có thể nói là \" đơn giản nhất và dễ hiểu nhất \" bởi vì phương pháp tính giới hạn bằng căn ba và tính n là bằng căn.\" Cô xét hiệu là x y n trừ một đấy. Còn mình xét tỷ số là x ngay đầu trừ một cộng với cả x ngay đầu từ một cộng với x ngay đầu từ một cộng với cả x ngay đầu từ một cộng với x ngay đầu từ một \"Các bạn làm như sau : - Các bạn hãy nhìn vào cái bảng đằng sau nó sẽ được là một cộng dồn năm trên hai à một cộng dồn năm trên hai à một cộng căm năm trên hai à một cộng căm năm trên hai à...\" Khi mà en lớn hơn hoặc bằng hai thì tức là nó sẽ âm ấy \" \" em nó là âm \" thì chúng ta đoán cái cục này là âm hay dương vậy ta có cái x y màu này là dương và cái chuỗi này lại tương tự là dương...a là một cộng hai của x n trừ một cộng lại cộng là x n trừ một ấy chúng ta lại cho x dần đến dương vô cùng. Còn cái giới hạn của cái này là a bình trừ a trừ một bằng một cộng một cộng a ấy."
+            ]
+        },
+        {
+            "tag": "Lời chào",
+            "patterns": [
+                "Chào",
+                "Này",
+                "Bắt đầu",
+                "Tôi cần tìm đoạn video",
+                "Tôi cần tìm nội dung",
+                "Giúp tôi tìm nội dung",
+                "Xin chào",
+                "Tôi có câu hỏi",
+                "Hello",
+                "Hi"
+            ],
+            "responses": [
+                "Chào bạn, tôi có thể giúp gì cho bạn không?"
+            ]
+        }
+    ]
+}

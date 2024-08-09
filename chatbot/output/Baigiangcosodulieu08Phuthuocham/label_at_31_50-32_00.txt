@@ -1,0 +1,2 @@
+[31:50 ---> 32:00]
+liệt kê ở đây với tất cả các phụ thuộc hàm X Xác định hàm y ở trong a bước thứ nhất

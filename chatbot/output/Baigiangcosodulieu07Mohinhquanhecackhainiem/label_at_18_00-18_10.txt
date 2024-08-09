@@ -1,0 +1,2 @@
+[18:00 ---> 18:10]
+các cái ràng buộc miền chỉ ra là giá trị của mỗi một cái thuộc tính a trong một biểu đồ quan hệ phải là một giá trị nguyên tố

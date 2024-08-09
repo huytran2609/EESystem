@@ -1,0 +1,2 @@
+[10:10 ---> 10:20]
+mỗi nhân viên thì có ít nhất không và nhiều nhất là n con mỗi con có bố hoặc mẹ làm việc ở công ty

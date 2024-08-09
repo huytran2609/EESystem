@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+trong khi đó thì mã công ty và tên công ty thì là thuộc tính là các thuộc tính đơn vị

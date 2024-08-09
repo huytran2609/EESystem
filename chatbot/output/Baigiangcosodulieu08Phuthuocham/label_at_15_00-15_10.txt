@@ -1,0 +1,2 @@
+[15:00 ---> 15:10]
+xác định y z và quy tắc 5 được chứng minh quy tắc 6 là quy tắc

@@ -1,0 +1,2 @@
+[10:40 ---> 10:50]
+thực thể hai kiểu thực thể là nhân viên và đơn vị và chúng ta có một cái kiểu liên kết là làm việc mô tả

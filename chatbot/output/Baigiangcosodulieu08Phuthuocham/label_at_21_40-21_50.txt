@@ -1,0 +1,2 @@
+[21:40 ---> 21:50]
+Xác định hàm số lượng áp dụng thuật toán 1 thì chúng ta sẽ tính được bảo đóng của mã nhân viên

@@ -1,0 +1,2 @@
+[18:20 ---> 18:30]
+cần xác định báo động đầu ra của thuật toán là tập thuộc tính X + làm báo đóng của X ở bước số 1 Khởi động chúng ta gắn

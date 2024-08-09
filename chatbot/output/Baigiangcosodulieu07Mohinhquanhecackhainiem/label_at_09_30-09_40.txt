@@ -1,0 +1,2 @@
+[09:30 ---> 09:40]
+quan hệ chúng ta định nghĩa một tập hợp thuộc tính sk1 trong lược đồ quan hệ R1 là một khóa ngoài của R1

@@ -1,0 +1,2 @@
+[08:10 ---> 08:20]
+xóa được sắp xóa ở dòng 1 thực hiện được vì không vi phạm luật nào

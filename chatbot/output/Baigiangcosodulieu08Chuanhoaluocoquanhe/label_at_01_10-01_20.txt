@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+giải chuẩn 4 và 5 được đề xuất dựa trên phụ thuộc hàng giá trị và phụ thuộc hàng nối

@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+suy diễn Được từ một tập phụ thuộc hàm f thì chúng ta kí hiệu là S với các ký hiệu này sau đó là cái phụ thuộc hàm

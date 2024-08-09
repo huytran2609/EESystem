@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+chúng ta định nghĩa một kiểu thực thể là một nhóm các thực thể mà có thuộc tính

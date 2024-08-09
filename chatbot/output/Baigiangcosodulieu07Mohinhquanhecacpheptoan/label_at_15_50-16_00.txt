@@ -1,0 +1,2 @@
+[15:50 ---> 16:00]
+chúng ta lưu ý là hai quan hệ đơn vị và dự án có hai thuộc tính trùng tên đó là mã đơn vị do đó là ở cái

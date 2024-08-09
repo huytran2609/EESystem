@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+thì chúng ta có các lớp con được người sử dụng xác định đây là một ví dụ về chuyên biệt hóa xác định

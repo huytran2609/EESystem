@@ -1,0 +1,2 @@
+[08:10 ---> 08:20]
+dự án tham gia vào liên kết kiểm soát với ít nhất 1 và nhiều nhất một thể hiện hay là mỗi dự án phải do

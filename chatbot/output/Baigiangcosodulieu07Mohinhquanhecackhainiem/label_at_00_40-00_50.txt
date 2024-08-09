@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+khuôn dạng dữ liệu của miền đó ví dụ như thế này miền D1 chúng ta đặc tả là nó là kiểu dữ liệu

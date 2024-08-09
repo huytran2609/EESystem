@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+tính tốt của các lược đồ quan hệ này được thể hiện ở hai mức bước thứ nhất là mức logic và mức thứ hai là mức cài đặt

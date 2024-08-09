@@ -1,0 +1,2 @@
+[05:50 ---> 06:00]
+chứa A5 là vế phải của phụ thuộc hàng trong quy tắc trình diễn và như vậy quy tắc suy diễn này là đúng

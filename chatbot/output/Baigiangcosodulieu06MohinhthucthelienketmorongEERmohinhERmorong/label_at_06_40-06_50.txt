@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+dung tích xi lanh là chung giữa hai kiểu thực thể và có cùng ý nghĩa do đó ta sẽ tạo

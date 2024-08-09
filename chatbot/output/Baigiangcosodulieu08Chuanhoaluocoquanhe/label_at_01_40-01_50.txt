@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+và các phép cập nhật bất thường khi thực hiện các truy vấn ở trên các quan hệ

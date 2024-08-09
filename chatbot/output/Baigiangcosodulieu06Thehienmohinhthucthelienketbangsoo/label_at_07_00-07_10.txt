@@ -1,0 +1,2 @@
+[07:00 ---> 07:10]
+cà ràng buộc tỉ số lực lượng và ràng buộc tham gia ký hiệu này chỉ ra là tỉ số lực lượng 1

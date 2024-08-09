@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+ví dụ như là số nhân viên của các công ty là một cái thuộc tính mà nó có giá trị là một số và cái số đó thì sẽ không phân chia

@@ -1,0 +1,2 @@
+[15:50 ---> 16:00]
+kết giữa hai kiểu thực thể đơn vị và dự án và tỉ số lực lượng giữa đơn vị và dự án là 1 n

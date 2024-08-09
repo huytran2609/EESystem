@@ -1,0 +1,2 @@
+[14:30 ---> 14:40]
+trong quan hệ R2 là 3 nó tương ứng với khóa chính có giá trị là 3 ở trong

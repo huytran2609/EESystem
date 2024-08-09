@@ -1,0 +1,2 @@
+[09:50 ---> 10:00]
+ràng buộc đầy đủ và hai loại ràng buộc này là độc lập với nhau ràng buộc rời rạc được thỏa mãn khi mỗi thực thể chỉ là thành viên của

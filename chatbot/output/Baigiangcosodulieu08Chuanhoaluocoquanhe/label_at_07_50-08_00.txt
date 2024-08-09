@@ -1,0 +1,2 @@
+[07:50 ---> 08:00]
+mã nhân viên trong đó mã dự án là khóa ngòi của lược đồ nhân viên số giờ tham chiếu đến

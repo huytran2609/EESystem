@@ -1,0 +1,2 @@
+[20:40 ---> 20:50]
+Hoàng bắc cầu của các thuộc tính không khóa vào các thuộc tính khóa do đó theo định nghĩa của 3 nf thì chúng ta có được là R là

@@ -1,0 +1,2 @@
+[15:20 ---> 15:30]
+Điều kiện thứ hai trong định nghĩa về khóa ngoài của lực lượng Quan hệ và cái trạng thái này

@@ -1,0 +1,2 @@
+[16:50 ---> 17:00]
+số tổ hợp có thể của các thực thể tham gia trong tập hợp các thể hiện liên kết và có hai loại ràng buộc chính là

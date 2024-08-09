@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+ràng buộc về toàn vẹn thực thể do chúng ta đã đặt giá trị null cho quá trình

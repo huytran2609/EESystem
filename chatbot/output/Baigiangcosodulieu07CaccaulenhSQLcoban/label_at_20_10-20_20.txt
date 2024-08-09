@@ -1,0 +1,2 @@
+[20:10 ---> 20:20]
+kết nối ngoài trái của đơn vị và dự án với điều kiện nối là mã đơn vị của đơn vị

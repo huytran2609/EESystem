@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+để có thể thuộc một hoặc nhiều lớp con Ví dụ như một kỹ sư có thể thuộc hai lớp con là kỹ sư và hợp đồng đồng thời

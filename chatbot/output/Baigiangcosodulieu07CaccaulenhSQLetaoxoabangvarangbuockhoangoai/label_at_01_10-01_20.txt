@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+đầu tiên tương ứng với lược đồ quan hệ con chúng ta có bảng con được tạo ra bằng câu lệnh ghép table con sau đó

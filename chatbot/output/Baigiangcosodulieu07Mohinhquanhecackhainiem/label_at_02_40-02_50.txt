@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+của em về giá trị vi gy chạy từ 1 đến n và mỗi cái vi này thì là một phân tử

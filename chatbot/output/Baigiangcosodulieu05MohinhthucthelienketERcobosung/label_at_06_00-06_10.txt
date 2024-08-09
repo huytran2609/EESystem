@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+với các thuộc tính đơn vị thì ae có duy nhất một phần tử Còn với các thuộc tính mà có thể nhận giá trị null thì ai là tập

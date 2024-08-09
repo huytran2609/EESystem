@@ -1,0 +1,2 @@
+[11:20 ---> 11:30]
+là bộ phận và liên kết giám sát domin là bằng 0 và mỗi nhân viên có thể giám sát nhiều nhân viên khác do

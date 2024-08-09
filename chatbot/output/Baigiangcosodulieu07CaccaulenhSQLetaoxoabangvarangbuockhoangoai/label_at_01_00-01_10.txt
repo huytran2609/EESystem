@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+để tiện theo dõi thì chúng ta sẽ tạo các bảng tương ứng với các lược đồ quan hệ theo thứ tự từ trên xuống

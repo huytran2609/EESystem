@@ -1,0 +1,2 @@
+[21:20 ---> 21:30]
+và phụ thuộc hàng thứ ba là tập thuộc tính mạng nhân viên mã dự án xác định hàm số giờ thế thì chúng ta không tách

@@ -1,0 +1,2 @@
+[05:40 ---> 05:50]
+tiếp theo là cách chuyển đổi 8 C với cách này chúng ta chỉ tạo ra một lược đồ quan hệ có tập các thuộc tính bao gồm tập tất cả

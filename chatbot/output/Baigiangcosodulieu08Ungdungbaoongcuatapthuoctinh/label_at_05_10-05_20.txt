@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+Sau đó kiểm tra xem X + có chứa các thuộc tính ở bên với phải của phụ thuộc hàm hay không nếu có

@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+mã đơn vị và địa điểm và đồng thời mã đơn vị ở trong lược đồ địa điểm đơn vị sẽ là khóa ngoài

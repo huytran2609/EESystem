@@ -1,0 +1,2 @@
+[14:10 ---> 14:20]
+chúng ta cần khái niệm phụ thuộc hàng bắc cầu một phụ thuộc hàm X Xác định hàm y trong lược đồ quan hệ r

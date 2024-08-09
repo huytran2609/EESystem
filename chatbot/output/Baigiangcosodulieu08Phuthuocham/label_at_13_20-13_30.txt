@@ -1,0 +1,2 @@
+[13:20 ---> 13:30]
+iz là chứa y Cho nên theo quy tắc 1 chúng ta sẽ có y z Xác định hàm y

@@ -1,0 +1,2 @@
+[07:20 ---> 07:30]
+sau khi cắt chèn được thực hiện thành công bằng dự án có trạng thái được liệt kê từ dòng 5 đến dòng 12 và bạc có tất cả năm

@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+nhận giá trị là 0 hoặc là 1 nếu tham số nhận giá trị là 0 thì chương trình chỉ thực hiện và in kết quả cuối cùng ra còn nếu tham số là

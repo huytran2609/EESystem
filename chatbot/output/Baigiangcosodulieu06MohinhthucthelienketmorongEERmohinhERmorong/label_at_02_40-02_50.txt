@@ -1,0 +1,2 @@
+[02:40 ---> 02:50]
+một kiểu thực thể e chúng ta thực hiện quá trình chuyên biệt hóa và e được gọi là lớp cha của chim biến hóa ví dụ

@@ -1,0 +1,2 @@
+[11:20 ---> 11:30]
+và sau đó tính báo đóng của tập thấu kính A5 A6 thì lần này chúng ta thấy là tế bào đóng của A536 chỉ gồm

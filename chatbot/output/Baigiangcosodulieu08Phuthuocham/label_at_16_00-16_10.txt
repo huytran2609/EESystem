@@ -1,0 +1,2 @@
+[16:00 ---> 16:10]
+thứ nhất là tính đúng giả sử Chúng ta có một tập phụ thuộc hàm S trên một lược đồ quan hệ r

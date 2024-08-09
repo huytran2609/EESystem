@@ -1,0 +1,2 @@
+[02:30 ---> 02:40]
+cái bộ này thì giá trị luôn được gán cho khóa chính và điều này là không chấp nhận được đối với khóa chính Ví dụ thứ hai nếu chúng ta

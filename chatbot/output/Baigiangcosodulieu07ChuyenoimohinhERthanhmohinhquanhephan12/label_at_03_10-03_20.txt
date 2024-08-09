@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+vào làm khóa ngoài của aerobic và tham chiếu đến res thì các cái thuộc tính ARN này sẽ Xác định kiểu liên kết của w với

@@ -1,0 +1,2 @@
+[07:10 ---> 07:20]
+ở trong ví dụ này chúng ta sẽ kiểm tra xem tập thuộc tính A2 A6 con lắc chìa khóa hay không Chúng ta sẽ thực hiện thuật toán tìm

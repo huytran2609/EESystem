@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+nếu x Xác định hàm y và w i Xác định hàm Z thì w x Xác định hàm Z

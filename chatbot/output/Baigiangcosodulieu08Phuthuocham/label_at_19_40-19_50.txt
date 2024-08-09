@@ -1,0 +1,2 @@
+[19:40 ---> 19:50]
+sau khi đã Duyệt hết tất cả các phụ thuộc hàm trong s thì chúng ta lại quay lại dán miếng all x +

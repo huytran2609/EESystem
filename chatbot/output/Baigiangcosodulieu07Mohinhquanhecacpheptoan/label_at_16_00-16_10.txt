@@ -1,0 +1,2 @@
+[16:00 ---> 16:10]
+cuối cùng này thì chúng ta viết là dự án chấm mã đơn vị để chỉ rõ là thuộc tính mã đơn vị này là lấy từ quan hệ dự án

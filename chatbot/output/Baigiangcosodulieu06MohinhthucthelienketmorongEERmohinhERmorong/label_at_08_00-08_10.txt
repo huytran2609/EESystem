@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+có phân cấp chuyên biệt hóa khi không tồn tại một lớp côn trùng nào đây là một ví dụ về phân cấp chuyên biệt hóa chúng ta

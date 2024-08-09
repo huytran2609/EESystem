@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+thỏa mãn các phụ thuộc hàm trong s thì nó cũng thỏa mãn phụ thuộc vào X xác định y và khi mà một phụ thuộc hàm X xác định

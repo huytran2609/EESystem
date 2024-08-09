@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+ít hơn 13 chữ số miền của họ tên là chuỗi ký tự độ dài nhỏ hơn 32 Miền của ngày sinh

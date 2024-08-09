@@ -1,0 +1,2 @@
+[25:30 ---> 25:40]
+xem là có tồn tại một tập thuộc tính s là tập con thực sự của x là anken là báo của f

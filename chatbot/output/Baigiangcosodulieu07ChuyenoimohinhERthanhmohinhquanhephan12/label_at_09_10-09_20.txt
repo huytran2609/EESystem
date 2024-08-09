@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+1 tham gia tham gia liên kết ở phía 1 và N tham gia liên kết ở cái phía n thì trước hết chúng ta xác định hai lược đồ quan hệ

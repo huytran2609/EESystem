@@ -1,0 +1,2 @@
+[20:20 ---> 20:30]
+trạng thái quan hệ ri này phải thỏa mãn các cái ràng buộc toàn vẹn mà chúng ta đã chỉ ra ở trong cái tập ràng buộc toàn vẹn

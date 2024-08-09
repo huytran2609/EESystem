@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+số khi nhóm Công việc chính như sau Thứ nhất là định nghĩa dữ liệu thì ở trong các nhóm công việc này hệ quản trị cơ sở dữ liệu sẽ đảm bảo các kiểu dữ liệu các cấu trúc dữ liệu

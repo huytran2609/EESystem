@@ -1,0 +1,2 @@
+[08:20 ---> 08:30]
+Nếu mà chúng ta bỏ hai thuộc tính họ tên và ngày sinh ra khỏi sự khó SK thì chúng ta sẽ thu được một cái

@@ -1,0 +1,2 @@
+[36:10 ---> 36:20]
+có nghĩa là chúng ta có thể đi qua tất cả các nút a c d e h

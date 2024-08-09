@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+trước hết chúng ta sẽ xem xét một số ví dụ về các lược đồ r để Liệt kê danh sách các kiểu thực thể và các kiểu liên kết

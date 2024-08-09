@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+tập thuộc tính con của X thì X Xác định hàm y quy tắc này gọi là quy tắc phản xạ

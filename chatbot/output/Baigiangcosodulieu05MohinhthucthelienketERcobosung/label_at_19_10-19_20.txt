@@ -1,0 +1,2 @@
+[19:10 ---> 19:20]
+vẽ được quản lý một đơn vị duy nhất và ngược lại một đơn vị thì chỉ được quản lý bởi một nhân viên duy nhất

@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+chúng ta định nghĩa mô tả của một cơ sở dữ liệu là một lược đồ cơ sở dữ liệu lược đồ này thì được xác định trong quá trình

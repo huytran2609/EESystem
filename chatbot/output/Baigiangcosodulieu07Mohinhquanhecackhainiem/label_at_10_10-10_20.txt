@@ -1,0 +1,2 @@
+[10:10 ---> 10:20]
+khi đó thì T1 trên sk1 hoặc là nhận giá trị null hoặc là phải tham chiếu đến một bộ

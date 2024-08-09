@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+chỉ chứa được nhiều nhất 256 ký tự dòng 4 và 5 thì phép chèn vi phạm

@@ -1,0 +1,2 @@
+[03:50 ---> 04:00]
+mô tả của cơ sở dữ liệu và bản thân cơ sở dữ liệu đó hãy nói cách khác là phải phân biệt được hai khái niệm là lược đồ cơ sở dữ liệu và

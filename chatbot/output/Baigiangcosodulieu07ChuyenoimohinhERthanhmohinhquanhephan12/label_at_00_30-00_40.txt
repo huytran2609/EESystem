@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+tao sẽ tạo một cái lược đồ quan hệ rn tương ứng và lược đồ này chứa mọi thuộc tính đơn của thực thể là

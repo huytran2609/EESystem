@@ -1,0 +1,2 @@
+[14:10 ---> 14:20]
+kiểu liên kết tiếp theo là kiểm soát giữa đơn vị

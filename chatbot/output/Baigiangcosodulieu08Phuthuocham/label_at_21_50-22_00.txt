@@ -1,0 +1,2 @@
+[21:50 ---> 22:00]
+có mã nhân viên và họ tên báo đóng của mã dự án là một tập có 3 thuộc tính là mã dự án tên dự án và địa điểm

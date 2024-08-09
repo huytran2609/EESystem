@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+không có giá trị đối với các nhân viên mà không có điện thoại thế thì trong trường hợp đó là chúng ta phải tạo ra một cái giá trị đặc biệt để

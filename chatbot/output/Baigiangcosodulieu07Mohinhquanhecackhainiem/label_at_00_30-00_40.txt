@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+không thể phân chia được nữa để đăng tải một miền thì chúng ta sẽ chỉ ra tên kiểu dữ liệu

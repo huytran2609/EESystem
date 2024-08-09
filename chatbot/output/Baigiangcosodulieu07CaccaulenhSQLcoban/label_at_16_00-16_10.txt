@@ -1,0 +1,2 @@
+[16:00 ---> 16:10]
+hợp chỉ có thể áp dụng cho các bạn cùng cấu trúc Đồng thời các cột tương ứng phải có cùng kiểu dữ liệu hoặc phải chuyển đổi được cho nhau

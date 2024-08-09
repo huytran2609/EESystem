@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+khái niệm cơ bản nhất trong thiết kế lược đồ quan hệ là khái niệm Phương Hằng ở trong video này chúng ta sẽ định nghĩa các

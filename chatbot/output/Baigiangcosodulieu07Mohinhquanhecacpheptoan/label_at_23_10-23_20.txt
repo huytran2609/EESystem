@@ -1,0 +1,2 @@
+[23:10 ---> 23:20]
+Và nếu như các bộ nào ở bên phía s mà không thỏa mãn điều kiện nối thì cái

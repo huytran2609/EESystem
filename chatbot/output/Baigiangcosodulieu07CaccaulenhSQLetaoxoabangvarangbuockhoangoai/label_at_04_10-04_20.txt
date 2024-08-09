@@ -1,0 +1,2 @@
+[04:10 ---> 04:20]
+khóa ngoài khóa chính trong đó khóa ngoài là thuộc tính mã nhân viên của bằng con còn khóa chính là

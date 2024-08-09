@@ -1,0 +1,2 @@
+[04:00 ---> 04:10]
+chúng ta tạo thêm một ràng buộc vào bảng con và ràng buộc này chính là ràng buộc tham chiếu

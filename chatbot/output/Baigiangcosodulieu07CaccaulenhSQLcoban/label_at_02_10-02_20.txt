@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+dòng 910 để tiện theo dõi kết quả thực hiện của mỗi lệnh SQL sẽ được liệt kê ở ngay sau lệnh đó

@@ -1,0 +1,2 @@
+[03:20 ---> 03:30]
+12 tương tự như vậy bảng dự án khóa chính là mã dự án chúng ta sẽ xem thông tin này ở dòng

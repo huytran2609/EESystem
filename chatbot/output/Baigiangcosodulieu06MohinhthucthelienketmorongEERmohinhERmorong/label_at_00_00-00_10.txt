@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+Xin chào các bạn trong video này chúng ta sẽ tìm hiểu mô hình thực thể liên kết mở rộng gọi tắt là mô hình ER

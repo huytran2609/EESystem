@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+có 3 trường hợp xảy ra khi thực hiện phép sửa thứ nhất việc sửa một thuộc tính không phải là khóa ngoài

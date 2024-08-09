@@ -1,0 +1,2 @@
+[08:10 ---> 08:20]
+thuật viên kỹ sư quản lý biên chế và hợp đồng tương ứng với 6 lớp con cùng tên các thuộc tính kiểu này

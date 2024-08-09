@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+trong trường hợp này ta lấy khóa chính của rf vào làm khóa ngoài của ARN và để tham chiếu đến RS

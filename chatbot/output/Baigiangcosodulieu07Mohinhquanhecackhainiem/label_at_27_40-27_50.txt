@@ -1,0 +1,2 @@
+[27:40 ---> 27:50]
+sẽ không được chấp nhận đưa vào là một trạng thái cơ sở dữ liệu hợp lệ

@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+của mô hình này Đầu tiên là khái niệm về miền hoặc là một miền giá trị chúng ta định nghĩa là một miền

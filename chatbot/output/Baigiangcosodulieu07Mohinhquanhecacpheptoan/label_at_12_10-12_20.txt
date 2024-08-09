@@ -1,0 +1,2 @@
+[12:10 ---> 12:20]
+trên quan hệ dự án với điều kiện là địa điểm bằng Hà Nội mà chúng ta sẽ lưu kết quả trung gian vào một kỳ quan hệ viết tắt là hn Sau đó chúng

@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+bằng các lệnh ở dòng 12 và dòng 56 đồng thời chúng ta tạo tham chiếu khóa ngoài

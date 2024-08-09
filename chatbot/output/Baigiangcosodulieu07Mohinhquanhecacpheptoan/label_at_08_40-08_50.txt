@@ -1,0 +1,2 @@
+[08:40 ---> 08:50]
+lấy ra các hàng thỏa mãn điều kiện cho chúng ta đặt ra tiếp theo là phép chiếu

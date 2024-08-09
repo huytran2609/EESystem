@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+trong video này chúng ta sẽ làm quen với khái niệm hệ quản trị cơ sở dữ liệu và một số tính chất của hệ

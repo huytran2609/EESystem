@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+dự án tên dự án và địa điểm đều là các thuộc tính đơn trong đó mã dự án là thuộc tính khóa

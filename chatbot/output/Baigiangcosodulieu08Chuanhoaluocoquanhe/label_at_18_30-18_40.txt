@@ -1,0 +1,2 @@
+[18:30 ---> 18:40]
+R là 3 nf và không là bcnf để chuyển hóa r về bcns đối với mỗi thuộc tính không khóa a

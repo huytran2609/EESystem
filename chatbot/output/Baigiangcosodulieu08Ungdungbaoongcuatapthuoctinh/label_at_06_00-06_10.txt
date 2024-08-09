@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+tiếp theo chúng ta sẽ xem xét một quy tắc suy diễn khác chúng ta sẽ kiểm tra xem phụ thuộc hàng A6

@@ -1,0 +1,2 @@
+[13:30 ---> 13:40]
+phụ thuộc hàng vào khóa chính mã nhân viên mã dự án ở các lược đồ n1 và N2

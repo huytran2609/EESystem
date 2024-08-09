@@ -1,0 +1,2 @@
+[17:20 ---> 17:30]
+tên đơn vị và tên dự án là Bị loại ra khỏi lược đồ làm việc và lược đồ này trở thành làm việc

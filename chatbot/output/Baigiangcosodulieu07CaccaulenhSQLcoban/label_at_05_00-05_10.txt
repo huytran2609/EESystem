@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+trong một bảng và có thể vi phạm các ràng buộc về miền toàn vẹn thực thể khóa và toàn vẹn tham chiếu

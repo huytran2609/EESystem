@@ -1,0 +1,2 @@
+[03:30 ---> 03:40]
+có giá trị duy nhất trong một thực thể cụ thể thì ta gọi là tập tính đơn vị và một thấu kính có thể có một tập giá trị ở trong cùng một thực thể thì

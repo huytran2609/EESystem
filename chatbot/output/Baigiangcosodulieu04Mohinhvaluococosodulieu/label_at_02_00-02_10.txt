@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+ngoài ra chúng ta có thể có một số mô hình Dữ liệu khác như là một mô hình Dữ liệu đồ thị rất là ngắn với dữ liệu mạng xã hội hoặc là mô hình dữ liệu

@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+có một tham chiếu khóa ngoài khóa chính từ mã nhân viên của đơn vị sang mã nhân viên của nhân viên và

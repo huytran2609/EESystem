@@ -1,0 +1,2 @@
+[19:10 ---> 19:20]
+tổ hợp của a và k Sau đó chúng ta bỏ thuộc tính giá trị a ra khỏi R và cần có một cái chú ý là nếu như a là thuộc tính phức hợp

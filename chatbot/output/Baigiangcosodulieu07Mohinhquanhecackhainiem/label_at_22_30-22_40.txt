@@ -1,0 +1,2 @@
+[22:30 ---> 22:40]
+giá trị của cà phê thuộc tính này là không được phép làm luôn ràng buộc C2 là ràng buộc toàn vẹn tham chiếu thì chúng ta có là

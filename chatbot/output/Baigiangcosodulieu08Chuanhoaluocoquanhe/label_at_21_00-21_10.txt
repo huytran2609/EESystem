@@ -1,0 +1,2 @@
+[21:00 ---> 21:10]
+vì có thuộc tính khóa phụ thuộc hàng và tính không hóa như vậy để chuyển hóa về bcnf thì chúng ta thực hiện các bước sau đầu tiên là

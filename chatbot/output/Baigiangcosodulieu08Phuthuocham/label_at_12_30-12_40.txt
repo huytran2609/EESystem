@@ -1,0 +1,2 @@
+[12:30 ---> 12:40]
+kỳ thỏa mãn T1 và T2 bằng nhau trên x chúng ta suy ra được là T1 và T2 bằng nhau trên Z do đó theo định

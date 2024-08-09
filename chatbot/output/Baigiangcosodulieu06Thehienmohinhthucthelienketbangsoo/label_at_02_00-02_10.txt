@@ -1,0 +1,2 @@
+[02:00 ---> 02:10]
+chỉ được nối vào cái thuộc tính phức hợp thôi chứ không được nối vào cái thước kẻ và cuối cùng là thuộc tính

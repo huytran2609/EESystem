@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+ví dụ điển hình của mô hình Dữ liệu thể hiện là mô hình quan hệ đến đây là một trong những cái mô hình dữ liệu ở mức logic mà sử dụng nhất hiện nay

@@ -1,0 +1,2 @@
+[28:20 ---> 28:30]
+tham số thứ nhất nhóm tham số thứ nhất là danh sách các thuộc tính nhóm và danh sách thứ hai là s

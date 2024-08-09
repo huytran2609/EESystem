@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+khi chúng ta thấy là bảng con có hai tham chiếu khóa ngoài khóa chính trong đó mã nhân viên là khóa ngoài thứ nhất tham chiếu

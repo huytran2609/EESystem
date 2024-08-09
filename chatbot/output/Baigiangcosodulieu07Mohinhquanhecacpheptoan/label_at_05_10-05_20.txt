@@ -1,0 +1,2 @@
+[05:10 ---> 05:20]
+bộ nào tham chiếu đến cái đi bộ mà có khóa chính là dv4

@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+Cho ví dụ về lược đồ rê Company các kiểu thực thể là employee

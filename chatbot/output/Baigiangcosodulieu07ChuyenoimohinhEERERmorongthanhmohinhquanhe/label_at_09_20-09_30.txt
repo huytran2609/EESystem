@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+của u nếu các lớp con và lớp cha có các thuộc tính khóa Cùng ngữ nghĩa thì chúng ta

@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+chỉ còn có một thuộc tính là số chứng minh nhân dân và tiêu hóa ngày thì cũng chính là khóa bởi vì là nó là tối thiểu

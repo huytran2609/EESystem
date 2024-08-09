@@ -1,0 +1,2 @@
+[21:20 ---> 21:30]
+sao dự án nào và các dự án chưa có đơn vị giám sát possi SQL hỗ trợ kết nối ngoài đầy đủ nhưng

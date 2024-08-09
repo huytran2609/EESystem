@@ -1,0 +1,2 @@
+[25:20 ---> 25:30]
+mã dự án nhận giá trị null tiếp theo là ví dụ về phép nối ngoài phải chúng ta sẽ thực hiện phép nối wi-fi

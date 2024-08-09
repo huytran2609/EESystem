@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+cái phép kiểm tra là cái giá trị mới có thuộc miền giá trị tương ứng của thuộc tính mà vừa bị sửa hay không

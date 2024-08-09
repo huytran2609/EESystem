@@ -1,0 +1,2 @@
+[16:10 ---> 16:20]
+có nghĩa là chúng ta không thể có phụ thuộc vào bộ phận và chúng ta có các cái phụ thuộc hàm như sau

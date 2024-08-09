@@ -1,0 +1,2 @@
+[25:30 ---> 25:40]
+có giá trị khóa ngoài khác luôn và đều tham chiếu đến các cái bộ đã tồn tại ở trong quan hệ công dân

@@ -1,0 +1,2 @@
+[17:50 ---> 18:00]
+một thực thể có kiểu A ở phía 1 này có thể liên kết với nhiều thực thể của kiểu B nhưng

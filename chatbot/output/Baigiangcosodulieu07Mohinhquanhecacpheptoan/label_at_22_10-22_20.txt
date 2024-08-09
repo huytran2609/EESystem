@@ -1,0 +1,2 @@
+[22:10 ---> 22:20]
+Hà duy nhất so với phép nối mà chúng ta đã định nghĩa đó là phép nối ngoài trái giữ lại tất cả các bộ

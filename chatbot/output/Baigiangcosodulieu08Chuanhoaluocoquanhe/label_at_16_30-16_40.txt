@@ -1,0 +1,2 @@
+[16:30 ---> 16:40]
+thực hành tiếp theo là mã đơn vị Xác định hàm tên đơn vị và cuối cùng là phụ thuộc hàng mã dự án xác

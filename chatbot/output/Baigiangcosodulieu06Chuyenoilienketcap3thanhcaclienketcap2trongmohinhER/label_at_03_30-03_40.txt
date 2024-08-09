@@ -1,0 +1,2 @@
+[03:30 ---> 03:40]
+hoặc pháp sư đến đây thì chúng ta đã chuyển đổi sang kiểu liên kết cấp 3 thành 3 kiểu liên kết cấp 2 và cách chuyển đổi

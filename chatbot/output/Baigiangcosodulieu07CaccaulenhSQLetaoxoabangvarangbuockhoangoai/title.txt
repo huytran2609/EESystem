@@ -1,0 +1,1 @@
+Bài giảng cơ sở dữ liệu： 07 - Các câu lệnh SQL để tạo⧸xóa bảng và ràng buộc khóa ngoài

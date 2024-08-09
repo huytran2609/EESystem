@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+hình oval nét đơn có một cái đường nối đường nối này sẽ nối vào thực thể bên trong hình oval là tên thuộc tính

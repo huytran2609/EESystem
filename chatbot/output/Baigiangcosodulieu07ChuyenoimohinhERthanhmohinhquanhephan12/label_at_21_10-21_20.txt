@@ -1,0 +1,2 @@
+[21:10 ---> 21:20]
+tham chiếu đến khóa chính của nhân viên và cái bộ mã nhân viên mã dự án là khóa chính của lược đồ

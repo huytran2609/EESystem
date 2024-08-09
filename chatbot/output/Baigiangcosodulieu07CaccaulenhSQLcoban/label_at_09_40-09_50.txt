@@ -1,0 +1,2 @@
+[09:40 ---> 09:50]
+phải tham chiếu đến một bộ đã tồn tại ở trong quan hệ bị tham chiếu phép sửa sử dụng từ khóa update

@@ -1,0 +1,2 @@
+[13:30 ---> 13:40]
+vật nuôi thì số chứng minh nhân dân của chuồng nuôi là thuộc tính khóa ngoài và chúng ta có ba cái giá trị là

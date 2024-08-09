@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+Giả sử x và y là hai tập thuộc tính của một lược đồ quan hệ r Một phụ thuộc hàm từ X vào

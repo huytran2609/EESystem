@@ -1,0 +1,2 @@
+[05:20 ---> 05:30]
+đầy đủ nên được chuyển đổi tương ứng thành hai lược đồ quan hệ cùng tên hai lược đồ quan hệ này có tất cả các thuộc tính của lớp cha nhân viên

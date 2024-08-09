@@ -1,0 +1,2 @@
+[11:50 ---> 12:00]
+đầu này về 2nf thì đầu tiên chúng ta loại các thuộc tính mà phụ thuộc hàm bộ phận và khóa chính

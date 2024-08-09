@@ -1,0 +1,2 @@
+[09:10 ---> 09:20]
+một lược đồ quan hệ có thể có nhiều chìa khóa và chìa khóa nhưng mà ở trong cái ví dụ này thì lược đồ quan hệ công dân

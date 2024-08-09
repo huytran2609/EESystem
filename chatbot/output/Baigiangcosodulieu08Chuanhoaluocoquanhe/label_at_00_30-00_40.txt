@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+là các dạng chuẩn nếu có lược đồ quan hệ mà không thỏa mãn là một dạng chuẩn nào đó thì nó sẽ có thể được

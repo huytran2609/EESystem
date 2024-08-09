@@ -1,0 +1,1 @@
+Bài giảng cơ sở dữ liệu： 06 - Hai vai trò Giám sát và Bị giám sát có bị ngược nhau hay không？

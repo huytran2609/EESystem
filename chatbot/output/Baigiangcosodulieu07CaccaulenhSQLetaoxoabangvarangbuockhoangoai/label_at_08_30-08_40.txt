@@ -1,0 +1,2 @@
+[08:30 ---> 08:40]
+như vậy Sau khi xóa bảng con và bản địa điểm đơn vị thì chúng ta sẽ xóa tiếp được bảng tham gia

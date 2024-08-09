@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+tất cả các thao tác trên cơ sở dữ liệu người ta thường phân loại mô hình cơ sở dữ liệu theo các mức trừu tượng

@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+như nhau được mô tả bằng tên và các thuộc tính ví dụ như là nhân viên là một kiểu thực thể với

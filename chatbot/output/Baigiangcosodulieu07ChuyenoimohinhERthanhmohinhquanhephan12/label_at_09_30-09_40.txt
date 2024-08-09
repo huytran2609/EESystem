@@ -1,0 +1,2 @@
+[09:30 ---> 09:40]
+kiểu thực thể ARN tham gia ở phía n của gen liên kết r1n này chúng ta đưa khóa chính của lược đồ quan hệ RS

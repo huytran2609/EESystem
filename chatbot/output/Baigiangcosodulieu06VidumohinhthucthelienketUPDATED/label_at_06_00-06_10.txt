@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+liên kết quản lý cho chúng ta biết một nhân viên đang quản lý đơn vị nào và một đơn vị đang có người quản lý là ai

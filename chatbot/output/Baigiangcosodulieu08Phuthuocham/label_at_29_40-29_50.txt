@@ -1,0 +1,2 @@
+[29:40 ---> 29:50]
+thực hiện những bước thứ ba tức là xác định bảo đảm của cái chữ a trên s là phụ thuộc vào số lượng phụ thuộc hàng ở trong

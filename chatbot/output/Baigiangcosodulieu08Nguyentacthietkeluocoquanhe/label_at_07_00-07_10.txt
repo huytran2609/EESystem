@@ -1,0 +1,2 @@
+[07:00 ---> 07:10]
+tự nhiên giữa nhân viên địa điểm và nhân viên dự án dựa trên thuộc tính chung là địa điểm dự án

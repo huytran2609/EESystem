@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+nhân viên tham gia vào quản lý với ít nhất không thể hiện do giá trị min ở đây là 0 và nhiều nhất

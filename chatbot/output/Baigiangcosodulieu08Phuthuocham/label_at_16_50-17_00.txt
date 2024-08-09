@@ -1,0 +1,2 @@
+[16:50 ---> 17:00]
+cả các phụ thuộc hàm có thể xây dựng được từ f và cách tính đầy đủ này thì nó giúp cho chúng ta có thể tìm được bao đóng của tập hợp A M và

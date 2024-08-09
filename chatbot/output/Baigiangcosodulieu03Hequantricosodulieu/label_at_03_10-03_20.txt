@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+nhóm chức năng cuối cùng rất là quan trọng là cung cấp việc truy cập dữ liệu thông qua một cái ngôn ngữ truy vấn

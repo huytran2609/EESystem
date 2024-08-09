@@ -1,0 +1,2 @@
+[10:10 ---> 10:20]
+bỏ A1 ra khỏi tập thuộc tính và chúng ta tính bao đóng của

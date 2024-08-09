@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+cách xóa ở dòng 1 vi phạm toàn vẹn tham chiếu mã đơn vị dv3 bị tham chiếu từ bảng dự án cho nên không

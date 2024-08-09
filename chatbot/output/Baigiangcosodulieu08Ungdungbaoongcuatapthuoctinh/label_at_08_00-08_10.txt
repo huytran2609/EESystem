@@ -1,0 +1,2 @@
+[08:00 ---> 08:10]
+đặt thuộc tính A2 A6 này có là khóa hay không thì chúng ta sẽ thử bỏ A2

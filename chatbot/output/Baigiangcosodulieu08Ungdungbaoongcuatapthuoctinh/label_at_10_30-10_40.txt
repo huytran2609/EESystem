@@ -1,0 +1,2 @@
+[10:30 ---> 10:40]
+tập 5 của thuộc tính này thì vẫn là tất cả các thuộc tính của lược đồ quan hệ r do đó tập hợp tính a

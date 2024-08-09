@@ -1,0 +1,2 @@
+[03:50 ---> 04:00]
+21.1 vân vân thì là vòng lặp phía trong và kết thúc thuật toán thì chúng ta cũng có cái kết quả cuối cùng

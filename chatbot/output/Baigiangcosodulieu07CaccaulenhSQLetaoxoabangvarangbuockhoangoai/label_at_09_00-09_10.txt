@@ -1,0 +1,2 @@
+[09:00 ---> 09:10]
+từ nhân viên đến đơn vị và ngược lại chúng ta lại có tham chiếu có ngoài khóa chính từ đơn vị cho đến nhân viên trong trường hợp này

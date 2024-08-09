@@ -1,0 +1,2 @@
+[12:20 ---> 12:30]
+hai kiểu thực thể là nhân viên và đơn vị tham gia vào kiểu liên kết làm việc thì trong trường hợp này ta sẽ gọi những

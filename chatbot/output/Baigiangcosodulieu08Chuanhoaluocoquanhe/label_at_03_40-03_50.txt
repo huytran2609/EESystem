@@ -1,0 +1,2 @@
+[03:40 ---> 03:50]
+mối quan hệ thứ hai chúng ta có cái nhóm thuộc tính lặp là tên nhân viên và số giờ vì ở đây chúng ta xét là ở bộ thứ nhất

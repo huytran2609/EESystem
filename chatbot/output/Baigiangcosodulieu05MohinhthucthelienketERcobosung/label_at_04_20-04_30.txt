@@ -1,0 +1,2 @@
+[04:20 ---> 04:30]
+thuộc tính có giá trị mà có thể tính toán được thông qua giá trị của một hoặc nhiều thuộc tính khác

@@ -1,0 +1,2 @@
+[14:50 ---> 15:00]
+tính không khóa nào của R phụ thuộc hàm bắc cầu và khóa chính Giả sử R là một lược đồ quan hệ

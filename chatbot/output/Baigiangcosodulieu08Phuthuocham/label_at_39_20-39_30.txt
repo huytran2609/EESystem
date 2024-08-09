@@ -1,0 +1,2 @@
+[39:20 ---> 39:30]
+ở bên trái của phụ thuộc hàng có dạng là x Xác định hàm là a Thế thì với mỗi một lần lặp ở

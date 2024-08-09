@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+Xin chào các bạn trong video này chúng ta sẽ trao đổi với cách lựa chọn các kiểu thực thể và các kiểu liên kết khi mà chúng ta phải thiết kế các lược đồ

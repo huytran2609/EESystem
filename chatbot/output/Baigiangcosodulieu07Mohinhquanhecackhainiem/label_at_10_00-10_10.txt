@@ -1,0 +1,2 @@
+[10:00 ---> 10:10]
+Hà được phát biểu như sau giả sử T1 là một bộ bất kỳ của trạng thái quan hệ R1 nhỏ của R1

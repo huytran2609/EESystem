@@ -1,0 +1,2 @@
+[01:20 ---> 01:30]
+danh sách bao gồm tên thuộc tính và kiểu dữ liệu tương ứng của thuộc tính đó chúng ta có tên là kiểu vacha

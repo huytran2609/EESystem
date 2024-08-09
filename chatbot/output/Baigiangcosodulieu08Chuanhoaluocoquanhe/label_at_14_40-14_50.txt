@@ -1,0 +1,2 @@
+[14:40 ---> 14:50]
+gì đó chúng ta định nghĩa một lược đồ quan hệ R là ở dạng chuẩn 3 nếu như R là 2 nf và không có

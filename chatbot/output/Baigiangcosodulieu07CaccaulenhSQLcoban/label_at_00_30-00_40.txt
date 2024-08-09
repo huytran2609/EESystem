@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+dự án cũng có bốn thuộc tính với khóa chính là mã dự án thuộc tính mã đơn vị của dự án là khóa ngoài Tham chiếu đến khóa chính

@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+phá trinh và các thuộc tính mã nhân viên số giờ chính là nhóm thuộc tính là để chuẩn hóa

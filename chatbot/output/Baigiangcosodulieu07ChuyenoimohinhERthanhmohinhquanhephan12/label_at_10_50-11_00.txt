@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+làm khóa ngoài Tham chiếu đến đơn vị và cái khóa ngoài này nó chỉ ra là nhân viên đó Đang làm việc cho đơn vị nào chúng ta sẽ có cái lược đồ quan hệ

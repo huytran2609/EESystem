@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+đây là danh sách các kiểu thực thể và các kiểu liên kết ở trong ba ví dụ trên chúng ta dễ thấy là tên của các

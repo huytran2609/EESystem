@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+công ty được tổ chức thành các đơn vị mỗi đơn vị có một tên duy nhất và một mã số duy nhất đồng thời có một nhân viên quản lý đơn vị

@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+tại bước này chúng ta tạm đưa cái địa điểm vào trong lược đồ nhưng mà khi thuộc tính giá trị này sẽ được xử lý

@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+do đó là một cái phụ thuộc hàng nó không thể được phát hiện một cách tự động từ các trạng thái của một lược đồ quan hệ mà là bắt buộc phải xác

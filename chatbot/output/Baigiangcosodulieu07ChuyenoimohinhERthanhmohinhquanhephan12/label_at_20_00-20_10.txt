@@ -1,0 +1,2 @@
+[20:00 ---> 20:10]
+đồng thời là mã đơn vị sẽ là hướng ngoài của lược đồ mới địa điểm đơn vị tham chiếu đến lược

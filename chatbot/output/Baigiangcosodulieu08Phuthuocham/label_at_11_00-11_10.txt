@@ -1,0 +1,2 @@
+[11:00 ---> 11:10]
+biểu thức số 3 và số 6 thì chúng ta suy ra là T1 và T2 bằng nhau trên iz bởi vì là 3

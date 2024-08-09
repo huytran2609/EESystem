@@ -1,0 +1,2 @@
+[23:10 ---> 23:20]
+R1 trên lược đồ quan hệ công dân hoặc phải là null chúng

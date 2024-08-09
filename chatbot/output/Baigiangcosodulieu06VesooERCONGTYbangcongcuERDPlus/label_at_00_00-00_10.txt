@@ -1,0 +1,2 @@
+[00:00 ---> 00:10]
+Vẽ sơ đồ các mô hình thực thể liên kết gọi tắt là mô hình ER trên máy tính là công việc khá tốn thời gian nếu không sử dụng

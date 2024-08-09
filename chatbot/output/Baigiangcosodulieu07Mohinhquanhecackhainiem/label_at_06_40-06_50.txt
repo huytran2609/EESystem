@@ -1,0 +1,2 @@
+[06:40 ---> 06:50]
+khác nhau trong một trạng thái r nhỏ bất kỳ mà lại có cùng giá trị trên cái tập thuộc tính este đó

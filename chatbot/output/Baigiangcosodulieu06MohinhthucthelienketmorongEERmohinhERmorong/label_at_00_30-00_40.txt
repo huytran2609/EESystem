@@ -1,0 +1,2 @@
+[00:30 ---> 00:40]
+vì vậy người thiết kế cơ sở dữ liệu cần phải sử dụng thêm các khái niệm mới do đó Mô hình r được mở rộng với các khái niệm mới

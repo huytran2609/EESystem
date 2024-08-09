@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+trong một số bài toán ta cần Biểu diễn một tập thực thể từ các kiểu thực thể khác nhau

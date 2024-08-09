@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+khi sử dụng các câu lệnh này thì chúng ta cần có một số các cái lưu ý như sau lưu ý thứ nhất là mệnh đề if

@@ -1,0 +1,2 @@
+[06:10 ---> 06:20]
+cơ sở dữ liệu thì chúng ta chúng ta có cái tính chất thứ ba là một cơ sở dữ liệu là một tập hợp dữ liệu liên kết với

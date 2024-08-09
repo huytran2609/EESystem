@@ -1,0 +1,2 @@
+[03:50 ---> 04:00]
+nhập dữ liệu ban đầu cho cơ sở dữ liệu chúng ta sử dụng các lệnh Insert ở dòng từ 1 cho đến 5 và

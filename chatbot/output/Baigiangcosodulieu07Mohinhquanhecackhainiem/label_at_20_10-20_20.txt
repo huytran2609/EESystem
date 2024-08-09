@@ -1,0 +1,2 @@
+[20:10 ---> 20:20]
+sao cho mỗi gen này thì là một trạng thái của lược đồ quan hệ ri lớn và tất cả

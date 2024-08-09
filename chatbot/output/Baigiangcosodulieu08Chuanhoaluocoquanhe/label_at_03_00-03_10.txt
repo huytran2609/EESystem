@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+nhận giá trị đơn như vậy thì lại chuyển một không cho phép

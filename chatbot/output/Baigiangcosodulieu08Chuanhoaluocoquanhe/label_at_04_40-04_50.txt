@@ -1,0 +1,2 @@
+[04:40 ---> 04:50]
+Sau đó chúng ta tạo một lược đồ quan hệ mới đặt tên là S với thuộc tính là k và A

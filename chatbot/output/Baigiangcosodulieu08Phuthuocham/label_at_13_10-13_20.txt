@@ -1,0 +1,2 @@
+[13:10 ---> 13:20]
+cách xác định hàm Z Giả sử là ta có x Xác định hàm y z tức là chúng ta có vế trái thì do

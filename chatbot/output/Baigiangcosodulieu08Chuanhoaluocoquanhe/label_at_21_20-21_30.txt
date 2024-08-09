@@ -1,0 +1,2 @@
+[21:20 ---> 21:30]
+A4 A3 A5 A6 Sau đó chúng ta tạo quan hệ mới S1 gồm hai thuộc tính là a 4 và a2 với a

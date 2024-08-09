@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+ta sẽ sử dụng các thuật ngữ bảng để thay cho quan hệ cột thay cho thuộc tính và hàng thay cho bộ

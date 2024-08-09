@@ -1,0 +1,2 @@
+[03:20 ---> 03:30]
+Đây là một ví dụ về chuyên biệt hóa được thể hiện trên biểu đồ ER nhân viên là một kiểu thực thể có thuộc tính khóa là mã

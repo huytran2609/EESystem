@@ -1,0 +1,2 @@
+[21:10 ---> 21:20]
+phép nối ngoài đầy đủ chính là hợp của phép nối ngoài trái và phải do đó phép nối ngoài đầy đủ cho chúng ta biết được các đơn vị không

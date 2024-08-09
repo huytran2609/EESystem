@@ -1,0 +1,2 @@
+[00:20 ---> 00:30]
+mô hình quan hệ mô hình AR được xem là khá đầy đủ để xây dựng các lược đồ cơ sở dữ liệu tuy nhiên chưa hoàn toàn đáp ứng được các yêu cầu phức

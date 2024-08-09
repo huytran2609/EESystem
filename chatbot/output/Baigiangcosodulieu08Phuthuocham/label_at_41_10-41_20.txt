@@ -1,0 +1,2 @@
+[41:10 ---> 41:20]
+Sau đó chúng ta tối thiểu hóa các vế phải của các phụ thuộc hàng trong S bằng cách là áp dụng quy tắc

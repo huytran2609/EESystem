@@ -1,0 +1,2 @@
+[01:10 ---> 01:20]
+quan hệ và các phương pháp này thì còn được gọi là phương pháp thiết kế bằng tổng hợp trong khi đó ngược lại thiết kế trên xuống

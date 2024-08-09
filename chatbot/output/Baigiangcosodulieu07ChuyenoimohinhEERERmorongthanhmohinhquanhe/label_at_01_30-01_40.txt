@@ -1,0 +1,2 @@
+[01:30 ---> 01:40]
+cũng chính là khóa chính của C đối với mỗi lớp con si thì chúng ta tạo một lược đồ quan hệ ai

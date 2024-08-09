@@ -1,0 +1,2 @@
+[26:10 ---> 26:20]
+cơ sở dữ liệu db1 này là thỏa mãn tất cả các ràng buộc toàn vẹn thực thể và ràng buộc toàn vẹn tham chiếu

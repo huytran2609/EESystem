@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+sơ đồ mới có tên là công ty và chúng ta nhấn vào công ty để bắt đầu vẽ trước hết chúng ta vẽ các kiểu thực thể

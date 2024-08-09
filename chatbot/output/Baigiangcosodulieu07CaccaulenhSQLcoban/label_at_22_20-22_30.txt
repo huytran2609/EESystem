@@ -1,0 +1,2 @@
+[22:20 ---> 22:30]
+với mệnh đề là having cao sao lớn hơn 1 SQL hỗ trợ các hàng nhóm cao

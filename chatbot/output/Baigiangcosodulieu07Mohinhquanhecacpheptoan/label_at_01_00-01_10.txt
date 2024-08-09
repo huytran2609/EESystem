@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+dự án thì chính là khóa ngoài Tham chiếu đến khóa chính mã đơn vị của lược đồ đơn vị

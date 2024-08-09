@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+mã đơn vị của dự án sang mã đơn vị của đơn vị bảng đơn vị

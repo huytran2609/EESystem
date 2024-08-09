@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+Tuy nhiên hầu hết các ví dụ này đều thực hiện được ở trong máy Square các lệnh Đặc trưng cho máy SQL sẽ được chỉ ra cụ thể ở trong các ví dụ đó

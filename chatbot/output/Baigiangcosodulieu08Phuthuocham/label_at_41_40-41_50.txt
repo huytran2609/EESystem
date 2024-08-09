@@ -1,0 +1,2 @@
+[41:40 ---> 41:50]
+tiếp theo trong 5 phụ thuộc hàng này thì chỉ có một phụ thuộc hàm là CD Xác định hàm e là có vế trái có hai thuộc tính chúng ta sẽ

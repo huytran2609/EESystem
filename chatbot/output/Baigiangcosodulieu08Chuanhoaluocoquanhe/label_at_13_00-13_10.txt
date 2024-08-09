@@ -1,0 +1,2 @@
+[13:00 ---> 13:10]
+nhà trong đó mãi dự án là khóa chính và cái lược đồ quan hệ N2 nó thể hiện phụ thuộc hàng

@@ -1,0 +1,2 @@
+[35:40 ---> 35:50]
+nf là tương đương với nhau thế thì nếu như chúng ta mô tả cái sự tương đương của phụ thuộc hàm này ở trên đồ thị

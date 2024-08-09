@@ -1,0 +1,2 @@
+[06:00 ---> 06:10]
+chúng ta xác định các đặc điểm chung của một số kiểu thực thể đã tồn tại E1 E2 vân vân en và tổng quát hóa

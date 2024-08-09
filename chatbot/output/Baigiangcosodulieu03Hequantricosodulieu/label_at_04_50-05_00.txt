@@ -1,0 +1,2 @@
+[04:50 ---> 05:00]
+tiếp theo là hệ quản trị cơ sở dữ liệu sẽ giúp cho cái tính độc lập của chương trình và dữ liệu tăng lên rất nhiều

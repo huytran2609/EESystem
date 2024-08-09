@@ -1,0 +1,2 @@
+[13:00 ---> 13:10]
+trong các ví dụ trước cần trạng thái quan hệ R2 của lược đồ quan hệ vật nuôi có ba bộ

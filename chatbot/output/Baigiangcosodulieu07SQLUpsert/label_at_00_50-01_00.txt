@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+để thuận tiện trong lập trình chuẩn ăn csql đã bắt đầu hỗ trợ áp suất từ năm 2003 và mở rộng tính năng cho áp suất vào năm 2008

@@ -1,0 +1,2 @@
+[04:20 ---> 04:30]
+Gọi S là một tập phụ thuộc hàm trên lược đồ quan hệ R và 1 phút từ hàm X

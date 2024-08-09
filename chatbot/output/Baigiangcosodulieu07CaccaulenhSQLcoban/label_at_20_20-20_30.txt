@@ -1,0 +1,2 @@
+[20:20 ---> 20:30]
+mã đơn vị của dự án cho kết quả là một bảng gồm có bốn hàng và 8 cột kết quả này cho phép chúng ta xác định các đơn vị

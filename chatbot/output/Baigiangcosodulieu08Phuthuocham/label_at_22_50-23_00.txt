@@ -1,0 +1,2 @@
+[22:50 ---> 23:00]
+bao đóng của mã nhân viên bao gồm mã nhân viên và họ tên thì ta có thể hình dung được là mỗi một đối với mỗi một thuộc tính thì

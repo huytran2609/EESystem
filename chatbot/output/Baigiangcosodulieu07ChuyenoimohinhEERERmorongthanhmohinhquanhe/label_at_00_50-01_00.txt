@@ -1,0 +1,2 @@
+[00:50 ---> 01:00]
+chú thích ký hiệu C là lớp tra và C có m lớp con được ký hiệu là

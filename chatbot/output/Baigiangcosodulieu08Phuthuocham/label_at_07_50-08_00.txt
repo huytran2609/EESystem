@@ -1,0 +1,2 @@
+[07:50 ---> 08:00]
+nếu x Xác định hàm y và x Xác định hàm Z thì X sẽ xác định hàm y z quy tắc cuối cùng là quy tắc Tự Bắc Cầu

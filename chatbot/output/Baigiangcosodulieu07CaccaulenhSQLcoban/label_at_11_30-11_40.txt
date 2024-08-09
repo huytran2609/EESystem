@@ -1,0 +1,2 @@
+[11:30 ---> 11:40]
+chúng ta có thể xem thông báo chi tiết ở dòng 3 các câu lệnh ở dòng 5 và dòng 8 thực hiện thành công

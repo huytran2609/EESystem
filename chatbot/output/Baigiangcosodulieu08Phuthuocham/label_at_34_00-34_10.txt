@@ -1,0 +1,2 @@
+[34:00 ---> 34:10]
+hình a và e và lưu ý rằng là đây là hai phụ thuộc hàm trong e cho nên chúng ta sẽ tính cái báo đóng này

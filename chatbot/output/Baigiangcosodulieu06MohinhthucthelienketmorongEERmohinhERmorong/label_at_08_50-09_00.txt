@@ -1,0 +1,2 @@
+[08:50 ---> 09:00]
+Nếu tất cả các lớp con của một chuyên biệt hóa có thể xác định được bằng điều kiện trên cùng một số thuộc tính của lớp Cha

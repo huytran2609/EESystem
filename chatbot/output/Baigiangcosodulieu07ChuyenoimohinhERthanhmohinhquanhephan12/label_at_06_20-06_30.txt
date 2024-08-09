@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+và đưa tất cả các thuộc tính đơn vào thành phần đơn của các thuộc tính phức hợp của R vào làm các cách thuộc tính của e thì

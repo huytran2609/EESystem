@@ -1,0 +1,2 @@
+[00:10 ---> 00:20]
+các giả sử F là một tập phụ thuộc hàm trên lược đồ quan hệ r có n thuộc tính A1 a

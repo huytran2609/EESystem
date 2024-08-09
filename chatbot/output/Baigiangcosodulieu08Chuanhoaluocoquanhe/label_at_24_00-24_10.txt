@@ -1,0 +1,2 @@
+[24:00 ---> 24:10]
+chỉ nhận giá trị đơn tiếp theo là định nghĩa tổng quát của dạng chuẩn 2 một lược đồ quan hệ R là ở dạng chuẩn 2

@@ -1,0 +1,2 @@
+[08:40 ---> 08:50]
+4 để khôi phục cơ sở dữ liệu về lại trạng thái ban đầu phép toán tiếp theo là phép sửa

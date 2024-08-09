@@ -1,0 +1,2 @@
+[05:00 ---> 05:10]
+thì thắp sáng này được chấp nhận là vì nó không vi phạm cái ràng buộc tham chiếu Tức là ở trong cái quan hệ dự án thì không có

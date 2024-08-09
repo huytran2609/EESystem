@@ -1,0 +1,2 @@
+[15:00 ---> 15:10]
+tham chiếu đến chính trị cái lược đồ quan hệ nhân viên đó và kết thúc tính này thì sẽ được nhận giá trị null nếu như mà nhân viên không bị ai

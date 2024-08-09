@@ -1,0 +1,2 @@
+[06:50 ---> 07:00]
+để xác định một nhân viên thuộc lớp con nào trong 6 lớp con như mô tả trên hình vẽ

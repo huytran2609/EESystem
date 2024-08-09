@@ -1,0 +1,2 @@
+[20:50 ---> 21:00]
+tham chiếu từ khóa ngoài đến khóa chính Ví dụ như là cái liên kết tham gia thì chúng ta có mã dự án là khóa ngoài

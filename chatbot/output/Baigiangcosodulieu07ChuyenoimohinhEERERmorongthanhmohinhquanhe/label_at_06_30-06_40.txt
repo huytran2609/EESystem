@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+Đây là một ví dụ về chuyển đổi theo cách 8C chúng ta tạo một lược đồ quan hệ nhân viên có

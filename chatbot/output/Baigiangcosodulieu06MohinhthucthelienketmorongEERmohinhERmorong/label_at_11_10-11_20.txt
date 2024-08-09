@@ -1,0 +1,2 @@
+[11:10 ---> 11:20]
+như vậy được gọi là lớp con của Kiều hợp Union hay kiểu phân loại các đơn vị

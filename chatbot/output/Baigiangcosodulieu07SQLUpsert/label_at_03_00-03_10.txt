@@ -1,0 +1,2 @@
+[03:00 ---> 03:10]
+vòng 14 khi đó câu lệnh chèn không bị báo lỗi vi phạm một khóa và câu lệnh chèn được bỏ qua tương ứng với hành động

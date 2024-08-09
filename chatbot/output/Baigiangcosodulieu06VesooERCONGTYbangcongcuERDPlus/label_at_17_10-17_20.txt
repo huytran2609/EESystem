@@ -1,0 +1,2 @@
+[17:10 ---> 17:20]
+để đặt tên cho các vai trò giám sát có hai vai trò là giám sát ở phía entity 1

@@ -1,0 +1,2 @@
+[06:20 ---> 06:30]
+do tập thuộc tính của các lớp con là khác nhau cho nên cách chuyển đổi này thường sinh ra nhiều giá trị nôn trong các trạng thái quan hệ của R

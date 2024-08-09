@@ -1,0 +1,2 @@
+[06:30 ---> 06:40]
+trường hợp thứ hai Khi chúng ta sửa giá trị khóa chính thì cái việc này nó tương đương với việc là chúng ta xóa đi bộ cũ và trả lời bộ mới và

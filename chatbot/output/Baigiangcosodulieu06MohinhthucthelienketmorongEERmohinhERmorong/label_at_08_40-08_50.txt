@@ -1,0 +1,2 @@
+[08:40 ---> 08:50]
+sẽ là thành viên của một lớp con bằng một điều kiện trên một số thuộc tính của lớp cha thì chúng ta có các lớp còn xác định bằng điều kiện

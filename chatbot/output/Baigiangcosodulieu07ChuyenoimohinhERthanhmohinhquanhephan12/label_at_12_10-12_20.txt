@@ -1,0 +1,2 @@
+[12:10 ---> 12:20]
+có ít nhất là 4 nhân viên và nhiều nhất là n nhân viên thế thì chúng ta sẽ quan sát trên cái bảng Ví dụ ở bên tay phải này bảng này

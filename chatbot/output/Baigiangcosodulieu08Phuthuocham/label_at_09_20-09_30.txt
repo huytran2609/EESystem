@@ -1,0 +1,2 @@
+[09:20 ---> 09:30]
+quy tắc 2 phát biểu là đối với một phụ thuộc hàm X Xác định hàm y thì chúng ta có thể

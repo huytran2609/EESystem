@@ -1,0 +1,2 @@
+[39:00 ---> 39:10]
+3 cho đến 9 chúng ta tìm cách tối thiểu hóa với trái của tất cả các phụ thuộc hàng thì chúng ta thực hiện hai vòng kho ở trong đó

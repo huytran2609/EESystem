@@ -1,0 +1,2 @@
+[02:20 ---> 02:30]
+chúng ta cần lưu ý là các lệnh Excel đều kết thúc bằng dấu chấm phẩy như vậy Ở đây chúng ta có hai lệnh tạo bảng và một lệnh

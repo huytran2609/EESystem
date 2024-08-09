@@ -1,0 +1,2 @@
+[01:00 ---> 01:10]
+câu lệnh dùng để thực hiện áp suất trong galaxy SQL là must các hệ quản trị cơ sở dữ liệu thương mại như oracle Microsoft Excel server

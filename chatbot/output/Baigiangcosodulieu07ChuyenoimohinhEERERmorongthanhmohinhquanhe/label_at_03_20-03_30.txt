@@ -1,0 +1,2 @@
+[03:20 ---> 03:30]
+nhân viên thì chúng ta tạo một lược đồ quan hệ bao gồm tất cả các thuộc tính của lớp con và thuộc tính khóa mã nhân viên của lớp Cha

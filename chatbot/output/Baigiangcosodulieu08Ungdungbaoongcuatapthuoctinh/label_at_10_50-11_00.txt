@@ -1,0 +1,2 @@
+[10:50 ---> 11:00]
+tương tự như vậy chúng ta lập cho đến bước thứ tư thì chúng ta đã bỏ đi được 3 thuộc tính là

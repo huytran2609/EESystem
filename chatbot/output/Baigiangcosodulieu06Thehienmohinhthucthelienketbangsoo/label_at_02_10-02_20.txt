@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+Diễn thì được thể hiện bằng hình oval với nét đứt tiếp theo là các liên kết và ràng buộc

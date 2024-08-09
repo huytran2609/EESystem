@@ -1,0 +1,2 @@
+[32:00 ---> 32:10]
+ta tính bao đóng của vế trái của cây phụ thuộc hàng đó nhưng mà lưu ý là nếu phụ thuộc hàm này là nằm

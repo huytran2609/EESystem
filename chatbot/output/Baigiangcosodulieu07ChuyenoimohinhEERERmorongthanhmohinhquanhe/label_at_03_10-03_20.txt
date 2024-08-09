@@ -1,0 +1,2 @@
+[03:10 ---> 03:20]
+thuộc tính mã nhân viên là khóa chính của lược đồ này với mỗi lớp con của

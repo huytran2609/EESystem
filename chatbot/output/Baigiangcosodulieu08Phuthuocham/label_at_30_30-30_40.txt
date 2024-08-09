@@ -1,0 +1,2 @@
+[30:30 ---> 30:40]
+có thể được gọi là dư thừa trong hết hay không Nếu như chúng ta làm được điều đó thì Thời gian thực hiện thuật toán 2

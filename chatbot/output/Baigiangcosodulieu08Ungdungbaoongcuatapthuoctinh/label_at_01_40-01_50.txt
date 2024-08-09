@@ -1,0 +1,2 @@
+[01:40 ---> 01:50]
+A4 Xác định hàm A2 và phụ thuộc hàng thứ ba là a 6 xác định hàm A1 chương trình cài đặt thuật toán

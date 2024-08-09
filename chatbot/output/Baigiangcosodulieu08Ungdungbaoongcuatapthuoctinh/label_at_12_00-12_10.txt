@@ -1,0 +1,2 @@
+[12:00 ---> 12:10]
+loa lại chứa toàn bộ các thuộc tính của R do đó A4 A6 là một chìa khóa cuối cùng thì chúng ta thử bỏ

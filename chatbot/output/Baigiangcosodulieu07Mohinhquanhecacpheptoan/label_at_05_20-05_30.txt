@@ -1,0 +1,2 @@
+[05:20 ---> 05:30]
+Nếu chúng ta xóa cái bộ có giá trị là d14 quản trị là 18 và ngày tháng này từ quan hệ

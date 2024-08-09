@@ -1,0 +1,2 @@
+[02:10 ---> 02:20]
+ở đây chúng ta hiểu Liên kết là khái niệm đã có ở trong mô hình R và kiểu liên kết lớp tra lớp con có tỉ số lực lượng là 1

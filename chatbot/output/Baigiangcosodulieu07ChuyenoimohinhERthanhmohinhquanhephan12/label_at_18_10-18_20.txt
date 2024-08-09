@@ -1,0 +1,2 @@
+[18:10 ---> 18:20]
+dự án là chúng ta đưa số giờ này vào làm một thuộc tính của lược đồ quan hệ mới là tham gia

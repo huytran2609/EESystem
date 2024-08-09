@@ -1,0 +1,2 @@
+[16:30 ---> 16:40]
+tham chiếu đến khóa chính của đơn vị ở bước Thứ năm chúng ta sẽ chuyển đổi các liên kết

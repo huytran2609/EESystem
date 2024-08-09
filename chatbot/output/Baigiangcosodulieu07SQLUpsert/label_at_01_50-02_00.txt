@@ -1,0 +1,2 @@
+[01:50 ---> 02:00]
+chưa tồn tại thì chèn bản ghi mới vào bảng ghi đã tồn tại thì bỏ qua lỗi hoặc thực hiện phép toán cập nhật

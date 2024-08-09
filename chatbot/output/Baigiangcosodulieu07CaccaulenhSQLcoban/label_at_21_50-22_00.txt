@@ -1,0 +1,2 @@
+[21:50 ---> 22:00]
+tiễn việc đếm số dự án tại mỗi địa điểm với hàng nhóm cao và mệnh đề group by địa điểm kết quả của lệnh

@@ -1,0 +1,2 @@
+[34:10 ---> 34:20]
+ở dưới phụ thuộc hàm f x được sử dụng là hai cái màu chúng ta phân biệt phụ

@@ -1,0 +1,2 @@
+[19:20 ---> 19:30]
+tra mã đơn vị bằng với mã đơn vị lấy từ phía dự án và tương tự các cái bộ này

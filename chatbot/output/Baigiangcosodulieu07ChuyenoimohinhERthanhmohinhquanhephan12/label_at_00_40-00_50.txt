@@ -1,0 +1,2 @@
+[00:40 ---> 00:50]
+đối với các thuộc tính phức hợp thì chúng ta chỉ lấy các thành phần đơn đưa vào làm thuộc tính của ADN và chúng ta sẽ chọn một trong các thuộc tính khóa của
