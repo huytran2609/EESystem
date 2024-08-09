@@ -67,17 +67,17 @@ Một số quy tắc khi trả lời câu hỏi:
 
 # Thiết lập môi trường
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["OPENAI_ORGANIZATION"] = "org-p9E0qGeA5PiQUQIxYcTs7k2N"
-os.environ["PINECONE_API_KEY"] = "f633e005-6288-41ea-91d2-8c81b6a6d81b"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_ORGANIZATION"] = ""
+os.environ["PINECONE_API_KEY"] = ""
 
-pc = Pinecone(api_key="f633e005-6288-41ea-91d2-8c81b6a6d81b")
+pc = Pinecone(api_key="")
 # Khởi tạo Pinecone và các thành phần Langchain
 index = pc.Index("vectordb")
 
 llm = OpenAI()
 chat = ChatOpenAI(temperature=0.1)
-embeddings = OpenAIEmbeddings(model="text-embedding-3-small", openai_api_key="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")
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small", openai_api_key="")
 
 @app.route('/')
 def home():
